@@ -1,22 +1,7 @@
-import requests
-from bs4 import BeautifulSoup
-
-
-def get_all(urls, citations, headers):
-    for url in urls:
-        name = url[url.rfind('/') + 1:]
-        setattr(citations, name, get(url, headers))
-
-        # DEBUG
-        print("EN LA PAGINA DE: " + name)
-        print_all(getattr(citations, name))
-
-
-def get(url, headers):
+def get_all(url, soup):
     try:
+        # DEBUG
         print('Crawled citations from: ' + url)
-        source = requests.get(url, headers).text
-        soup = BeautifulSoup(source, "html5lib")
 
         citations = soup.find_all("sup", {"class": "reference"})
         citation_array = []
@@ -30,5 +15,6 @@ def get(url, headers):
 
 
 def print_all(citations):
+    print("CANTIDAD DE CITACIONES: " + str(len(citations)))
     for citation in citations:
         print(citation)
