@@ -17,6 +17,18 @@ def get_all(url, soup):
         print(e)
 
 
+def get_all_span_text(references):
+    try:
+        span_array = []
+        for reference in references:
+            span = reference.find("span", {"class": "reference-text"})
+            span_array.append(span)
+
+        return span_array
+    except Exception as e:
+        print(e)
+
+
 def print_all(references):
     print("CANTIDAD DE REFERENCIAS: " + str(len(references)))
     for reference in references:
