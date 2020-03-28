@@ -14,6 +14,19 @@ def get_all(url, soup):
         print(e)
 
 
+def get_all_href(citations):
+    try:
+        href_array = []
+        for citation in citations:
+            href = citation.find("a", href=True)
+            value = href['href'][1:]
+            href_array.append(value)
+
+        return href_array
+    except Exception as e:
+        print(e)
+
+
 def print_all(citations):
     print("CANTIDAD DE CITACIONES: " + str(len(citations)))
     for citation in citations:
