@@ -1,11 +1,11 @@
 import datetime
 
 import citation
-import configuration
-import reference
 import requests
 from bs4 import BeautifulSoup
 
+import src.HTMLCrawler.configuration as configuration
+import src.HTMLCrawler.reference as reference
 import src.common.util as util
 from src.common.object import Object
 from src.model.HTMLPage import HTMLPage

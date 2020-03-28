@@ -1,6 +1,7 @@
 import datetime
 import time
 
+
 def get_name_from_url(url):
     return url[url.rfind('/') + 1:]
 
