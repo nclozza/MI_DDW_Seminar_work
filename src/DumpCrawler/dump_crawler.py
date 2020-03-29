@@ -1,6 +1,6 @@
 import re
-from DumpCiteBook import DumpCiteBook
-from DumpCiteWeb import DumpCiteWeb
+from src.model.DumpCiteBook import DumpCiteBook
+from src.model.DumpCiteWeb import DumpCiteWeb
 
 CITE_START = "{{cite "
 CITE_END = "}}"
@@ -61,7 +61,7 @@ def remove_string_leftovers(string):
 
 
 try:
-    file = open("./pages/Prague.xml", "r")
+    file = open("./ignore_pages/Prague.xml", "r")
     file_string = file.read()
     references = re.split(CITE_START, file_string, flags=re.IGNORECASE)
 
