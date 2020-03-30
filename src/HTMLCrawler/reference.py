@@ -1,8 +1,5 @@
-def find_all(url, soup):
+def find_all(soup):
     try:
-        # DEBUG
-        print('Crawled references from: ' + url)
-
         references = soup.find_all("ol", {"class": "references"})
         reference_array = []
 

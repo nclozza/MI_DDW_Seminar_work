@@ -2,11 +2,8 @@ import src.HTMLCrawler.reference as reference
 from src.model.HTMLCitation import HTMLCitation
 
 
-def find_all(url, soup, references):
+def find_all(soup, references):
     try:
-        # DEBUG
-        print('Crawled citations from: ' + url)
-
         citations = soup.find_all("sup", {"class": "reference"})
         citation_array = []
 

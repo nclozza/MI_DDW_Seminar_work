@@ -1,5 +1,8 @@
 import datetime
+import json
 import time
+
+import src.common.url_type as url_type
 
 
 def get_name_from_url(url):
@@ -17,3 +20,20 @@ def wait_crawl_delay(initial_time, crawl_delay):
 
     if time_diff < crawl_delay:
         time.sleep((crawl_delay - time_diff) / 1000)
+
+
+def get_urls(value):
+    path = ""
+    url_array = []
+
+    if value == url_type.CITY:
+        path = "../URL/city.json"
+
+    if path != "":
+        with open(path) as f:
+            data = json.load(f)
+
+        for url in data["results"]["bindings"]:
+            url_array.append(url["url"]["value"])
+
+    return url_array

@@ -1,0 +1,314 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "url"
+    ]
+  },
+  "results": {
+    "distinct": false,
+    "ordered": true,
+    "bindings": [
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Acre,_Israel"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Antioch"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ashkelon"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Balanjar"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ctesiphon"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Espoo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Gaza_City"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Haifa"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Hebron"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Independent_city"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Jenin"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Khazaran"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Leptis_Magna"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Lord_Mayor_of_London"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Petra"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Porvoo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ramallah"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Samandar_(city)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sardis"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Segesta"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Selinunte"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sevastopol"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Troy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Turku"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Urban_heat_island"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Vantaa"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/West_Berlin"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Aksu,_Kazakhstan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cebu_City"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Chagai,_Pakistan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mud,_Iran"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Nandgaon,_Maharashtra"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Nandgaon,_Uttar_Pradesh"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Padmavati_Pawaya"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Raman,_Punjab_(India)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Reti,_Pakistan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Siguatepeque"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tamazula_de_Victoria"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Zamboanga_City"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/'Amran"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Aboh"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Akbarabad,_Sarduiyeh"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Akwa_Akpa"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Al-Rastan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Angola_(Book_of_Mormon)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Antigonia_(Syria)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Antigonia_Psaphara"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Arauco,_Chile"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Badi,_Raisen"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bageis"
+        }
+      }
+    ]
+  }
+}
