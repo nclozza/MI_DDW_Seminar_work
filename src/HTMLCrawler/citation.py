@@ -1,4 +1,8 @@
-def get_all(url, soup):
+import src.HTMLCrawler.reference as reference
+from src.model.HTMLCitation import HTMLCitation
+
+
+def find_all(url, soup, references):
     try:
         # DEBUG
         print('Crawled citations from: ' + url)
@@ -7,22 +11,38 @@ def get_all(url, soup):
         citation_array = []
 
         for citation in citations:
-            citation_array.append(citation)
+            obj = HTMLCitation()
+            obj.citation = citation
+            obj.reference = find_reference_by_citation(citation, references)
+            if obj.reference is not None:
+                obj.text = reference.get_text(obj.reference)
+                citation_array.append(obj)
 
         return citation_array
     except Exception as e:
         print(e)
 
 
-def get_all_href(citations):
+def find_reference_by_citation(citation, references):
     try:
-        href_array = []
-        for citation in citations:
-            href = citation.find("a", href=True)
-            value = href['href'][1:]
-            href_array.append(value)
+        for ref in references:
+            reference_id = ref.get('id')
+            href = get_href(citation)
+            if reference_id == href:
+                return ref
 
-        return href_array
+        return None
+    except Exception as e:
+        print(e)
+
+
+def get_href(citation):
+    try:
+        href = citation.find("a", href=True)
+        if href is not None:
+            return href['href'][1:]
+        else:
+            return None
     except Exception as e:
         print(e)
 

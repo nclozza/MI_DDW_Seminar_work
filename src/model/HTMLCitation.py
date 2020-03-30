@@ -1,4 +1,5 @@
 class HTMLCitation:
     def __init__(self):
-        self.citations = []
-        self.href = []
+        self.citation = None
+        self.reference = None
+        self.text = ""

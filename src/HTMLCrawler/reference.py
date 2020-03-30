@@ -1,4 +1,4 @@
-def get_all(url, soup):
+def find_all(url, soup):
     try:
         # DEBUG
         print('Crawled references from: ' + url)
@@ -17,33 +17,25 @@ def get_all(url, soup):
         print(e)
 
 
-def get_all_text(references):
+def get_text(reference):
     try:
-        text_array = []
-        for reference in references:
-            span = reference.find("span", {"class": "reference-text"})
-            text = extract_text_from_span(span)
-            text_array.append(text)
-        return text_array
+        span = reference.find("span", {"class": "reference-text"})
+        text = ""
+        if span is not None:
+            for node in span.contents:
+                if isinstance(node, str):
+                    text += node
+                elif node.name != "style":
+                    text += node.text
+                    if node.name != "a":
+                        href_array = node.find_all("a", href=True)
+                        for href in href_array:
+                            text += " \"" + href['href'] + "\""
+                    else:
+                        text += " \"" + node['href'] + "\""
+        return text
     except Exception as e:
         print(e)
-
-
-def extract_text_from_span(span):
-    text = ""
-    for node in span.contents:
-        if isinstance(node, str):
-            text += node + " | "
-        elif node.name != "style":
-            if node.text != "":
-                text += node.text + " | "
-            if node.name != "a":
-                href_array = node.find_all("a", href=True)
-                for href in href_array:
-                    text += href['href'] + " | "
-            else:
-                text += node['href'] + " | "
-    return text
 
 
 def print_all(references):
