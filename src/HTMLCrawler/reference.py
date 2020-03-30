@@ -17,16 +17,33 @@ def get_all(url, soup):
         print(e)
 
 
-def get_all_span_text(references):
+def get_all_text(references):
     try:
-        span_array = []
+        text_array = []
         for reference in references:
             span = reference.find("span", {"class": "reference-text"})
-            span_array.append(span)
-
-        return span_array
+            text = extract_text_from_span(span)
+            text_array.append(text)
+        return text_array
     except Exception as e:
         print(e)
+
+
+def extract_text_from_span(span):
+    text = ""
+    for node in span.contents:
+        if isinstance(node, str):
+            text += node + " | "
+        elif node.name != "style":
+            if node.text != "":
+                text += node.text + " | "
+            if node.name != "a":
+                href_array = node.find_all("a", href=True)
+                for href in href_array:
+                    text += href['href'] + " | "
+            else:
+                text += node['href'] + " | "
+    return text
 
 
 def print_all(references):

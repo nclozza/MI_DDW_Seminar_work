@@ -11,7 +11,6 @@ from src.common.object import Object
 from src.model.HTMLPage import HTMLPage
 
 
-
 def main(urls, craw_delay, headers):
     pages = Object()
     for url in urls:
@@ -25,7 +24,7 @@ def main(urls, craw_delay, headers):
         getattr(pages, name).citation.href = citation.get_all_href(getattr(pages, name).citation.citations)
 
         getattr(pages, name).reference.references = reference.get_all(url, soup)
-        getattr(pages, name).reference.span_text = reference.get_all_span_text(getattr(pages, name).reference.references)
+        getattr(pages, name).reference.text = reference.get_all_text(getattr(pages, name).reference.references)
 
         util.wait_crawl_delay(initial_time, craw_delay)
 
