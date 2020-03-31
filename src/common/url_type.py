@@ -1,1 +1,2 @@
-CITY = 0
+DEBUG = 0
+CITY = 1

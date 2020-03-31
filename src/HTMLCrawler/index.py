@@ -5,15 +5,17 @@ from bs4 import BeautifulSoup
 
 import src.HTMLCrawler.citation as citation
 import src.HTMLCrawler.configuration as configuration
+import src.HTMLCrawler.content as content
 import src.HTMLCrawler.reference as reference
 import src.common.url_type as url_type
 import src.common.util as util
 from src.common.object import Object
 from src.model.HTMLPage import HTMLPage
 
+pages = Object()
+
 
 def main(urls, craw_delay, headers):
-    pages = Object()
     for url in urls:
         # DEBUG
         print('Crawling: ' + url)
@@ -26,6 +28,7 @@ def main(urls, craw_delay, headers):
 
         references = reference.find_all(soup)
         getattr(pages, name).citations = citation.find_all(soup, references)
+        getattr(pages, name).content = content.extract_text(soup, name)
 
         util.wait_crawl_delay(initial_time, craw_delay)
 

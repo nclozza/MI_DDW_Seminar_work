@@ -26,7 +26,9 @@ def get_urls(value):
     path = ""
     url_array = []
 
-    if value == url_type.CITY:
+    if value == url_type.DEBUG:
+        path = "../URL/debug.json"
+    elif value == url_type.CITY:
         path = "../URL/city.json"
 
     if path != "":
