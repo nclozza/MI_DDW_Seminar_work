@@ -12,10 +12,9 @@ import src.common.util as util
 from src.common.object import Object
 from src.model.HTMLPage import HTMLPage
 
-pages = Object()
-
 
 def main(urls, craw_delay, headers):
+    pages = Object()
     for url in urls:
         # DEBUG
         print('Crawling: ' + url)
@@ -33,5 +32,5 @@ def main(urls, craw_delay, headers):
         util.wait_crawl_delay(initial_time, craw_delay)
 
 
-url_array = util.get_urls(url_type.CITY)
+url_array = util.get_urls(url_type.DEBUG)
 main(url_array, configuration.CRAWL_DELAY, configuration.HEADERS)

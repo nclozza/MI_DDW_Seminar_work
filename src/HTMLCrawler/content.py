@@ -8,10 +8,10 @@ def extract_text(soup, name):
             if elem.name == "p":
                 text += elem.text
             elif len(content) != index + 1:
-                # TODO: Remove [edit] from title
                 next_elem = content[(index + 1)]
                 if next_elem.name == "p":
-                    text += "\n" + elem.text + "\n"
+                    title = elem.find("span", {"class": "mw-headline"})
+                    text += "\n" + title.text + "\n"
 
         return text
     except Exception as e:
