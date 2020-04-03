@@ -1,21 +1,18 @@
-from pprint import pprint
+from src.model.DumpCite import DumpCite
 
 
-class DumpCiteBook:
-    def __init__(self, last1="", first1="", authorlink1="", authormask1="", last2="",
-             first2="", displayauthors="", lastauthoramp="", translatorlast1="",
-             translatorfirst1="", translatorlink1="", translatormask1="", date="",
-             year="", origyear="", chapter="", scriptchapter="", transchapter="",
-             chapterurl="", chapterformat="", editor1last="", editor1first="",
-             editor1link="", editor1mask="", displayeditors="", title="", scripttitle="",
-             transtitle="", url="", urlstatus="", format="", type="", series="",
-             language="", volume="", others="", edition="", location="", publisher="",
-             publicationdate="", page="", pages="", at="", nopp="", arxiv="", asin="",
-             bibcode="", doi="", doibrokendate="", isbn="", issn="", jfm="", jstor="",
-             lccn="", mr="", oclc="", ol="", osti="", pmc="", pmid="", rfc="", ssrn="",
-             zbl="", id="", archiveurl="", archivedate="", accessdate="", via="",
-             registration="", subscription="", laysummary="", laysource="", laydate="",
-             quote="", namelistformat="", mode="", postscript="", ref=""):
+class DumpCiteBook(DumpCite):
+    def __init__(self, last1="", first1="", authorlink1="", authormask1="", last2="", first2="", displayauthors="",
+                 lastauthoramp="", translatorlast1="", translatorfirst1="", translatorlink1="", translatormask1="",
+                 date="", year="", origyear="", chapter="", scriptchapter="", transchapter="", chapterurl="",
+                 chapterformat="", editor1last="", editor1first="", editor1link="", editor1mask="", displayeditors="",
+                 title="", scripttitle="", transtitle="", url="", urlstatus="", format="", type="", series="",
+                 language="", volume="", others="", edition="", location="", publisher="", publicationdate="", page="",
+                 pages="", at="", nopp="", arxiv="", asin="", bibcode="", doi="", doibrokendate="", isbn="", issn="",
+                 jfm="", jstor="", lccn="", mr="", oclc="", ol="", osti="", pmc="", pmid="", rfc="", ssrn="", zbl="",
+                 id="", archiveurl="", archivedate="", accessdate="", via="", registration="", subscription="",
+                 laysummary="", laysource="", laydate="", quote="", namelistformat="", mode="", postscript="", ref=""):
+        self.citetype = "book"
         self.last1 = last1
         self.first1 = first1
         self.authorlink1 = authorlink1
@@ -94,6 +91,3 @@ class DumpCiteBook:
         self.mode = mode
         self.postscript = postscript
         self.ref = ref
-
-    def print(self):
-        pprint(vars(self))

@@ -1,18 +1,15 @@
-from pprint import pprint
+from src.model.DumpCite import DumpCite
 
 
-class DumpCiteWeb:
-    def __init__(self, url="", urlaccess="", title="", last="", first="",
-                 authorlink="", last2="", first2="", authorlink2="", date="",
-                 year="", origyear="", editorlast="", editorfirst="", editorlink="",
-                 editor2last="", editor2first="", editor2link="", department="",
-                 website="", series="", publisher="", agency="", location="", page="",
-                 pages="", at="", language="", scripttitle="", transtitle="", type="",
-                 format="", arxiv="", asin="", bibcode="", doi="", doibrokendate="",
-                 isbn="", issn="", jfm="", jstor="", lccn="", mr="", oclc="", ol="",
-                 osti="", pmc="", pmid="", rfc="", ssrn="", zbl="", id="", accessdate="",
-                 urlstatus="", archiveurl="", archivedate="", via="", quote="", ref="",
-                 postscript=""):
+class DumpCiteWeb(DumpCite):
+    def __init__(self, url="", urlaccess="", title="", last="", first="", authorlink="", last2="", first2="",
+                 authorlink2="", date="", year="", origyear="", editorlast="", editorfirst="", editorlink="",
+                 editor2last="", editor2first="", editor2link="", department="", website="", series="", publisher="",
+                 agency="", location="", page="", pages="", at="", language="", scripttitle="", transtitle="", type="",
+                 format="", arxiv="", asin="", bibcode="", doi="", doibrokendate="", isbn="", issn="", jfm="", jstor="",
+                 lccn="", mr="", oclc="", ol="", osti="", pmc="", pmid="", rfc="", ssrn="", zbl="", id="",
+                 accessdate="", urlstatus="", archiveurl="", archivedate="", via="", quote="", ref="", postscript=""):
+        self.citetype = "web"
         self.url = url
         self.urlaccess = urlaccess
         self.title = title
@@ -73,6 +70,3 @@ class DumpCiteWeb:
         self.quote = quote
         self.ref = ref
         self.postscript = postscript
-
-    def print(self):
-        pprint(vars(self))

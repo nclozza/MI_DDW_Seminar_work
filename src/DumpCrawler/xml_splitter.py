@@ -7,26 +7,33 @@ TITLE_START_TAG = "<title>"
 TITLE_END_TAG = "</title>"
 REDIRECT_START_TAG = "<redirect title="
 
-with open("../../../enwiki-20200201-pages-articles-multistream1.xml-p10p30302") as infile:
+with open("../../../enwiki-20200201-pages-articles-multistream.xml") as infile:
     page_string = ""
     in_page = False
     for line in infile:
-        if(PAGE_START_TAG in line):
+        if PAGE_START_TAG in line:
             in_page = True
 
-        if(in_page):
+        if in_page:
             page_string += line
 
-        if(PAGE_END_TAG in line):
+        if PAGE_END_TAG in line:
             in_page = False
 
-        if(not in_page and len(page_string) > 0):
-            if(REDIRECT_START_TAG not in page_string):
+        if not in_page and len(page_string) > 0:
+            if REDIRECT_START_TAG not in page_string:
                 title = re.search(TITLE_START_TAG + '(.*)' +
                                   TITLE_END_TAG, page_string)
 
                 title = title.group(1).replace("/", "_")
-                with open("pages/" + title + ".xml", "w") as f:
+
+                if len("../../../ignore_pages/" + title + ".xml") >= 255:
+                    f = open("file_name_too_long.txt", "w")
+                    f.write(title)
+                    f.close()
+                    continue
+
+                with open("../../../ignore_pages/" + title + ".xml", "w") as f:
                     f.write(page_string)
                     f.close()
 

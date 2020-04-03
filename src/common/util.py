@@ -39,3 +39,7 @@ def get_urls(value):
             url_array.append(url["url"]["value"])
 
     return url_array
+
+
+def remove_file_extension_from_name(file_name):
+    return file_name[:file_name.rfind(".")]
