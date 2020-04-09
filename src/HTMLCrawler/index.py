@@ -28,9 +28,10 @@ def main(urls, craw_delay, headers):
         references = reference.find_all(soup)
         getattr(pages, name).citations = citation.find_all(soup, references)
         getattr(pages, name).content = content.extract_text(soup, name)
+        content.replace_citations_in_content(getattr(pages, name), name)
 
         util.wait_crawl_delay(initial_time, craw_delay)
 
 
-url_array = util.get_urls(url_type.DEBUG)
+url_array = util.get_available_urls(url_type.DEBUG)
 main(url_array, configuration.CRAWL_DELAY, configuration.HEADERS)

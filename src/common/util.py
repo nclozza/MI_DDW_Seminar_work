@@ -4,7 +4,7 @@ import time
 from os import listdir
 from os.path import isfile, join
 
-import src.common.configuration as url_type
+import src.common.configuration as configuration
 
 
 def get_name_from_url(url):
@@ -28,13 +28,13 @@ def get_urls(value):
     path = ""
     url_array = []
 
-    if value == url_type.DEBUG:
+    if value == configuration.DEBUG:
         path = "../data/dbpedia/debug.json"
-    elif value == url_type.CITY:
+    elif value == configuration.CITY:
         path = "../data/dbpedia/city.json"
-    elif value == url_type.SPORT:
+    elif value == configuration.SPORT:
         path = "../data/dbpedia/sport.json"
-    elif value == url_type.MUSICAL_ARTIST:
+    elif value == configuration.MUSICAL_ARTIST:
         path = "../data/dbpedia/musicalArtist.json"
 
     if path != "":
@@ -45,6 +45,24 @@ def get_urls(value):
             url_array.append(url["url"]["value"])
 
     return url_array
+
+
+def get_available_urls(value):
+    path = ""
+
+    if value == configuration.DEBUG:
+        path = "../data/dumps/available_urls_debug.json"
+    elif value == configuration.CITY:
+        path = "../data/dbpedia/available_urls_city.json"
+    elif value == configuration.SPORT:
+        path = "../data/dbpedia/available_urls_sport.json"
+    elif value == configuration.MUSICAL_ARTIST:
+        path = "../data/dbpedia/available_urls_musicalArtist.json"
+
+    with open(path) as f:
+        data = json.load(f)
+
+    return data["urls"]
 
 
 def get_all_files_from_path(path):
