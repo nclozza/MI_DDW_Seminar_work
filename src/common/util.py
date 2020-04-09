@@ -30,6 +30,10 @@ def get_urls(value):
         path = "../URL/debug.json"
     elif value == url_type.CITY:
         path = "../URL/city.json"
+    elif value == url_type.SPORT:
+        path = "../URL/sport.json"
+    elif value == url_type.MUSICAL_ARTIST:
+        path = "../URL/musicalArtist.json"
 
     if path != "":
         with open(path) as f:
