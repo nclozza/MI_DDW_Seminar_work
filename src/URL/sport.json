@@ -1,0 +1,6014 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "url"
+    ]
+  },
+  "results": {
+    "distinct": false,
+    "ordered": true,
+    "bindings": [
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/BMX"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bobsleigh"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bungee_jumping"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cockfight"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Commerce"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Communications_security"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Computer_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Construction_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Dressage"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Fishing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Freeflying"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Gaelic_football"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Genomics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ice_dancing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Luge"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Modern_pentathlon"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mountain_unicycling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Olympic_weightlifting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Racquetball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rock_climbing_in_the_Peak_District"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Safe_sex"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Safety_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Short_track_speed_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Show_jumping"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ski_jumping"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Snowboarding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sport_of_athletics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sumo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Table_tennis"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tennis"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Theoretical_ecology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Volleyball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Wakeboarding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Water_polo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Water_skiing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Winter_sport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Woodworking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Business_process_modeling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cantus"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Crime_reconstruction"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Facial_(sex_act)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Formula_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Highmarking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/ITHF_table_hockey"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Jai_alai"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Prognostics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/VX_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/World_Darts_Federation"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cricket_in_Nepal"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ajdov\u0161\u010Dina_Airport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Athletics_at_the_Central_American_and_Caribbean_Games"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Body_blading"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cheerleading_in_the_United_Kingdom"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/European_Lacrosse_Federation"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/FSU_Flying_High_Circus"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Gymnastics_in_Azerbaijan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Information_Warfare_Monitor"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Joint_Personnel_Recovery_Agency"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Letterkenny_Munitions_Center"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Bermuda"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Brunei"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Cambodia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Croatia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Denmark"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Estonia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Finland"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_French_Polynesia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Gibraltar"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Greece"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Jamaica"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Laos"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Latvia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Lithuania"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Luxembourg"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Malaysia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Malta"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Paraguay"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Poland"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Rwanda"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Serbia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Singapore"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Slovakia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Slovenia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Swaziland"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Thailand"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Ukraine"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_the_Bailiwick_of_Guernsey"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_the_British_Virgin_Islands"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_the_Czech_Republic"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_the_Philippines"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Schtick_(disc_game)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Simon_Fraser_University_Rowing_Club"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Terrafugia_Transition"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Women's_shinty"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Woodball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Dog_scootering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ice_hockey_in_India"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kho_kho"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Football_in_England"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Industrial_engineering_and_operations_research"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Traffic_psychology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Women's_lacrosse"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Youth_work"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cycle_ball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Fell_running"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Off-roading"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Software_prototyping"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/BMW_F800GT"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/BMW_F800ST"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/BMW_R1200ST"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Honda_CBR1000F"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Knowledge_sharing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Slapboxing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Battery_recycling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_the_Cook_Islands"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/World_Cupp_2011"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Land_windsurfing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Securities_research"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Wakesurfing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Australian_rules_football_in_Japan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Australian_rules_football_in_South_Africa"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Listing_and_approval_use_and_compliance"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mineral_economics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Basque_pelota_at_the_1924_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Basque_pelota_at_the_1968_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Basque_pelota_at_the_1992_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Codeball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Vietnam"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/American_football_at_the_2005_World_Games"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Aquabike_World_Championship"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Chuckwagon_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cowboy_mounted_shooting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Method_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rock_hopping"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Bangladesh"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Burkina_Faso"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Egypt"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Tokelau"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Volcano_surfing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Aquadoodle"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Actuarial_control_cycle"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Shallow_diving"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/High_school_ice_hockey_in_Washington"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_in_South_Australia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Guam"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Evoked_activity"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Guyana"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Kyrgyzstan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Mongolia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Nauru"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Saint_Lucia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_the_Seychelles"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_the_Solomon_Islands"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Feminist_security_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Floorball_in_India"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Football_records_in_Scotland"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Soft_tennis_at_the_1994_Asian_Games"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/AFL_Victoria"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Daily_Prayer_for_Peace"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Five_stand"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Grasstrack"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Lacrosse_in_England"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Liturgics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mobile_phone_throwing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Oxford_University_Cycling_Club"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Padel_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pakistan_men's_national_field_hockey_team"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Argentina"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Brazil"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Georgia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Japan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Kenya"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Spain"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Tonga"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_the_United_States"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Speed-ball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/\u0141uczniczka"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Actuarial_science"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Advocacy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Airsoft"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bird_feeding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bodyboarding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Buzkashi"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Futsal"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kitesurfing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Level_design"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mesoamerican_ballgame"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mountain_biking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Para_table_tennis"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sheepdog_trial"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Trampolining"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Visual_technology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Zazen"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Field_lacrosse"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/History_of_calculus"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Poohsticks"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Specialised_lexicography"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Trail_running"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Wildwater_canoeing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Biogeochemistry"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cock_and_ball_torture"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Corporate_governance_of_information_technology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sport_climbing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Class-based_queueing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Dredging"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Film_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Laser_tag"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pharmaceutics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Polocrosse"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rock_climbing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Wales"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sandboarding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Speedcubing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Street_game"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Street_hockey"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Strength_athletics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Whirlyball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Playboating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Speed_golf"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Digital_scent_technology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Street_workout"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/RCS_Sport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/TAFISA"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Athletics_in_Australia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/History_of_fishing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Moldova"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Suzuki_RF_series"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/UAAP_Baseball_Championship"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bus_preservation_in_the_United_Kingdom"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Taiwan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pigeon-shooting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cricket_in_Austria"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Index_of_basketball-related_articles"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Eight-ender"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Software_construction"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ultimate_Aircraft_10_Dash"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Battle_gaming"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Flamencology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Forensic_economics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Toro_de_fuego"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Toro_embolado"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rowing_New_Zealand"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Football_in_Lithuania"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Colombia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bucket_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Toe_wrestling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Foot_hockey"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Index_of_urban_planning_articles"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_French_Guiana"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Mayotte"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_R\u00E9union"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Vanuatu"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Turkey_hunting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Hyena-baiting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Neppis"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Fishing_in_Portugal"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Gallery_Rifle_Shooting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ranch_sorting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Integrative_bioinformatics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Optrint"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pharmaceutical_publication_planning"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Philosophy_of_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Armenia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/R&D_management"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Er_Enish"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Event_scheduling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Football_in_Benin"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Knotty"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Soft_tennis_at_the_2006_Asian_Games"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/IJscolf"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/American_handball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Australian_handball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Beach_handball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Blobbing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Camping"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Carom_billiards"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Contesting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cowboy_action_shooting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Dog_agility"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Downhill"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Foot_orienteering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Frisian_handball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/IETF_Administrative_Support_Activity"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/International_political_economy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kawasaki_1400GTR"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Limbo_(skating)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Paintball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Presbyterian_and_Methodist_Schools_Association"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rat_agility"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ringo_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Service-oriented_modeling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Stone_carving"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Venture_management"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bass_fishing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Level_of_Effort"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Combined_driving"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cyborg_anthropology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Gymkhana_(motorcycle)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Information_technology_management"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/International_Federation_of_Muaythai_Amateur"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Philosophical_anthropology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sourcing_(personnel)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Specific_activity"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Apopudobalia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cricket_statistics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Diplomatics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Folkloristics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kloofing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Process_control"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Systematic_theology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Urban_archaeology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Women's_basketball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Maintenance_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Military_history"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Telecommunications_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Motorcycle_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Roller_hockey_(quad)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ecophysiology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Enterprise_systems_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Single_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Association_football_in_the_Republic_of_Ireland"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Canoeing_at_the_1936_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Inline_figure_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Quidditch_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Recovery_testing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ringette"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bake_sale"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Benchrest_shooting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Groundskeeping"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Juego_del_palo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Waveski"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/IRB_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Skate_sailing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Thoroughbred_racing_in_New_Zealand"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Hot_box_(game)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Artistic_billiards"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Basketball_in_Germany"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Basketball_in_Israel"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Big_air"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Boule_bretonne"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Goose_pulling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_curling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Skeleton_at_the_Winter_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Suzuki_GSX1100F"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Trade_marketing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Inline_hockey_in_the_United_Kingdom"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Russell_Mark_Tanner"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Statutory_rape"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Throwball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Live-action_wargame"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Organizational_storytelling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/School_debating_in_Scotland"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Earth_systems_engineering_and_management"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Scottish_Indian_trade"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Lacrosse_at_the_1948_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Keg-tossing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Archaeology_in_Singapore"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Yak_skiing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Association_football_in_Honduras"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sidecar_speedway"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cat_agility"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Dakyu"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Olympic_Day_Run"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Constant_weight_apnea"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Scallop_aquaculture"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tibetan_astrology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Critical_security_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Inuoumono"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Iceland"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Football_in_Tokyo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Cyprus"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Liechtenstein"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Madagascar"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Norway"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Sweden"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Driven_grouse_shooting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Curling_at_the_Winter_Universiade"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ecomechanics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Gymnastics_at_the_Summer_Universiade"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Anthroposophic_pharmacy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Design_strategy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Field_entrenchment"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Football_in_Bhutan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_Paralympic_medalists_in_alpine_skiing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Porch_sitting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/River_Bugging"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Association_football_in_Ivory_Coast"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Football_in_the_Democratic_Republic_of_the_Congo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Archery"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Association_football"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Australian_rules_football"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Auto_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Badminton"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bandy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Baseball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Basketball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Biathlon"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Biological_anthropology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bocce"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bowls"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Canadian_football"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Civil_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Climbing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Control_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cow_tipping"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Croquet"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cross-country_skiing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cue_sports"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Curling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Descriptive_statistics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Differential_geometry"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Disc_golf"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Diving"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Field_hockey"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Figure_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Film_theory"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Floorball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Geocaching"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Geodesy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Gymnastics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Handball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Hang_gliding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Hobby"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ice_hockey"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Incest"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Information_retrieval"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kabaddi"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Korfball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Lacrosse"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_basketball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Maritime_archaeology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mechanical_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Media_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Muay_Thai"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Netball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Parasailing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Play_from_scrimmage"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Political_science"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Polo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Project_management"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Recreation"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rowing_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Shooting_sport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Skateboarding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Snooker"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Speed_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Stock_car_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Surfing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Synchronised_swimming"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tug_of_war"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Beach_Flags_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Campdrafting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cutting_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Distressing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Equestrian_vaulting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Extreme_ironing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Fantasy_football_(American)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Fantasy_football_(Australian_rules_football)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Football_South_Coast"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Graded_exercise_therapy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Harness_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/History_and_philosophy_of_science"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kashubian_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kubb"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Lure_coursing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Major_(academic)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Military_logistics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Motorcycle_speedway"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Non-penetrative_sex"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Open_market_operation"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Orbital_perturbation_analysis_(spacecraft)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Over-the-line"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Peak_bagging"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pedagogy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rejuvenation_(aging)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tubing_(recreation)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Vikingskipet"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Amateur_wrestling_in_Australia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bar_billiards"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Agent-based_social_simulation"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bowling_in_India"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bowling_pin_shooting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Catfishing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Gliding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Gossaum"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Highpointing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Horseshoes"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ice_hockey_equipment"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Muckers_(game)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Nine-pin_bowling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Paintball_equipment"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Showdown_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Turkey_bowling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Acrobatic_gymnastics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Applied_science"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Book_packaging"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Electronic_packaging"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kawasaki_Concours"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Oxford_University_Darts_Club"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pickleball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Four_wall_paddleball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Boat_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Hydroplane_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ice_stock_sport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Indoor_cricket"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kneeboarding_(towsport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Stress\u2013strain_analysis"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Virtual_sex"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Wingsuit_flying"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cross-country_skiing_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Chemical_biology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Honda_ST1300"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Australian_rodeo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Combat_sport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Disability_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Finswimming"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Oin\u0103"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Roller_in-line_hockey"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Unicycle_hockey"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Accounting_scholarship"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Coasteering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Freerunning"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Celtic_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Latino_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Skiboarding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Woodchopping"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Application_service_management"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Design_management"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Electronic_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Food_safety"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Infection_control"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Nanoart"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Polizeiwissenschaft"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Postcolonialism"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Precision_mechanics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Traditional_African_medicine"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sound_art"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Baseball_at_the_1964_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Baseball_at_the_1984_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Baseball_at_the_1988_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1968_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Hawaiian_lava_sledding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mountain_biking_in_British_Columbia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Skibobbing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Walking_in_London"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Lactase_persistence"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Warflying"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cani_cross"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Corporate_architecture"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/European_Union_lobbying"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Segway_polo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tricking_(martial_arts)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Visual_marketing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Balconing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Aprilia_RST1000_Futura"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Fire_challenge"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kawasaki_Ninja_1000"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Obstacle_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Para-cycling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Switzerland"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Working_equitation"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Yoshukai_Karate"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Georgia_Southern_Equestrian_Team"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/KNSB_Dutch_Marathon_Championships"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Australian_rules_football_in_Canada"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pitton_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_International_Australian_rules_football_tournaments"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Juldarigi"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Korfball_at_the_1928_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/The_Downside_Ball_Game"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Andr\u00E9_du_Pon"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Concurrent_testing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Dutch_Olympic_Sailing_Team"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/American_rotation"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Crown_green_bowls"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pingpongo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/International_sport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Montenegro"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Aviation_Applied_Technology_Directorate"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1900_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1980_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1984_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_2004_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1908_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1928_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Canoeing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Amateur_radio_direction_finding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Asia_Pacific_Activities_Conference"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Audax_(cycling)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Communication_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cyclo-cross"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Digor_(sports)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Java_APIs_for_Integrated_Networks"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Reining"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Russian_pyramid"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Skeet_shooting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ski_cross"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sport_stacking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Surr"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Suzuki_Across"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Weighted_random_early_detection"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bossaball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1912_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1920_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1924_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1932_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1936_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1952_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1960_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1964_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1972_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1976_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1992_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1996_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_2008_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Art_in_Dubai"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Auto_Race_(Japanese_sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Basketball_in_Australia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cageball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cricket_in_Canada"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cricket_in_Wales"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Football_at_the_2012_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Godfrey_Phillips_National_Bravery_Awards"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Junior_roller_derby"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_in_Samoa"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Austria"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Azerbaijan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Turkey"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Torball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Buschball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Eastern_Michigan_Eagles_men's_cross_country"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Figure_Skating_Federation_of_Russia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/German_Shooting_and_Archery_Federation"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Honda_VFR1200F"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ptuj_Airport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/RS:X"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Kuwait"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Athletics_in_Italy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Centre_Sportif_Richard_Bozon"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Dominica_Amateur_Athletic_Association"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ferrari_315_S"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Half-pipe_skiing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Munzee"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Roller_soccer"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sport_diving_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tennis_in_Italy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ultimate_Tazer_Ball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Underwater_target_shooting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/World_Muaythai_Council"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kabaddi_World_Cup"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Long_track"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Public_sex"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/The_Mardyke"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Fistball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Railway_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_France"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_New_Zealand"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tent_pegging"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Winter_swimming"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Counter-battery_fire"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pronuntiatio"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rabbiting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mountain_bike_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Tunisia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Composite_rules_shinty\u2013hurling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_gameplay"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Surf_fishing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Taekwondo_at_the_1988_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Vinkensport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Chinlone"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Football_in_Denmark"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Jereed"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/National_sport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rope_climbing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Seasonal_industry"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Underwater_orienteering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Asian_American_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Lift_accessed_mountain_biking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_alpine_skiing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_badminton"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_bobsleigh"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_cross-country_skiing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_ice_hockey"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_snowboarding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_speed_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Luge_at_the_Winter_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Powerpoint-Karaoke"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Coleo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kentucky_Bourbon_Festival"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Operation_On-Target"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pair_trawling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cricket-spitting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Optimal_maintenance"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Propertarianism"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Australian_rules_football_in_Papua_New_Guinea"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Deck_tennis"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Night_skiing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/American_football_at_the_1932_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Hamster_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mining_in_India"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Biribol"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cattle_drives_in_the_United_States"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Harness_racing_in_Australia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Fiji"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Russia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kudu_dung-spitting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Masters_Australian_football"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Queer_pedagogy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Amputee_football"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Platform_tennis"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Underwater_photography_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Honda_LS125R"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Volleyball_in_the_Philippines"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Adventure_running"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Futsal_in_England"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ki-o-rahi"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Yak_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Dancesport_at_the_Asian_Games"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Matrak"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Paralympic_athletics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mouse_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Bulgaria"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Artistic_roller_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Asia_Education_Foundation"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Australasian_Safari"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Baton_twirling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Business_informatics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Circle_rules_football"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Computational_transportation_science"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cornhole"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Credit_Managers'_Index"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cross_country_running"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Darts"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Fox_hunting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Gaelic_handball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Golf"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Heelwork_to_music"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Hot_air_ballooning"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Inline_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Inline_speed_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/International_rules_football"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mixed_martial_arts"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pair_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rhythmic_gymnastics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Road_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Romance_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/SRA-shooting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sensory_analysis"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Social_grooming"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Software_verification"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Stress_testing_(software)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Task_(project_management)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Telecommunications_rating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tracking_(commercial_airline_flight)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Vert_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Whitewater_slalom"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Amateur_telescope_making"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Camogie"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Fisting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Horse_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Horseracing_in_Great_Britain"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Hurling"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Naval_architecture"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Paragliding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Powerlifting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Quidditch"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rodeo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rounders"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Shinty"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Softball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Thoroughbred_horse_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Axis_naval_activity_in_Australian_waters"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cricket_in_Ireland"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cricket_in_New_Zealand"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Extreme_Cello"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Football_in_Gibraltar"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Geohashing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Parahawking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Belgium"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Cuba"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_San_Marino"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Suzuki_GSX650F"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tokyo_Dome_City_Hall"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Wherigo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1948_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sailing_at_the_1988_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Caber_toss"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Roque"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/System_programming"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Whitewater_kayaking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Zorbing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Dancesport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Dinghy_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Super-G"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Game_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Gilli-danda"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ice_climbing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Premarital_sex"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Big_wave_surfing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Boating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cheating_in_online_games"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Crab_soccer"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cycle_sport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Election_law"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Floriculture"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Forms_of_cricket"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Hospital_medicine"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Street_luge"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Outreach"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Curling_at_the_1932_Winter_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Gateball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Patient_safety"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Slopestyle"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/American_philosophy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Arabian_Memory_Championship"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Biologically_inspired_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Brandjacking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cellular_microbiology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Computational_mechanics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Corrosion_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Field_marketing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Geomorphometrics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Interest_aggregation"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Invertebrate_zoology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Legal_management"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Manufacturing_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Media_evaluation"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Nanoneuronics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Preventive_journalism"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Probabilistic_design"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Qualimetry"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Reciprocal_teaching"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Revenue_assurance"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sales_management"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Socio-analysis"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Spatial_science"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Technology_journalism"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/White_currant"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Axe_throwing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Fruit_picking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Junior_firefighter"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mountain_bike_orienteering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Semasiology"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Social_pedagogy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Soil_bioengineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Theatre_pedagogy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Media_monitoring"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Randonneuring"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Alpine_snowboarding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Frontenis"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Water_basketball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Fire-fighting_sport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Lacrosse_in_Australia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Germany"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Namibia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Scoutball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Skijoring_at_the_1928_Winter_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Vigoro"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Competition_aerobatics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_in_Estonia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_in_Fiji"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_in_Georgia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_in_Greece"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_in_Ireland"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_in_Italy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_in_Russia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_in_Serbia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_in_Tonga"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_in_the_Cook_Islands"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Television_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Holocaust_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Speed_flying"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tower_running"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Nadan_Panthu_Kali"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/New_Zealand_Indoor_Bowls"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Bosnia_and_Herzegovina"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Molecular_graphics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Surf_kayaking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bowling_at_the_1988_Summer_Olympics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Belarus"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Australian_rules_football_injuries"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Hobby_horse_polo"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Paleta_Front\u00F3n"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Patball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tenball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Valencian_pilota"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Peru"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Central_Asian_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Motorcycle_stunt_riding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Llama_hiking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Spider_fighting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cock_throwing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Naval_EOD_Technology_Division"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sports_in_Taiwan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Synchronized_Football"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Boxing_in_Armenia"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Footgolf"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Footbag_net"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/The_European_Knowledge_Centre_for_Youth_Policy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Spongee"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Horseracing_in_Japan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_broomball_teams"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Software_sizing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Agriculture_in_Niger"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Locksport"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Nerf_war"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_the_Cayman_Islands"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Skyrunning"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sprint_kayak"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Medical_literature_retrieval"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_the_British_Isles"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Skydiving_regulation_in_the_United_States"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Bellyboarding"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tank_biathlon"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pharmaconomy"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_Pakistan"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_union_in_the_Australian_Capital_Territory"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Stock_clearance"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Alpine_skiing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Amateur_Swimming_Association"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Barrel_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Basque_pelota"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Beach_rugby"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Benchmarking_(geolocating)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Biological_systems_engineering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Business_networking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Christian_ministry"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Colombian_grima"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Conservation_and_restoration_of_glass_objects"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Conservation_and_restoration_of_metals"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Conservation_and_restoration_of_silver_objects"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Cricket"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Customer_retention"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Elle_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/English_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Event-driven_marketing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Eventing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Freestyle_footbag"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Freestyle_scootering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Freestyle_skiing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Freestyle_skydiving"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Giant_depolarizing_potentials"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Keirin"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Long_track_speed_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Masters_Rugby_League"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Military_intelligence"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Moot_court"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mountain_bike_trials"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Musical_canine_freestyle"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Musical_improvisation"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Nordic_combined"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Operations_research"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Oral_sex"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Parkour"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pelota_mixteca"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pole_bending"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Process_optimization"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Product_naming"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Question_answering"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rackets_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rally_obedience"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Robotic_mapping"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Roller_derby"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_nines"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_league_sevens"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_sevens"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Rugby_tens"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Social_engineering_(political_science)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Squash_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Steeplechase"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Swing_trading"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Tolerance_coning"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Track_and_field"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Triathlon"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ultimate_(sport)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Underwater_rugby"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Athens_Olympic_Sports_Complex"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Drakensberg_hiking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Pumpkin_chucking"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Realization_(climb)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Khong_kangjei"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Aquathlon_(underwater_wrestling)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Communication_design"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Computer-assisted_orthopedic_surgery"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/List_of_engineering_branches"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Mukha_(game)"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Synchronized_skating"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Croatian_studies"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Engineering_informatics"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Ice_yachting"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Kastenlauf"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Sledge_hockey"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Football_in_Ukraine"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Modified_stock_car_racing"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Underwater_sports"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Fantasy_basketball"
+        }
+      },
+      {
+        "url": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Supplier_relationship_management"
+        }
+      }
+    ]
+  }
+}

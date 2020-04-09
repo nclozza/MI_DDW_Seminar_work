@@ -1,0 +1,4 @@
+select ?url where {
+    ?musicalArtist a <http://dbpedia.org/ontology/MusicalArtist> .
+    ?musicalArtist <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> ?url .
+} LIMIT 1000

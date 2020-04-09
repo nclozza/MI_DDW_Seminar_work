@@ -1,4 +1,4 @@
 select ?url where {
     ?city a <http://dbpedia.org/ontology/City> .
     ?city <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> ?url .
-} LIMIT 20
+} LIMIT 1000
