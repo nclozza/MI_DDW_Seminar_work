@@ -7,4 +7,4 @@ JSONL_EXTENSION = ".jsonl"
 
 IGNORE_EXISTING_FILES = False
 
-XML_DUMP_PATH = "../../../enwiki-20200201-pages-articles-multistream1.xml-p10p30302"
+XML_DUMP_PATH = "../../../enwiki-20200201-pages-articles-multistream.xml"

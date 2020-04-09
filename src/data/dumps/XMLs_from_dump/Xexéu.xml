@@ -1,0 +1,92 @@
+  <page>
+    <title>Xexéu</title>
+    <ns>0</ns>
+    <id>23702155</id>
+    <revision>
+      <id>749505451</id>
+      <parentid>730085975</parentid>
+      <timestamp>2016-11-14T18:13:56Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor />
+      <comment>2 archive templates merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Xexéu''' is a city in [[Pernambuco]], [[Brazil]]. It is located in [[Zona da Mata (coastal)|Zona da mata Pernambucana]] {{convert|143|km|abbr=on}} from the state capital [[Recife]].
+
+==Geography==
+
+* State: [[Pernambuco]]
+* Region: [[Zona da Mata (coastal)|Zona da mata Pernambucana]]
+* Boundaries: [[Palmares, Pernambuco|Palmares]]  ('''N''');  [[Alagoas]]  ('''S''');  [[Maraial]]  ('''W'''); [[Água Preta]]   ('''E''')
+* Area: {{convert|110.8|km2|abbr=on}}
+* Elevation: {{convert|200|m|abbr=on}}
+* Hydrography: [[Una River (Pernambuco)|Una]] river
+* Vegetation: [[Subperenifólia]] forest 
+* Climate: Hot tropical and humid
+* Annual average temperature: {{convert|24.5|C|F|abbr=on}}
+* Distance to [[Recife]]: {{convert|143|km|abbr=on}}
+
+==Economy==
+
+The main economic activities in Xexéu are based in agriculture, especially [[sugarcane]].
+
+===Economic indicators===
+{| class=&quot;wikitable&quot; border=&quot;1&quot;
+|-
+! Population &lt;ref&gt; http://www.ibge.gov.br/home/estatistica/populacao/estimativa2009/POP2009_DOU.pdf [[Brazilian Institute of Geography and Statistics|IBGE]] Population 2009 Xexeu, page 35]&lt;/ref&gt;
+! [[GDP]] x(1000 R$).&lt;ref&gt;[http://www.ibge.com.br/home/estatistica/economia/pibmunicipios/2003_2007/tab01.pdf Xexeu 2007 GDP IBGE page 32] {{webarchive |url=https://web.archive.org/web/20160304001818/http://www.ibge.com.br/home/estatistica/economia/pibmunicipios/2003_2007/tab01.pdf |date=March 4, 2016 }}&lt;/ref&gt;
+! [[GDP per capita|GDP pc]] (R$)
+! [[Pernambuco|PE]]
+|-
+| 14.887
+| 41.899
+| 2.946
+| 0.07%
+|-
+|}
+'''Economy by sector'''
+2006
+{| class=&quot;wikitable&quot; border=&quot;1&quot;
+|-
+! [[Primary sector]] 
+! [[Secondary sector]]
+! [[Service sector]] 
+|-
+| 12.56%
+| 7.72%
+| 79.72%
+|-
+|}
+
+===Health indicators===
+&lt;ref&gt;[http://www2.condepefidem.pe.gov.br/web/condepefidem PE State site - City by city profile] {{webarchive |url=https://web.archive.org/web/20090804002205/http://www2.condepefidem.pe.gov.br/web/condepefidem |date=August 4, 2009 }}&lt;/ref&gt;
+{| class=&quot;wikitable&quot; border=&quot;1&quot;
+|-
+! [[Human Development Index|HDI]] (2000)
+! Hospitals (2007)
+! Hospitals beds (2007)
+! Child mortality per 1000 (2005)
+|-
+| 0.561
+| 1
+| 14
+| 34.8 
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Municipalities of Pernambuco}}
+
+{{coord|8|48|7|S|35|37|37|W|display=title|region:BR_type:city_source:GNS-enwiki}}
+
+{{DEFAULTSORT:Xexeu}}
+[[Category:Municipalities in Pernambuco]]
+{{Pernambuco-geo-stub}}</text>
+      <sha1>1rry0c7jxcgk0bif1lryfo82x2s066m</sha1>
+    </revision>
+  </page>

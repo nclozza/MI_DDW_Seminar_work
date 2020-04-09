@@ -1,0 +1,104 @@
+  <page>
+    <title>Graneros</title>
+    <ns>0</ns>
+    <id>20001890</id>
+    <revision>
+      <id>933873974</id>
+      <parentid>811421191</parentid>
+      <timestamp>2020-01-03T13:50:48Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor />
+      <comment>[[User:Monkbot/task 15: normalize lang icon templates|Task 15]]:  language icon template(s) replaced (2×);</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+| name          = Graneros 
+| settlement_type        = [[List of cities in Chile|City]] and [[Communes of Chile|Commune]]
+| other_name             =
+| native_name            =
+| image_skyline          = Casa Hodgkinson de Graneros 02.JPG
+| imagesize              = 250px
+| image_caption          = Hodgkinson House in Graneros (2012).
+| image_flag             =
+| image_shield           =
+| image_map              = Comuna de Graneros.svg
+| map_caption            = Location of the Graneros commune in O'Higgins Region
+| map_alt            = Location of the Graneros commune in O'Higgins Region |pushpin_map            = Chile
+| pushpin_map_narrow = yes
+| pushpin_label_position = bottom
+| pushpin_map_caption    = Location in Chile
+| coordinates_footnotes = 
+| coor_pinpoint         = city
+| coordinates            = {{coord|34|03|53|S|70|43|35|W|region:CL-LI|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Chile]]
+| subdivision_type1      = [[Regions of Chile|Region]]
+| subdivision_name1      = [[O'Higgins Region]]
+| subdivision_type2      = [[Provinces of Chile|Province]]
+| subdivision_name2      = [[Cachapoal Province]]
+| government_footnotes    = &lt;ref name=&quot;Official&quot;&gt;{{Cite web |url = http://www.municipalidadgraneros.cl/ |title=Municipality of Graneros | accessdate=10 November 2010|language=es}}&lt;/ref&gt;
+| government_type         = [[Municipality]]
+| leader_party            =
+| leader_title            = [[Alcalde]]
+| leader_name             = Juan Pablo Díaz Burgos
+| established_title      = Founded
+| established_date       = 1899
+| elevation_footnotes    =
+| elevation_m            = 113
+| unit_pref               = Metric
+| area_footnotes          = &lt;ref name=&quot;INE&quot;&gt;{{Cite web |url= http://www.ine.cl/canales/chile_estadistico/censos_poblacion_vivienda/censo_pobl_vivi.php |title= National Statistics Institute |accessdate=10 November 2010|language=es}}&lt;/ref&gt;
+| area_total_km2          = 112.7
+| population_footnotes    = &lt;ref name=&quot;INE&quot;/&gt;
+| population_total        = 30320
+| population_as_of        = 2012 Census
+| population_density_km2  = auto
+| population_demonym      = Granerino
+| population_blank1_title = [[Urban area|Urban]]
+| population_blank1       = 22674
+| population_blank2_title = [[Rural area|Rural]]
+| population_blank2       = 3287
+| demographics_type1      = Sex
+| demographics1_footnotes = &lt;ref name=&quot;INE&quot;/&gt; 
+| demographics1_title1    = Men
+| demographics1_info1     = 12,992
+| demographics1_title2    = Women
+| demographics1_info2     = 12,969
+| postal_code_type       =
+| postal_code            =
+| area_code              = (+56) 72
+| website                = [http://www.municipalidadgraneros.cl Official website] {{in lang|es}}
+| footnotes              =
+}} 
+
+'''Graneros''' is a [[Chile]]an [[Communes of Chile|commune]] and [[List of cities in Chile|city]] in [[Cachapoal Province]], [[O'Higgins Region]].
+
+==Demographics==
+According to the 2002 [[census]] of the [[National Statistics Institute (Chile)|National Statistics Institute]], Graneros spans an area of {{convert|112.7|sqkm|0|abbr=on}} and has 25,961 inhabitants (12,992 men and 12,969 women). Of these, 22,674 (87.3%) lived in [[urban area]]s and 3,287 (12.7%) in [[rural area]]s. The population grew by 15.6% (3,508 persons) between the 1992 and 2002 censuses.&lt;ref name= &quot;INE&quot;/&gt;
+
+==Administration==
+As a commune, Graneros is a third-level [[administrative division of Chile]] administered by a [[municipal council]], headed by an [[alcalde]] who is directly elected every four years. The 2008-2012 alcalde is Juan Pablo Díaz Burgos. The council has the following members:&lt;ref name=&quot;Official&quot;/&gt;
+* Juan Carlos Reyes
+* Antonio Pereira
+* Miguel Gutierrez L.
+* Carlos Ortega
+* Raquel Campos
+* Ximena Jeldres
+
+Within the [[electoral divisions of Chile]], Graneros is represented in the [[Chamber of Deputies of Chile|Chamber of Deputies]] by Mr. Eugenio Bauer (UDI) and Mr. Ricardo Rincón  (PDC) as part of the 33rd electoral district, (together with [[Mostazal]], [[Codegua]], [[Machalí]], [[Requínoa]], [[Rengo]], [[El Olivar, Chile|Olivar]], [[Doñihue]], [[Coínco|Coinco]], [[Coltauco]], [[Quinta de Tilcoco]] and [[Malloa]]). The commune is represented in the [[Senate of Chile|Senate]] by Andrés Chadwick Piñera (UDI) and Juan Pablo Letelier Morel (PS) as part of the 9th senatorial constituency (O'Higgins Region).
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{in lang|es}} [http://www.municipalidadgraneros.cl Municipality of Graneros]
+
+{{Communes in O'Higgins Region}}
+
+[[Category:Communes of Chile]]
+[[Category:Populated places in Cachapoal Province]]</text>
+      <sha1>8rdykbh2mmlbtv2u7mreph2q71pm2gr</sha1>
+    </revision>
+  </page>

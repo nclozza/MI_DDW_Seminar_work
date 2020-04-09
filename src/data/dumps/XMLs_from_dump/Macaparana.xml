@@ -1,0 +1,93 @@
+  <page>
+    <title>Macaparana</title>
+    <ns>0</ns>
+    <id>23978917</id>
+    <revision>
+      <id>795326321</id>
+      <parentid>782819161</parentid>
+      <timestamp>2017-08-13T14:27:26Z</timestamp>
+      <contributor>
+        <username>Rich Farmbrough</username>
+        <id>82835</id>
+      </contributor>
+      <minor />
+      <comment>Fix caps in section header and other minor fixes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[File:Bandeira-macaparana.gif|thumb|180px|right|Macaparana Flag]]
+'''Macaparana''' is a city located in the state of [[Pernambuco]], [[Brazil]]. Located {{convert|120|km|abbr=off}} away from [[Recife]], capital of the state of Pernambuco. It has an estimated ({{As of|2009|alt=as of [[Brazilian Institute of Geography and Statistics|2009]]}}) population of 24.031 inhabitants.
+
+==Geography==
+* State – [[Pernambuco]]
+* Region – [[Zona da Mata (coastal)|Zona da mata Pernambucana]]
+* Boundaries – [[Paraiba]] state   ('''N''' and '''W''');  [[São Vicente Ferrer, Pernambuco|São Vicente Ferrer]] and [[Vicência]]   ('''S''');  [[Timbaúba]]   ('''E''').
+* Area – {{convert|126.35|km2|2|lk=on|abbr=off}}
+* Elevation – {{convert|350|m|ft|lk=out|abbr=off}}
+* Hidrography – [[Goiana River]]
+* Vegetation – [[Subcaducifólia]] forest
+* Clima – Hot tropical and humid
+* Annual average temperature – {{convert|23.1|C|F|1|lk=on|abbr=off}}
+* Distance to [[Recife]] – {{convert|120|km|mi|lk=out|abbr=off}}
+
+==Economy==
+The main economic activities in '''Macaparana''' are based in industry, [[commerce]] and [[agribusiness]], especially [[sugarcane]], [[banana]]s; and [[livestock]] such as [[cattle]] and [[poultry]].
+
+===Economic indicators===
+{|class=&quot;wikitable&quot;
+|-
+! Population&lt;ref&gt;http://www.ibge.gov.br/home/estatistica/populacao/estimativa2009/POP2009_DOU.pdf [[Brazilian Institute of Geography and Statistics|IBGE]] Population 2009 Macaparana, page 33]&lt;/ref&gt;
+! [[GDP]] x(1000 R$).&lt;ref&gt;[http://www.ibge.com.br/home/estatistica/economia/pibmunicipios/2003_2007/tab01.pdf Macaparana 2007 GDP IBGE page 31] {{webarchive|url=https://web.archive.org/web/20160304001818/http://www.ibge.com.br/home/estatistica/economia/pibmunicipios/2003_2007/tab01.pdf |date=2016-03-04 }}&lt;/ref&gt;
+! [[GDP per capita|GDP pc]] (R$)
+! [[Pernambuco|PE]]
+|-
+|24.031
+|74.652
+|3.235
+| 0.12%
+|}
+'''Economy by Sector'''
+2006
+{|class=&quot;wikitable&quot;
+|-
+! [[Primary sector]] 
+! [[Secondary sector]]
+! [[Service sector]] 
+|-
+|18.21%
+|9.84%
+|71.95%
+|}
+
+===Health indicators===
+&lt;ref&gt;[http://www2.condepefidem.pe.gov.br/web/condepefidem PE State site – City by city profile]&lt;/ref&gt;
+{|class=&quot;wikitable&quot;
+|-
+! [[Human Development Index|HDI]] (2000)
+! Hospitals (2007)
+! Hospitals beds (2007)
+! Children's Mortality every 1000 (2005)
+|-
+|0.597
+|2
+|106
+|31.8 
+|}
+
+==Twin towns — sister cities==
+{{see also|List of twin towns and sister cities in Brazil}}
+Macaparana is [[Twin towns and sister cities|twinned]] with:
+
+==References==
+{{reflist}}
+
+{{coord|7|33|18|S|35|27|10|W|region:BR_source:kolossus-nlwiki|display=title}}
+
+&lt;!--please leave the empty space as standard--&gt;
+
+[[Category:Municipalities in Pernambuco]]
+
+
+{{Pernambuco-geo-stub}}</text>
+      <sha1>1rnrngnkqknw6xtwmf64dl9a33vzokv</sha1>
+    </revision>
+  </page>

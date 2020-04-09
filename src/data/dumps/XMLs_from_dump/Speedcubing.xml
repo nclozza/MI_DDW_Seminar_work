@@ -1,0 +1,413 @@
+  <page>
+    <title>Speedcubing</title>
+    <ns>0</ns>
+    <id>954571</id>
+    <revision>
+      <id>938272720</id>
+      <parentid>937991316</parentid>
+      <timestamp>2020-01-30T04:08:20Z</timestamp>
+      <contributor>
+        <username>Oneforfortytwo</username>
+        <id>9351822</id>
+      </contributor>
+      <comment>update records</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Multiple issues|
+{{refimprove|date= June 2014}}
+{{Primary sources|date=June 2014}}
+}}
+[[File:Erik Akkersdijk is solving a 3×3×3 Rubik's Cube in 10.50s.ogv|thumb|[[Erik Akkersdijk]] solving a 3×3×3 Rubik's Cube in 10.50 seconds.]]
+[[File:Speedcubing-Twilightsojourn.jpg|thumb|A speedcuber solving a 3×3×3 Rubik's Cube.]]
+'''Speedcubing''' (also known as '''speedsolving''') is the hobby involving solving a variety of [[Combination puzzle|twisty puzzles]], the most famous being the 3x3x3 puzzle or [[Rubik's Cube]], as quickly as possible. For most puzzles, solving entails performing a series of moves that alters a scrambled puzzle into a state in which every face of the puzzle is a single, solid color. Some puzzles have different requirements to be considered solved, such as the [[Rubik's Clock|Clock]], for which all the dials must be moved into the 12 'o clock position&lt;ref name=&quot;:0&quot;&gt;{{cite web|url=https://www.worldcubeassociation.org/regulations/#10h1|title=WCA Regulations|publisher=World Cube Association|accessdate=2 August 2016}}&lt;/ref&gt;.
+The standard puzzle sizes are [[Pocket Cube|2x2x2]], [[Rubik's Cube|3x3x3]], [[Rubik's Revenge|4x4x4]], [[Professor's Cube|5x5x5]], [[V-Cube 6|6x6x6]], and [[V-Cube 7|7x7x7]]. There are also different shapes of the famous puzzles, including [[Pyraminx]], [[Megaminx]], [[Skewb]], and [[Square-1 (puzzle)|Square-1]]. An individual who competes in speedcubing is known as a '''speedcuber'''.
+
+==History==
+The [[Rubik's Cube]] was invented in 1974 by [[Hungarian people|Hungarian]] professor of [[architecture]], [[Ernő Rubik]]. A widespread international interest in the cube began in 1980, which soon developed into a global craze.&lt;ref&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Rubik%27s_Cube|title=History section of Wikipedia's page|last=|first=|date=18 September 2019|website=Wikipedia|url-status=live|archive-url=|archive-date=19 September 2019|access-date=}}&lt;/ref&gt;{{Circular reference|date=October 2019}} On June 5, 1982, the first world championship was held in [[Budapest]], [[Hungary]]. 19 people competed in the event and the American [[Minh Thai]] won with a single solve time of 22.95 seconds. Other notable attendees include [[Jessica Fridrich]] and [[Lars Petrus]], two people who would later be influential in the development of solving methods and the speedcubing community.&lt;ref&gt;{{Cite web|url=https://en.wikipedia.org/wiki/1982_World_Rubik%27s_Cube_Championship|title=1982 Rubik's Cube World Championship Wikipedia page|last=|first=|date=11 August 2019|website=Wikipedia|url-status=live|archive-url=|archive-date=19 September 2019|access-date=}}&lt;/ref&gt;{{Circular reference|date=October 2019}} The height of the Rubik's Cube craze began to fade away after 1983,&lt;ref&gt;{{Cite web|url=https://www.nytimes.com/1982/10/30/business/rubik-s-cube-a-craze-ends.html|title=NYTimes End of the Rubik's Cube Craze|last=|first=|date=30 October 1982|website=New York Times|url-status=live|archive-url=|archive-date=19 September 2019|access-date=}}&lt;/ref&gt; but with the advent of the [[Internet]], [[Website|sites]] relating to speedcubing began to surface. Simultaneously spreading effective speedsolving methods and teaching people new to the cube to solve it for the first time, these sites brought in a new generation of cubers, created a growing international online community, and raised the profile of the art. 
+
+People prominent in this online community, such as [[Ron van Bruchem]], [[Tyson Mao]], [[Chris Hardwick (speedcuber)|Chris Hardwick]], and Ton Dennenbroek, eventually wanted to meet in person and compete. So twenty years after the first world championship, they orchestrated a second championship in [[Toronto]] in 2003 and another smaller competition in the [[Netherlands]] later that same year. This revival of competition sparked a new wave of organized speedcubing events, which include regular national and international competitions.&lt;ref&gt;{{cite web|url=https://www.worldcubeassociation.org/competitions|title=Competitions|publisher=World Cube Association|accessdate=2 August 2016}}&lt;/ref&gt; There were twelve competitions in 2004, 58 more from 2005 to 2006, over 100 in 2008, and over 1150 in 2018. Since [[Budapest]]'s 1982 competition, there have been nine further World Championships traditionally held every other year, the most recent in [[Melbourne]], [[Australia]]. This new wave of speedcubing competitions have been and still are organised by the [[World Cube Association]] (WCA), founded by [[Ron van Bruchem]] and [[Tyson Mao]].
+
+Since the rise of speedcubing in popularity, numerous businesses have opened up, specialising in either the making or selling of speedcubes. Rubik's is no longer the only company making cubes. There are now dozens of companies making their own cubes, with improved technology to allow faster solving. This has helped to launch speedcubing onto the global scene, not only as a sport and hobby, but a worldwide business.{{citation needed|date=December 2019}}
+
+==Solving methods==
+The standard [[Rubik's Cube|3x3x3]] can be solved using a number of methods, not all of which are intended for speedcubing. Although some methods (such as CFOP) employ a layer-by-layer system and algorithms, other significant (though less widely used) methods include corners-first methods and the [[Gilles Roux|Roux]] method. [[CFOP Method]], Roux, ZZ, and [[Lars Petrus|Petrus]] are often referred to as the &quot;big four&quot; methods, as they are the most popular and can be used to achieve faster times than the others. The [[CFOP Method]] is used by most speedcubers.
+
+===CFOP method===
+{{main article|CFOP Method}}
+The CFOP (Cross – F2L – OLL – PLL) method, also known as the [[Fridrich Method]], was named after one of its inventors, [[Jessica Fridrich]], who finished second in the 2003 Rubik's Cube World Championships. While it is known as the Fridrich method, its origins are actually credited to [[David Singmaster]], who was one of the first to publish a layer by layer method of solving in 1980,&lt;ref&gt;{{Cite web|title = David Singmaster Solution|url = http://van-ness.com/Kurt/Hobbies/RubiksCube/3x3x3/DavidSingmasterSolution.htm|website = Van Ness Web|accessdate = 2 August 2016}}&lt;/ref&gt; and Guus Razoux Schultz, who built upon this and developed a more efficient system for the first two layers (F2L).&lt;ref&gt;{{Cite web|title = Guus Razoux Schultz|url = https://www.speedsolving.com/wiki/index.php/Guus_Razoux_Schultz|website = Speedsolving.com Wiki|accessdate = 2 August 2016}}&lt;/ref&gt; Jessica Fridrich then finished developing the method and published it online in 1997,&lt;ref&gt;{{Cite web|title = Speed Cubing|url = http://www.rubiks.com/speed-cubing|website = Rubik's Official Website|accessdate = 2 August 2016}}&lt;/ref&gt; an event that was very influential in the revival of competitive speedcubing. The first step of the method is to solve a cross-shaped arrangement of edge pieces on the first layer. The remainder of the first layer and all of the second layer are then solved together in what are referred to as &quot;corner-edge pairs&quot;, or slots. Finally, the last layer is solved in two steps — first, all of the pieces in the layer are oriented to form a solid color (but without the individual pieces always being in their correct places on the cube). This step is referred to as orientation and is usually performed with a single set of algorithms known as OLL (Orientation of Last Layer). Then, all of those pieces are permuted to their correct spots. This is also usually performed as a single set of algorithms known as PLL (Permutation of Last Layer).
+
+The [[CFOP Method]] can be used as a less-advanced method by dividing the steps into more steps, reducing the number of algorithms you need to learn but sacrifices time. Most people start learning CFOP with 4LLL (Four-Look Last Layer), which is the less advanced, slower, and algorithm-reducing way to learn CFOP. The 4 steps are divided into Edge Orientation, Corner Orientation, Corner Permutation, and Edge Permutation. Later on, you can learn Full PLL which replaces the permutation of the edges and corners, making the solve more efficient and therefore faster. Even later, you can learn Full OLL which will replace the Orientation of the corners and edges, again making the solve faster.
+
+The CFOP method is a widely used speedcubing method. Its popularity stems from the speed at which it can be easily performed. Many advanced speedcubers such as two-time Former World Champion [[Feliks Zemdegs]] have also learned additional sets of algorithms for the last slot and layer, such as Corners of Last Layer (COLL), which orients and permutes the corners when the edges are oriented.
+
+===Roux method===
+The Roux method was invented by [[French people|French]] speedcuber [[Gilles Roux]]. The first step of the Roux method is to form a 3×2×1 block usually placed in the lower portion of the left layer. The second step is to create another 3×2×1 on the opposite side, such that each block is sharing a bottom color. The remaining four corners are then solved using a set of algorithms known as CMLL (Corners of the Last Layer, without regard to the M-slice), which leaves six edges and four centers that are solved in the last step, L6E or LSE (Last Six Edges).
+
+This method is not as dependent on algorithm memorization as the [[Fridrich method|CFOP method]], since all but the third step is done with intuition as opposed to predefined sets of algorithms. The Roux method can be performed without rotations (unlike the CFOP method) which means it is easier to look ahead (solving a collection of pieces while at the same time looking for the solution to the next step) while solving. It is also considered one of the most efficient speedsolving methods with its average move count being in between 45 and 50 moves for experienced solvers. However the Roux method of speedubing has been criticized over the years because, unlike CFOP, ZZ or Petrus, Roux requires M (middle) slices to solve the LSE. Using M slice moves makes it harder to achieve higher TPS (turns per second) because the fingertricks are almost always flicks which makes it a lot harder to turn faster (although higher TPS can be achieved through practice).
+
+One of the users of this method, [[Kian Mansour]], broke the one-handed (OH) world-record average with the time of 9.54 seconds.&lt;ref&gt;{{cite web |url= https://www.youtube.com/watch?v=pCfLsh5vDt0&amp;t=56s |title= The video of Kian Monsour breaking the 3x3 OH world Record |publisher= Kian Monsour |accessdate= 27 May 2018}}&lt;/ref&gt;
+
+===ZZ method===
+The ZZ method (short for &quot;Zbigniew Zborowski&quot;) is a modern speedcubing method originally proposed by Zbigniew Zborowski in 2006. The method was designed specifically to achieve high turning speed by focusing on move ergonomics, and is the combination of a block-building method and a layer-by-layer method. The initial pre-planned step is called EOLine, and is the most distinctive hallmark of the ZZ method. It involves orienting all edges while placing two oppositely placed down-face edges aligned with the correspondingly colored center. The next step solves the remaining first two layers using only left, right, top and bottom face turns, one of the advantages of ZZ. On completion of the first two layers, the last layer's edges are all correctly oriented because of edge pre-orientation during EOLine. The last layer may be completed using a number of techniques including those used in the [[Fridrich method|CFOP method]]. An expert variant of this method (ZZ-a) allows the last layer to be completed in a single step with an average of just over 12 moves and knowledge of at least 494 algorithms.&lt;ref name=&quot;Bernard Helmstetter's Move Count Statistics&quot;&gt;{{cite web|url=http://www.ai.univ-paris8.fr/~bh/cube/|title=Rubik's Cube: Algorithms for the last layer|publisher=Université Paris 8|accessdate=2 August 2016}}&lt;/ref&gt;
+
+===Petrus method===
+The Petrus method, named after its inventor [[Lars Petrus]], is considered to be more intuitive than the structured [[Fridrich method|CFOP method]]. The first step of the Petrus method is to solve a 2×2×2 block of the cube. This block is then extended to a solved 2×2×3 block. All edges that are unoriented are then oriented, and then the first and second layers are completed using only turns of the right layer and the upper layer. Next, the top corners are put in the right place and the layer is oriented correctly (all stickers facing up) and finally the last edges are permuted (moved around). [[Lars Petrus]] developed this method to address what he felt were inherent inefficiencies in layer-by-layer approaches.&lt;ref&gt;{{citeweb|url=http://lar5.com/cube/|title=Solving Rubik's Cube for speed|last=Petrus|first=Lars|accessdate=13 Jan 2017}}&lt;/ref&gt; This method is often used as the basis of a method for fewest moves competitions.
+
+===Corners-first methods===
+Corners-first methods involve solving the corners then finishing the edges with slice turns. Corners-first solutions were common in the 1980s, and was one of the most popular methods that 1982 world champion [[Minh Thai]] used. Currently corners-first solutions are rarely used among speedsolvers. [[Dutch people|Dutch]] cuber Marc Waterman created a corners-first method in the cube craze, and averaged 18 seconds in the mid-late 1980s.
+
+==Competitions==
+[[File:Estonian Open 2009 - Anssi Vanhala.JPG|thumb|Anssi Vanhala solving a 3×3×3 Rubik's Cube with his feet in 36.72 seconds, at the 2009 Estonian Open.]]
+
+===World Cube Association===
+Since 2003, speedcubing competitions have been held regularly. The [[World Cube Association]] (WCA) was formed in 2004 to govern all official competitions. For a competition to be official, it must be approved by the WCA and follow the WCA regulations. Included in the regulations is the necessity of having one or more [[World Cube Association#WCA Delegates|WCA delegate]] in attendance. A delegate's main role is to ensure all regulations are followed during the competition. Once the competition has finished, the results are uploaded on to the WCA [[website]].&lt;ref name=&quot;:0&quot; /&gt;
+
+===Format===
+The majority of puzzle competitions are held using a [[Truncated mean|trimmed mean]] of 5 format. This involves the competitor executing 5 solves in the round in question, after which the fastest and slowest solve are disregarded and the [[mean]] of the remaining 3 is used. The 6×6×6 and 7×7×7 events are ranked by straight mean of 3 — only three solves, none of which are disregarded. In 3×3×3 blindfolded and 3×3×3 fewest moves challenges, either straight mean of 3 or best of 3 is used, while 4×4×4 blindfolded, 5×5×5 blindfolded, and multiple blindfolded challenges are ranked using best of 1, 2 or 3, depending on the competition.
+
+When a round begins, competitors hand in the puzzle they will use. Puzzles are scrambled using a computer-generated scramble. Each round, five, three or one (depending on the format, mentioned above) scrambles are used. Every competitor in the round will receive each scramble once. Before starting a solve, a competitor has up to 15 seconds to inspect the puzzle (inspection is removed for blindfolded events). This is monitored by a judge with a stopwatch. Once the solve is complete, the judge records the time on the competitor's scorecard and it is signed by both. If the puzzle is unsolved and the timer is stopped, the time is recorded as &quot;DNF&quot; (Did Not Finish). There are also numerous reasons why the solve can receive a two-second addition to the solve time, such as a face being more than 45 degrees off, or the competitor going over the allowed inspection time. A competitor can also receive an extra solve to replace the one just completed, for example having a timer malfunction or being deliberately distracted by another person.
+
+The official timer used in competitions is the [[StackMat timer]]. This device has touch-sensitive pads that are triggered by the user lifting one or both of their hands to start the time and placing both their hands back on the pads after releasing the puzzle to stop the timer.
+
+Official competitions are currently being held in several categories.
+{| class=&quot;wikitable&quot; style=&quot;text-align:center&quot;
+! Category || Cube type
+|-
+| Speedsolving || [[Pocket Cube|2×2×2]], [[Rubik's Cube|3×3×3]], [[Rubik's Revenge|4×4×4]], [[Professor's Cube|5×5×5]], [[V-Cube 6|6×6×6]], [[V-Cube 7|7×7×7]]
+|-
+| Blindfolded solving || 3x3x3, 4x4x4, 5x5x5
+|-
+| Multiple blindfolded solving || 3x3x3
+|-
+| One-handed solving || 3x3x3
+|-
+| Solving in fewest moves || 3x3x3
+|}
+
+[[File:Megaminx, Estonian Open 2011.jpg|thumb|Speedsolvers solving [[Megaminx]]es at the 2011 Estonian Open.]]
+Competitions will often include events for speedsolving these other puzzles, as well:
+*[[Pyraminx]]
+*[[Megaminx]]
+*[[Skewb]]
+*[[Square-1 (puzzle)|Square-1]]
+*[[Rubik's Clock]]
+
+===World Rubik's Cube Championships===
+The [[World Cube Association|WCA]] organizes the World Rubik's Cube Championship as the main international competition once every two years. The latest championship was held in [[Melbourne]], [[Australia]] from 11 to 14 July, 2019.&lt;ref name=&quot;melbourne2019&quot; /&gt;
+&lt;div align=&quot;center&quot;&gt;
+{| class=&quot;wikitable&quot; style=&quot;text-align:center;&quot;
+!Championship
+!Year
+!Host
+!Date(s)
+!Nations
+!Puzzles
+!Events
+!Winner
+!Winning time(s)
+!Ref
+|-
+| [[1982 World Rubik's Cube Championship|I]]
+| 1982
+| {{flagicon|Hungary}} [[Budapest]]
+| 5 June
+| 19
+| 1
+| 1
+| {{flagicon|USA}} [[Minh Thai]]
+| 22.95
+|&lt;ref name=budapest1982&gt;{{cite web|title=World Rubik's Cube Championship 1982|publisher=World Cube Association|url=http://www.worldcubeassociation.org/results/c.php?i=WC1982|accessdate=2 August 2016}}&lt;/ref&gt;
+|-
+| II
+| 2003
+| {{flagicon|Canada}} [[Toronto]]
+| 23–24 August
+| 15
+| 9
+| 13
+| {{flagicon|USA}} Dan Knights
+| 20.00
+|&lt;ref name=toronto2003&gt;{{cite web|title=World Rubik's Games Championship 2003|publisher=World Cube Association|url=http://www.worldcubeassociation.org/results/c.php?i=WC2003|accessdate=2 August 2016}}&lt;/ref&gt;
+|-
+| III
+| 2005
+| {{flagicon|USA}} [[Lake Buena Vista, Florida|Lake Buena Vista]]
+| 5–6 November
+| 16
+| 9
+| 15
+| {{flagicon|FRA}} Jean Pons
+| 15.10
+|&lt;ref name=lakebuenavista2005&gt;{{cite web|title=Rubik's World Championship 2005|publisher=World Cube Association|url=http://www.worldcubeassociation.org/results/c.php?i=WC2005|accessdate=2 August 2016}}&lt;/ref&gt;
+|-
+| IV
+| 2007
+| {{flagicon|Hungary}} [[Budapest]]
+| 5–7 October
+| 28
+| 10
+| 17
+| {{flagicon|JPN}} [[Yu Nakajima]]
+| 12.46
+|&lt;ref name=budapest2007&gt;{{cite web|title=World Rubik's Cube Championship 2007|publisher=World Cube Association|url=http://www.worldcubeassociation.org/results/c.php?i=WC2007|accessdate=2 August 2016}}&lt;/ref&gt;
+|-
+| V
+| 2009
+| {{flagicon|Germany}} [[Düsseldorf]]
+| 9–11 October
+| 32
+| 12
+| 19
+| {{flagicon|UK}} Breandan Vallance
+| 10.74
+|&lt;ref name=dusseldorf2009&gt;{{cite web|title=World Rubik's Cube Championship 2009|publisher=World Cube Association|url=http://www.worldcubeassociation.org/results/c.php?i=WC2009|accessdate=2 August 2016}}&lt;/ref&gt;
+|-
+| VI
+| 2011
+| {{flagicon|Thailand}} [[Bangkok]]
+| 14–16 October
+| 35
+| 12
+| 19
+| {{flagicon|POL}} Michał Pleskowicz
+| 8.65
+|&lt;ref name=bangkok2011&gt;{{cite web|title=World Rubik's Cube Championship 2011|publisher=World Cube Association|url=http://www.worldcubeassociation.org/results/c.php?i=WC2011|accessdate=2 August 2016}}&lt;/ref&gt;
+|-
+| VII
+| 2013
+| {{flagicon|United States}} [[Las Vegas Valley|Las Vegas]]
+| 26–28 July
+| 35
+| 10
+| 17
+| {{flagicon|AUS}} [[Feliks Zemdegs]]
+| 8.18
+|&lt;ref name=lasvegas2013&gt;{{cite web|title=World Rubik's Cube Championship 2013|publisher=World Cube Association|url=http://www.worldcubeassociation.org/results/c.php?i=WC2013|accessdate=2 August 2016}}&lt;/ref&gt;
+|-
+| VIII
+| 2015
+| {{flagicon|Brazil}} [[São Paulo]]
+| 17–19 July
+| 37
+| 11
+| 18
+| {{flagicon|AUS}} [[Feliks Zemdegs]]
+| 7.56
+|&lt;ref name=saopaulo2015&gt;{{cite web|title=World Rubik's Cube Championship 2015|publisher=World Cube Association|url=http://www.worldcubeassociation.org/results/c.php?i=WC2015|accessdate=2 August 2016}}&lt;/ref&gt;
+|-
+| IX
+| 2017
+| {{flagicon|France}} [[Paris]]
+| 13–16 July
+| 64
+| 11
+| 18
+| {{flagicon|USA}} [[Max Park]]
+| 6.85
+| &lt;ref name=paris2017&gt;{{cite web|title=World Rubik's Cube Championship 2017|publisher=World Cube Association|url=https://www.worldcubeassociation.org/competitions/WC2017|accessdate=6 July 2017}}&lt;/ref&gt;
+|-
+| X
+| 2019
+| {{flagicon|AUS}} [[Melbourne]]
+| 11–14 July
+| 52
+| 11
+| 18
+| {{flagicon|Germany}} Philipp Weyer
+| 6.74
+| &lt;ref name=melbourne2019&gt;{{cite web|title=WCA World Championship 2019|publisher=World Cube Association|url=https://www.worldcubeassociation.org/competitions/WC2019|accessdate=16 July 2019}}&lt;/ref&gt;
+|}
+
+&lt;/div&gt;
+
+==World records==
+The following are the official speedcubing world records approved by the [[World Cube Association|WCA]].&lt;ref name=&quot;WCA records&quot;&gt;{{cite web|url=http://www.worldcubeassociation.org/results/regions.php|title=Records|publisher=World Cube Association|accessdate=4 February 2018}}&lt;/ref&gt;
+
+Note: For averages of 5 solves, the best time and the worst time are dropped, and the mean of the remaining 3 solves is taken. When only 3 solves are done, the mean of all 3 is taken.
+{| class=&quot;wikitable&quot; style=&quot;text-align:center&quot;
+! Event !! Type !! Result !! Person !! Competition (Date(s)) !! Result Details (Min:Sec.100ths)
+|-
+|rowspan=&quot;2&quot;| [[Rubik's Cube|3×3×3]] || Single || 3.47 || {{flagicon|China}} Yusheng Du || [[Wuhu]] Open 2018 (24–25 November) || —
+|-
+| Average || 5.53 || {{flagicon|Australia}} [[Feliks Zemdegs]] || Odd Day in [[Sydney]] (10 November) || (7.16) / 5.04 / (4.67) / 6.55 / 4.99
+|-
+|rowspan=&quot;2&quot;| [[Pocket Cube|2×2×2]]
+| Single || 0.49 || {{flagicon|Poland}} Maciej Czapiewski || [[Grudziądz]] Open 2016 (19–20 March) || —
+|-
+| Average || 1.21 || {{flagicon|Denmark}} Martin Vædele Egdal || [[Kjeller]] Open 2018 (20–21 October) || (1.06) / 1.09 / (1.64) / 1.47 / 1.07
+|-
+|rowspan=&quot;2&quot;| [[Rubik's Revenge|4×4×4]]
+| Single || 17.42 ||{{flagicon|Germany}} [[Sebastian Weyer]] ||[[Denmark|Danish]] Open 2019 (14–15 September) || —
+|-
+| Average || 21.11 || {{flagicon|USA}} [[Max Park]] || [[San Francisco Bay Area|Bay Area]] Speedcubin' 21 2019 (1 December) || 21.01 / 22.00 / 20.31 / (19.28) / (24.79)
+|-
+|rowspan=&quot;2&quot;| [[Professor's Cube|5×5×5]]
+| Single || 34.92 || {{flagicon|USA}} [[Max Park]] || Houston Winter 2020 (25 January) || —
+|-
+| Average || 39.65 || {{flagicon|USA}} [[Max Park]] || Western Championship 2019 (22–23 June) || 40.34 / (36.06) / (42.65) / 40.82 / 37.80
+|-
+|rowspan=&quot;2&quot;| [[V-Cube 6|6×6×6]]
+| Single || 1:09.51 || {{flagicon|USA}} [[Max Park]] || Houston Winter 2020 (25 January) || —
+|-
+| Average || 1:15.90 ||{{flagicon|USA}} [[Max Park]] || Houston Winter 2020 (25 January) || 1:09.51 / 1:23.93 / 1:14.27
+|-
+|rowspan=&quot;2&quot;| [[V-Cube 7|7×7×7]]
+| Single || 1:40.89 || {{flagicon|United States}} [[Max Park]] || [[United States|CubingUSA]] Nationals 2019 (1–4 August) || —
+|-
+| Average || 1:46.57 || {{flagicon|United States}} [[Max Park]] || Houston Winter 2020 (25 January) || 1:54.24 / 1:42.12 / 1:43.34
+|-
+|rowspan=&quot;2&quot;| 3×3×3 Blindfolded
+| Single || 15.50 || {{flagicon|USA}} Max Hilliard || [[United States|CubingUSA]] Nationals 2019 (1–4 August) || —
+|-
+| Average || 18.18 || {{flagicon|USA}} Jeff Park || OU Winter 2019 (14 December) || 16.77 / 18.32 / 19.44	
+|-
+| rowspan=&quot;2&quot; | 3×3×3 Fewest Moves
+| Single || 16 || {{flagicon|Italy}} Sebastiano Tronto || FMC 2019 (15–16 June) || —
+|-
+| Average || 21.00 || {{Flagicon|USA}} Cale Schoon || North Star Cubing Challenge 2020 (18–19 January) || 23 / 18 / 22
+|-
+|rowspan=&quot;2&quot;| 3×3×3 One-handed
+| Single || 6.82 ||{{flagicon|USA}} Max Park ||[[San Francisco Bay Area|Bay Area]] Speedcubin' 20 2019 (12 October)
+|-
+| Average || 9.42 || {{flagicon|USA}} Max Park || [[University of California, Berkeley|Berkeley]] Summer 2018 (16 September) || 9.43 / (11.32) / 8.80 / (8.69) / 10.02
+|-
+|rowspan=&quot;2&quot;| [[Megaminx]]
+| Single || 27.22 || {{flagicon|Peru}} Juan Pablo Huanqui || La Tienda Cubera Christmas 2019 (21–22 December) || —
+|-
+| Average || 30.39 || {{flagicon|Peru}} Juan Pablo Huanqui || [[Wuxi]] Open 2019 (10–11 August) || 30.12 / (28.50) / (31.19) / 29.97 / 31.07
+|-
+|rowspan=&quot;2&quot;| [[Pyraminx]]
+| Single || 0.91 || {{flagicon|POL}} Dominik Górny || [[Byczyna|Byczy]] Cube Race 2018 (23–24 June) || —
+|-
+| Average || 1.86 || {{flagicon|Poland}} Tymon Kolasiński || [[Grudziądz]] Open 2019 (6 April) || (1.05) / 2.13 / (2.30) / 1.94 / 1.51
+|-
+|rowspan=&quot;2&quot;| [[Rubik's Clock]]
+| Single || 3.29||{{flagicon|Hong Kong}} Suen Ming Chi (孫銘志) || GDSY Open 2019 (23–24 March) || —
+|-
+| Average || 4.38 || {{flagicon|China}} Yunhao Lou (娄云皓)|| [[Hangzhou]] Autumn 2019 (9–10 November) || 4.16 / 4.81 / (5.12) / (3.85) / 4.17
+|-
+|rowspan=&quot;2&quot;| [[Skewb]]
+| Single || 0.93|| {{flagicon|Australia}} Andrew Huang|| [[World Cube Association|WCA]] World Championship 2019 (11–14 July) || —
+|-
+| Average || 2.03 || {{flagicon|Poland}} Łukasz Burliga || CFL Santa Claus Cube Race 2017 (16–17 December) || 2.48 / 1.91 / 1.71 / (1.39) / (4.98)
+|-
+|rowspan=&quot;2&quot;| [[Square-1 (puzzle)|Square-1]]
+| Single || 4.95 || {{flagicon|USA}} Jackey Zheng || [[Brooklyn]] 2019 (25 May) || —
+|-
+| Average || 6.54 || {{flagicon|Brazil}} Vicenzo Guerino Cecchini || Bernô Feet Friendship 2019 (14–15 December) || 6.15 / 7.37 / (6.04) / 6.11 / (DNF)
+|-
+| rowspan=&quot;2&quot; | 4×4×4 Blindfolded
+| Single || 1:02.51 || {{flagicon|USA}} Stanley Chapel || [[Michigan]] Cubing Club Epsilon 2019 (14 December) || —
+|-
+| Average || 1:08.76||{{flagicon|USA}} Stanley Chapel || [[Michigan]] Cubing Club Epsilon 2019 (14 December) || 1:02.51 / 1:14.05 / 1:09.72
+|-
+| rowspan=&quot;2&quot; | 5×5×5 Blindfolded
+| Single || 2:21.62 || {{flagicon|USA}} Stanley Chapel || [[Michigan]] Cubing Club Epsilon 2019 (14 December) || —
+|-
+| Average || 2:27.63 || {{flagicon|USA}} Stanley Chapel || [[Michigan]] Cubing Club Epsilon 2019 (14 December) || 2:32.48 / 2:28.80 / 2:21.62
+|-
+| 3×3×3 Multiple Blindfolded
+| Single || 59/60 || {{flagicon|USA}} Graham Siggins || [[Oregon State University|OSU]] Blind Weekend 2019 (8–10 November) || 59:46
+|}
+[[File:Progression of Rubik's Cube world records.jpg|thumb|center|
+1000px|A scatter plot of Rubik's Cube world records(single and average) against time. This depicts the improvement made over the years, as well as highlight records that stayed unbroken for an unusual amount of time.]]
+
+==Lubrication==
+Members of the cubing community [[Lubrication|lubricate]] their cubes to allow them to be manipulated faster, easier, and more reliably than a non-lubricated cube. The [[World Cube Association|WCA]] allows [[lubrication]] for official competitions.&lt;ref&gt;{{cite web|url=https://www.worldcubeassociation.org/regulations/wca-regulations-and-guidelines.pdf|title=WCA Regulations and Guidelines|publisher=World Cube Association|accessdate=2 August 2016}}&lt;/ref&gt;
+
+Popular lubricants among speedcubers are:
+*Angstrom Gravitas/Dignitas
+*Angstrom Compound V/X
+*Cubicle Silicone Lube/Lubicle
+*[[Traxxas]] 10/30/50K Differential Oil
+*Maru Lubricant
+*Lubix Cube Lubricant
+*SpeedCubeShop Speed Lube
+*SpeedCubeShop Cosmic Lube
+*Cubesmith Lubricant
+*DNM-37
+*LumaLube
+*Lubicle Black
+*Zamu Lube
+*Lubicle Silk
+
+Checking a lubricant's [[Material safety data sheet|MSDS]] is often helpful in identifying cube-damaging ingredients. Cube lubricants should belong to the silicon family of lubrications because these are not going to damage the cub plastic. of&lt;ref&gt;{{cite web |last1=Logan |first1=Wood |title=Speed Cube Lubrication and Best Cube Lubes |url=https://hobbyinspired.com/cube-lube/ |website=HobbyInspired |accessdate=26 September 2019 |ref=24}}&lt;/ref&gt;. But there are various types of lubricants so it is good to do some research before picking it and applying it.
+
+==Terminology==
+Below are some definitions of words generally used by the speedcubing community. For a more complete list of speedcubing terminology, see the [http://www.cubefreak.net/other/glossary.php cubefreak.net glossary].
+
+;1LLL : A set of 3915 algorithms to solve every possible state that the last layer could be in after completing F2L.  The average move count is 12.58.
+;[[Algorithm]] : A predefined sequence of moves used to effect a specific change on the cube. Often referred to as ''alg'' or (less commonly) an ''algo''.
+;BLD : Blindfolded solving, i.e. memorize, put on blindfold, then solve.
+;Center piece : One of the centers of the faces of the cube. The centers never move relative to each other on an NxNxN cube, where N is odd. On NxNxN cubes where N&gt;3, every piece with only one sticker is referred to as a 'center piece', including those pieces that can move relative to each other.
+;CLL : Corners of the Last Layer. This is the first of two steps of one of the methods of solving the last layer of the cube. In the process, edges may be unoriented. This is used in Corners First methods for the last layer, in which first all corners are solved, followed by the edges (see ELL). CLL is also commonly used to solve the last layer of a 2x2x2 cube in one step.
+;[[Commutator]] : A commutator is a sequence of the form X Y X' Y' (also represented as [X:Y] or [X,Y]) which affects only specific portions of the cube, leaving the rest untouched. This is used in Blindfolded solving and Fewest Moves Competition.
+;Corner piece : One of the 8 pieces with exactly three stickers, called a &quot;corner&quot; piece because a corner is exposed.
+;CR : Short for Continental Record (e.g. Record for a continent). Can also be &quot;Continental Rank&quot; when referring to the rank of a person's record in a database.
+;Cuber : Someone who solves a Rubik's cube, any of its other sizes, and/or other shaped puzzles.
+;Cubie : One of the mechanically independent pieces that make up a puzzle. The cubies do not include fixed center pieces, the central axis to which they are attached, or any other internal pieces (Such as the internal edges of a 4x4 or 2x2).
+;Cycle : To rotate pieces' positions on the cube. e.g. a 3-cycle would make cubie set A-B-C become C-A-B.
+;DNF : Initialism for Did Not Finish, used in competitions and self-timing. e.g. when a piece pop occurs and the competitor decides not to continue solving the puzzle, or when the solver stops the timer and the puzzle is 2 or more turns away from being solved.
+;DNS : Did Not Start, used in competition when the competitor does not begin a solve, either by opting to skip it (common in Blindfold Cubing), by not showing up when he or she is called, or not qualifying for the remaining (usually three) solves of a certain round.
+;Edge piece : One of the 12 pieces with exactly two stickers, called an &quot;edge&quot; piece because only one edge is exposed.
+;ELL : Edges of the Last Layer. The second of two steps of one of the methods of solving the last layer of the cube, solving the edge pieces without disturbing the corner pieces (see CLL).
+;EPLL : Edge Permutation of the Last Layer, specifically refers to the PLL cases in which only edges must be permuted to solve the cube.
+;Explode : When, during a solve, multiple cubies come out of contact with the puzzle, usually causing the puzzle to be unstable, in which, upon turning, more pieces may become loose and possibly pop out too.
+;F2B : First two blocks. This is used in the Roux method.
+;F2L : First two layers. This is used in the CFOP (Fridrich), Petrus, and ZZ methods.
+;Layer : One section of a cube consisting of a number of cubies that turn as a unit. (e.g. A standard [[Rubik's Cube]] has 3 ''layers''.)
+;LL : Last Layer. Usually refers to the top layer of the cube, but for the Roux method can refer to the middle layer between the left and right faces.
+;Method : A combination of steps that can be used to solve a cube.
+;Move : A turn of one of the sides of a puzzle or knobs in the case of the clock.
+;''N''-look, also known as ''X''-Look: Refers to the maximum number of iterations of algorithms necessary to complete a step in a particular solving method, often the last layer, e.g. '4-look LL'.
+;NR : Short for National Record (e.g. a record for a country). Can also be &quot;National Rank&quot; when referring to the rank of a person's record in a database.
+;OH : Short for One-Handed, it is the event or practice of solving a cube with one hand, left or right.
+;OLL : Orientation of the Last Layer, usually used in reference to the respective step of the CFOP and ZZ methods.
+;OLLCP : Orientation of the Last Layer with Corner Permutation.  An advanced technique where multiple algorithms are learned for one OLL case, in order to use one that will solve the case while also permuting the corners, which results in an easy PLL case.
+;Orient : To change the orientation of a piece.
+;PB :Personal Best – personal record time to solve a puzzle. This can either be a single attempt or a [[Truncated mean|trimmed average]], depending on context.
+;'''PR''' :Personal Record – the personal record time to solve a puzzle achieved in competition.
+;[[Permutation|Permute]] : To relocate certain pieces in a way to achieve the desired result.
+;PLL : Permutation of the Last Layer. Usually used in reference to the respective step of the [[CFOP Method|CFOP]] and ZZ methods, in which case it would follow the OLL step.
+;Pop : When, during a solve, one or more cubies come out of contact with the puzzle, usually causing the puzzle to be unstable, in which, upon turning, more pieces may become loose and possibly pop out too.
+;Prime : A counter-clockwise move popularly denoted with a ', e.g. 'R-Prime', denoted as R', R-, &lt;math&gt;R^{-1}&lt;/math&gt;, or Ri. Also (less commonly) known as &quot;inverse&quot; or &quot;inverted&quot;.
+;Slice : The four center pieces and four edge pieces between two opposite layers of the cube.  On a cube with four or more layers, it refers to any of the layers of the puzzle that don't have corner pieces. Also refers '/' moves in Square-1 puzzles.
+;Summer Variation : A subset of algorithms for F2L that allows the user to force all upper-face corners to be oriented correctly, or an OLL-Skip, while the last F2L pair can be solved with R U R' or L' U' L.
+;SQ-1 : Abbreviation for Square-1. Sometimes used as 'Squan'.
+;TPS : Turns per second – the number count of turns per second indicating how fast the cuber turns.
+;Two-Second Penalty, also known as +2 : A penalty of 2 seconds which is added to a solving time in official competitions when the cube is placed back on the timing pad with one or more faces misaligned 45 degrees or more. It can also be given in other cases, such as when the competitor starts the timer too slow or does not correctly stop the timer after finishing the solve.
+;UWR :Unofficial World Record.
+
+;VLS : Valk Last Slot. A set of 432 algorithms (216 if mirrors are not counted), that solves together the last F2L pair and all of OLL when this last F2L pair is already joined.
+;'''WCA''' : [[World Cube Association]], the international governing body for official cube competitions.
+;Winter Variation, also known as WV :A subset of algorithms for VLS that allows the user to force all upper-face corners to be oriented correctly, or an OLL-Skip, while the last F2L pair is already formed. It is used when the last F2L pair (One corner and its corresponding edge correctly positioned relative to each other) to be inserted is in the top layer, with the 3 top-layer edges oriented correctly. There are a total of 27 cases. WV has an average lower move count than the standard OLL.
+;WR :World Record.
+;X-Cross : Completing one or multiple F2L pairs during the cross setup, used almost exclusively in the CFOP method.
+;{{anchor|YTUWR}}YTUWR : YouTube Unofficial World Record, the fastest of something that is posted on YouTube.
+;ZBLL :ZBLL is a set of 177 algorithms (Not including mirrors and inverses) with 494 cases to recognize in order to solve the last layer in one look while all of the top edges are oriented with an average move count of ~12.08. Can be used in any layer-by-layer method that ends in N-Look LL, but will only really be efficient in ZZ and Petrus, as these methods keep edges oriented, whereas methods such as CFOP do not keep the edges oriented, becoming a sometimes 2LLL solve.
+
+==See also==
+*[[Rubik's Cube]]
+*[[World Cube Association]]
+*[[Feliks Zemdegs]]
+*[[Max Park]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.speedsolving.com/ Speedsolving.com]
+*[http://www.speedsolving.com/wiki/index.php/Main_Page Speedsolving.com Wiki]
+*[http://ws2.binghamton.edu/fridrich/system.html Fridrich Method]
+*[http://grrroux.free.fr/method/Intro.html Roux Method]
+*[http://cube.crider.co.uk/ ZZ Method]
+*[https://www.worldcubeassociation.org/ World Cube Association]
+
+{{Rubik's Cube}}
+
+[[Category:Mechanical puzzles]]
+[[Category:Rubik's Cube]]
+[[Category:Articles containing video clips]]</text>
+      <sha1>9skkq08z4lq8qz3dwhtngcqfx0l1k5x</sha1>
+    </revision>
+  </page>

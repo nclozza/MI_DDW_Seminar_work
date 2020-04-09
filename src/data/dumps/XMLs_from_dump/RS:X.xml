@@ -1,0 +1,110 @@
+  <page>
+    <title>RS:X</title>
+    <ns>0</ns>
+    <id>27036039</id>
+    <revision>
+      <id>898204606</id>
+      <parentid>894330609</parentid>
+      <timestamp>2019-05-22T02:17:28Z</timestamp>
+      <contributor>
+        <ip>49.182.33.65</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox Sailboat Specifications
+|Name          = RS:X
+|image         = RS-X linedrawing.svg
+|class_symbol    = 
+|class_image     = RS-X insigna.png
+|class_imagealt  = Class Symbol
+|class_imagesize = 
+|type          = Sailboard
+|design        = One Design&lt;br /&gt;Neil Pryde
+|crew          = 1
+|loa           = {{convert|2.86|m|abbr=on}}
+|beam          = {{convert|.93|m|abbr=on}}
+|mainsail      = male: {{convert|9.5|m2|abbr=on}}&lt;br&gt;
+female: {{convert|8.5|m2|abbr=on}}
+|draft         = 
+|hull          = {{convert|15.5|kg|abbr=on}}&lt;br&gt;
+Volume {{convert|231|l|abbr=on}}
+|ballast       = 
+|mainsailandjib= 
+|construction  = GRP &amp; Carbon
+|mastheight    = male: {{convert|5.2|m|abbr=on}}&lt;br&gt;
+female: {{convert|4.9|m|abbr=on}}
+|designer      = Jean Bouldoires &amp; Robert Stroj
+|year          = 2004
+|jib           = 
+|spinnaker     = 
+|d-pn          =
+|rya-pn        =
+|phrf          = 
+|updated       = 20-APR-2010
+|olympic       = current
+}}
+[[image:RS X - the olympic board.JPG|thumb]]
+[[Image:Neil-Pryde-logo.jpg|100px|thumb]]
+'''RS:X''' is a [[windsurfing]] class selected by the [[International Sailing Federation|ISAF]]&lt;ref&gt;http://www.sailing.org/olympics/history-part-5.php Olympic sailing report [[International Sailing Federation|ISAF]]&lt;/ref&gt; to replace the [[Mistral One Design Class]] for the [[2008 Summer Olympics]]. The discipline has similarities to [[Formula Windsurfing]] - mainly in that the equipment used was designed to allow windsurfing in low and moderate wind conditions with good performance.
+
+RS:X equipment includes a board with a [[daggerboard]], and a sail of a specified size. The board measures 286 cm in length and 93 cm in width. Unlike formula boards, it is quite heavy at 15.5&amp;nbsp;kg, which is almost twice that of regular competition formula boards, but is very similar to the weight of raceboards such as the previous Olympic board, [[Mistral One Design Class]].  The Mistral board has a weight of 17 kg ready to sail, while the RS:X board weighs more than 19 kg.
+
+The RS:X seems to be a compromise between traditional raceboards which work well in {{convert|3|to|18|m/s|kn|order=flip|abbr=on|round=5}}, and Formula boards which go fast in {{convert|12|to|30|kn|m/s|abbr=on|round=5}}, and has shown itself to be competitive with past raceboards in the medium wind range.
+
+The shape and design of the RS:X sail is based on that of the [[Neil Pryde]] windsurfing sail V8.
+
+==Events==
+===Olympics===
+====Men====
+{{Olympic medallists in Men's RS:X}}
+
+====Women====
+{{Olympic medallists in Women's RS:X}}
+
+===World Championships===
+====RS:X World Championships====
+{{main|RS:X World Championships}}
+=====Men=====
+{{RS:X Men's World Championship medallists}}
+=====Women=====
+{{RS:X Women's World Championship medallists}}
+&lt;!-- Please do not move onto it own page. By keeping the table here they are more likely to be maintained by other wiki users --&gt;
+===Youth===
+The RS:X Class hold Youth World Championships the age limit used is typically for sailors under 21
+====Youth Male====
+{{RS:X Male Youth World Championship medallists}}
+
+====Youth Female====
+{{RS:X Female Youth World Championship medallists}}
+
+====Youth Sailing World Championships====
+{{main|Youth Sailing World Championships}}
+The RS:X has been used as equipment in the [[Youth Sailing World Championships]] which is for sailors under 19.
+
+=====Boys=====
+{{RS:X Boys Youth Sailing World Championships medallists}} 
+
+=====Girls=====
+{{RS:X Girls Youth Sailing World Championships medallists}}
+
+== See also ==
+* [[Neil Pryde]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{commonscat|RS:X}}
+* [http://www.neilpryde.com/ Neil Pryde official website]
+* [http://www.rsxclass.com/ RS:X Official Site]
+* [http://www.sailing.org/classesandequipment/RSX.php ISAF RS:X Microsite]
+
+{{Classes of World Sailing}}
+{{Olympic class sailboats}}
+
+[[Category:Classes of World Sailing]]
+[[Category:Windsurfing boards]]
+[[Category:Olympic sailing classes]]</text>
+      <sha1>k9dwnmzxv15x6ieubog84cgnut6j5qh</sha1>
+    </revision>
+  </page>

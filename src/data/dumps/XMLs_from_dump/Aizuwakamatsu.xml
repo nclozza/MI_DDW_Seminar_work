@@ -1,0 +1,514 @@
+  <page>
+    <title>Aizuwakamatsu</title>
+    <ns>0</ns>
+    <id>6792986</id>
+    <revision>
+      <id>933346801</id>
+      <parentid>933269853</parentid>
+      <timestamp>2019-12-31T11:13:59Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor />
+      <comment>[[User:Monkbot/task 15: normalize lang icon templates|Task 15]]:  language icon template(s) replaced (4×);</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+&lt;!-- See Template:Infobox settlement for additional fields and descriptions --&gt;
+| name                    = {{raise|0.2em|Aizuwakamatsu}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|会津若松市}}}}}}
+| official_name           = 
+| native_name_lang        = ja
+| settlement_type         = [[Cities of Japan|City]]
+&lt;!-- images, nickname, motto --&gt;
+| image_skyline           =File:Aizuwakamatsu, Fukushima Oka.jpg
+| imagesize               =
+| image_alt               = 
+| image_caption           = Aizuwakamatsu skyline
+| image_flag              = Flag of Aizuwakamatsu, Fukushima.png
+| flag_alt                = 
+| image_seal              = Symbol of Aizuwakamatsu Fukushima.svg
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| image_blank_emblem      = 
+| nickname                = 
+| motto                   = 
+&lt;!-- maps and coordinates --&gt;
+| image_map               = Aizuwakamatsu in Fukushima Prefecture Ja.svg
+| map_alt                 = 
+| map_caption             = Location of Aizuwakamatsu in Fukushima Prefecture
+| pushpin_map             = Japan
+| pushpin_label_position  = &lt;!-- position of the pushpin label: left, right, top, bottom, none --&gt;
+| pushpin_map_alt         = 
+| pushpin_map_caption     = &amp;nbsp; 
+| coordinates             = {{coord|37|29|41.4|N|139|55|47.1|E|region:JP|display=inline,title}}
+| coor_pinpoint           = &lt;!-- to specify exact location of coordinates (was coor_type) --&gt;
+| coordinates_footnotes   = &lt;!-- for references: use &lt;ref&gt; tags --&gt;
+&lt;!-- location --&gt;
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = Japan
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Tōhoku region|Tōhoku]]
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Fukushima Prefecture|Fukushima]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+&lt;!-- established --&gt;
+| established_title       = &lt;!-- Settled --&gt;
+| established_date        = 
+| founder                 = 
+| named_for               = 
+&lt;!-- seat, smaller parts --&gt;
+| seat_type               = &lt;!-- defaults to: Seat --&gt;
+| seat                    = 
+&lt;!-- government type, leaders --&gt;
+| government_footnotes    = &lt;!-- for references: use &lt;ref&gt; tags --&gt;
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Ichirō Kanke
+| leader_title1           = 
+| leader_name1            = &lt;!-- etc., up to leader_title4 / leader_name4 --&gt;
+&lt;!-- display settings  --&gt;
+| total_type              = &lt;!-- to set a non-standard label for total area and population rows --&gt;
+| unit_pref               = &lt;!-- enter: Imperial, to display imperial before metric --&gt;
+&lt;!-- area --&gt;
+| area_magnitude          = &lt;!-- use only to set a special wikilink --&gt;
+| area_footnotes          = &lt;!-- for references: use &lt;ref&gt; tags --&gt;
+| area_total_km2          = 382.97
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+&lt;!-- elevation --&gt;
+| elevation_footnotes     = &lt;!-- for references: use &lt;ref&gt; tags --&gt;
+| elevation_m             = 
+&lt;!-- population --&gt;
+| population_footnotes    = &lt;!-- for references: use &lt;ref&gt; tags --&gt;
+| population_total        = 120,733
+| population_as_of        = November 1, 2018
+| population_density_km2  = auto
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = &lt;!-- demonym, ie. Liverpudlian for someone from Liverpool --&gt;
+| population_note         = 
+&lt;!-- time zone(s) --&gt;
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+&lt;!-- postal codes, area code --&gt;
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = &lt;!-- defaults to: Area code(s) --&gt;
+| area_code               = 
+&lt;!-- blank fields (section 1) --&gt;
+| blank_name_sec1         = City Symbols
+| blank1_name_sec1        = – Tree
+| blank1_info_sec1        = [[Japanese Red Pine]]
+| blank2_name_sec1        = – Flower
+| blank2_info_sec1        = [[Alcea rosea|Common Hollyhock]]
+| blank3_name_sec1        = – Bird
+| blank3_info_sec1        = [[Common cuckoo]]
+| blank4_name_sec1        = – Fish
+| blank4_info_sec1        = 
+| blank5_name_sec1        = – Insect
+| blank5_info_sec1        =
+| blank6_name_sec1        = 
+| blank6_info_sec1        = 
+| blank7_name_sec1        = 
+| blank7_info_sec1        = 
+&lt;!-- blank fields (section 2) --&gt;
+| blank_name_sec2         = Phone&amp;nbsp;number
+| blank_info_sec2         = 0242-39-1111
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = 3–46 Higashisakaemachi, Aizuwakamatsu-shi, Fukushima-ken 965-8601
+&lt;!-- website, footnotes --&gt;
+| website                 ={{Official|1=http://www.city.aizuwakamatsu.fukushima.jp/}}
+| footnotes               = 
+| elevation=273
+}}
+[[File:Aizuwakamatsu City Hall Day.JPG|thumb|right|Aizuwakamatsu City Hall]]
+[[File:Higashiyama Onsen 01.jpg|thumb|Higashiyama Onsen]]
+
+{{Nihongo| '''Aizuwakamatsu'''|会津若松市|Aizuwakamatsu-shi}} is a [[Cities of Japan|city]] in [[Fukushima Prefecture]], [[Japan]]. {{As of|2018|11|01}}, the city had an estimated population of 120,733 in 49,942 households,&lt;ref&gt;[https://www.city.aizuwakamatsu.fukushima.jp Aizuwakamatsu city official statistics]{{in lang|ja}}&lt;/ref&gt; and a [[population density]] of 320 persons per km&lt;sup&gt;2&lt;/sup&gt;. The total area of the city was  {{convert|382.97|sqkm|sqmi}}.
+
+==History==
+The area of present-day Aizuwakamatsu was part of ancient [[Mutsu Province]], and was settled from prehistoric times. The [[Aizu-Otsuka Kofun]] within the city borders dates from the 4th century AD, and is an [[Important Cultural Property (Japan)|Important Cultural Property]].
+
+According to legend, in 88 BCE, [[Emperor Sujin]] sent two generals; Ohiko and Takenukawa-wake to [[Tōhoku region|Tohoku]] for the purpose of establishing peace after the quashing of a rebellion in the region.&lt;ref name=&quot;:0&quot;&gt;{{Cite book|title=International Dictionary of Historic Places, Volume 5: Asia and Oceania|last=|first=|publisher=Fitzroy Dearborn Publishers|year=1996|isbn=1-884964-04-4|editor-last=Schellinger|editor-first=Paul|location=Chicago|pages=10|editor-last2=Salkin|editor-first2=Robert}}&lt;/ref&gt;
+
+Before the late 12th century, Aizuwakamatsu was mainly a market town and a base for regional warlords. Starting in 1192, Aizuwakamatsu became part of the regions that were controlled by the [[Kamakura shogunate|Kamakura Shogunate]] after [[Minamoto no Yoritomo|Minamoto Yoritomo]] established the shogunate which governed much of Japan. Soon after taking power, Yoritomo granted a samurai named Suwara Yoshitsura (from the Miura clan) all of Aizu. A descendant of Suwara, Ashina Morinori, began construction of the first castle in the city in 1384.&lt;ref name=&quot;:0&quot; /&gt;
+
+During the [[Sengoku period]] the final lord of Aizu, Ashina Moritaka, died in 1583 and soon the Ashina clan lost power. After the Satake clan took control of the Ashina's castle, they placed a twelve-year-old member of their clan who was renamed Ashina Morishige and proclaimed lord of Aizu. The Ashina family regained control of Aizu for a brief time in 1589 with the help of Date Masamune. However, Masamune took over the domain for himself soon after. He surrendered in 1590 to [[Toyotomi Hideyoshi]]. Toyotomi gave Aizu to one of his allies, Gamo Ujisato who then began construction in 1592 of a new castle at the site. It was during this time that the town was renamed Wakamatsu (young pine).&lt;ref name=&quot;:0&quot; /&gt;
+
+During the [[Edo period]], Aizu was controlled briefly by [[Uesugi Kagekatsu]] in 1600 after the death of Gamo Ujisato in 1596. [[Tokugawa Ieyasu|Tokugawa Ieyusu]] accused Uesugi of gathering troops in Aizu and that he'll use it to seize more power. Ieyusu ordered Date Masmune and his allies to go against Uesugi. After the establishment of the [[Tokugawa shogunate]], Aizu was given to Ujisato's descendants. Through inheritance, Aizu was passed to Hoshina Masayuki (a brother of the third Tokugawa shogun) in 1643. The Edo period saw the economic and cultural growth of Aizu.&lt;ref name=&quot;:0&quot; /&gt;
+
+[[Aizu Domain]] was the location of the [[Battle of Aizu]], one of the largest conflicts of the [[Boshin War]]. After the [[Meiji Restoration]], Wakamatsu Town was created with the establishment of the modern municipalities system on April 1, 1889. It became Wakamatsu City in 1899. The name was changed to Aizuwakamatsu in 1955.
+
+==Geography==
+[[File:Iimori Hill Aizuwakamatsu 2006-11-03.jpg|thumb|Mount Iimori]]
+Aizuwakamatsu is located in the western part of Fukushima Prefecture, in the southeast part of Aizu basin.
+
+===Mountains===
+* [[Mount Ōtodake]] (1416 m)
+* [[Mount Seaburi]]
+* [[Mount Oda]]
+* [[Mount Iimori]]
+
+===Rivers===
+* [[Agano River|Aga River]]
+* [[Nippashi River]]
+* [[Yugawa River (Fukushima)|Yugawa River]]
+* [[Sesenagi River]]
+
+===Lakes===
+* [[Lake Inawashiro]]
+* [[Lake Wakasato]]
+* [[Lake Higashiyama]]
+* [[Lake Sohara]]
+
+===Hot springs===
+* [[Higashiyama Onsen]]
+* [[Ashinomaki Onsen]]
+
+===Administrative divisions===
+There are 11 administrative divisions (hamlets or {{nihongo|大字|ooaza}}) in the city.&lt;ref&gt;[http://www.city.aizuwakamatsu.fukushima.jp/ja/joho/n_b/ooaza/index.htm 毎月大字別人口] {{Webarchive|url=https://web.archive.org/web/20110726004557/http://www.city.aizuwakamatsu.fukushima.jp/ja/joho/n_b/ooaza/index.htm |date=2011-07-26 }} {{in lang|ja}}&lt;/ref&gt;
+* Wakamatsu
+* Machikita
+* Kouya
+* Kouzashi
+* Monden
+* Ikki
+* Higashiyama
+* Ōto
+* Minato
+* Kitaaizu
+* Kawahigashi
+
+===Neighboring municipalities===
+Fukushima Prefecture
+*North: [[Kitakata, Fukushima|Kitakata]], [[Aizubange, Fukushima|Aizubange]], [[Yugawa, Fukushima|Yugawa]], [[Bandai, Fukushima|Bandai]]
+*East: [[Koriyama, Fukushima|Koriyama]], [[Inawashiro, Fukushima|Inawashiro]]
+*West: [[Aizumisato, Fukushima|Aizumisato]]
+*South: [[Shimogo, Fukushima|Shimogo]], [[Tenei, Fukushima|Tenei]]
+
+===Climate===
+Aizuwakamatsu has a hot-summer [[Humid continental climate]] (Köppen '''Dfa''') characterized by warm summers and cold winters with heavy snowfall. Although it is located in an inland valley, Aizuwakamatsu's climate resembles that of the [[Hokuriku region]] on the [[Sea of Japan]] coast. Snowfall is very heavy during the winter at {{convert|4.78|m|in|-1}}, and snow cover reaches an average maximum of {{convert|0.39|m|in|2}} and has reached as much as {{convert|1.15|m|in|1}} for short periods, a figure one would usually associate with much colder regions like the [[Labrador Peninsula]].  The average annual temperature in Aizuwakamatsu is 11.2&amp;nbsp;°C. The average annual rainfall is 1270&amp;nbsp;mm with September as the wettest month. The temperatures are highest on average in August, at around 24.7&amp;nbsp;°C, and lowest in January, at around -1.2&amp;nbsp;°C.&lt;ref&gt;[https://en.climate-data.org/asia/japan/fukushima/aizu-wakamatsu-5393/ Aizuwakamatsu climate data]&lt;/ref&gt;
+
+{{Weather box
+|location = Aizuwakamatsu, Fukushima (1981～2010)
+|metric first = yes
+|single line = yes
+|Jan record high C = 13.1
+|Feb record high C = 15.9
+|Mar record high C = 22.8
+|Apr record high C = 30.5
+|May record high C = 33.3
+|Jun record high C = 34.3
+|Jul record high C = 36.7
+|Aug record high C = 38.1
+|Sep record high C = 35.4
+|Oct record high C = 30.9
+|Nov record high C = 24.5
+|Dec record high C = 20.9
+|year record high C = 38.1
+|Jan high C = 2.6
+|Feb high C = 3.6
+|Mar high C = 8.2
+|Apr high C = 16.4
+|May high C = 22.1
+|Jun high C = 25.4
+|Jul high C = 28.6
+|Aug high C = 30.6
+|Sep high C = 25.6
+|Oct high C = 19.0
+|Nov high C = 11.8
+|Dec high C = 5.7
+|year high C = 16.7
+|Jan low C = −3.7
+|Feb low C = −3.6
+|Mar low C = −1.0
+|Apr low C = 4.2
+|May low C = 10.0
+|Jun low C = 15.5
+|Jul low C = 19.5
+|Aug low C = 20.6
+|Sep low C = 16.3
+|Oct low C = 9.2
+|Nov low C = 3.1
+|Dec low C = −0.9
+|year low C = 7.4
+|Jan record low C = −14.4
+|Feb record low C = −15.2
+|Mar record low C = −11.9
+|Apr record low C = −4.6
+|May record low C = −1.2
+|Jun record low C = 6.9
+|Jul record low C = 9.1
+|Aug record low C = 10.3
+|Sep record low C = 4.8
+|Oct record low C = −1.5
+|Nov record low C = −5.9
+|Dec record low C = −14.4
+|year record low C = −15.2
+|precipitation colour = green
+|Jan precipitation mm = 95.3
+|Feb precipitation mm = 71.4
+|Mar precipitation mm = 71.7
+|Apr precipitation mm = 64.3
+|May precipitation mm = 80.0
+|Jun precipitation mm = 110.8
+|Jul precipitation mm = 175.8
+|Aug precipitation mm = 134.3
+|Sep precipitation mm = 136.9
+|Oct precipitation mm = 100.1
+|Nov precipitation mm = 78.9
+|Dec precipitation mm = 93.8
+|Jan snow cm = 171
+|Feb snow cm = 142
+|Mar snow cm = 66
+|Apr snow cm = 5
+|May snow cm = 0
+|Jun snow cm = 0
+|Jul snow cm = 0
+|Aug snow cm = 0
+|Sep snow cm = 0
+|Oct snow cm = 0
+|Nov snow cm = 6
+|Dec snow cm = 83
+|Jan humidity = 82
+|Feb humidity = 79
+|Mar humidity = 74
+|Apr humidity = 67
+|May humidity = 68
+|Jun humidity = 73
+|Jul humidity = 78
+|Aug humidity = 76
+|Sep humidity = 79
+|Oct humidity = 80
+|Nov humidity = 82
+|Dec humidity = 83
+|Jan precipitation days = 18.7
+|Feb precipitation days = 16.2
+|Mar precipitation days = 16.8
+|Apr precipitation days = 12.0
+|May precipitation days = 11.4
+|Jun precipitation days = 12.4
+|Jul precipitation days = 14.8
+|Aug precipitation days = 11.0
+|Sep precipitation days = 12.9
+|Oct precipitation days = 12.9
+|Nov precipitation days = 15.1
+|Dec precipitation days = 17.5
+|unit precipitation days = 0.5 mm
+|Jan snow days = 27.0
+|Feb snow days = 24.3
+|Mar snow days = 12.3
+|Apr snow days = 0.8
+|May snow days = 0.0
+|Jun snow days = 0.0
+|Jul snow days = 0.0
+|Aug snow days = 0.0
+|Sep snow days = 0.0
+|Oct snow days = 0.0
+|Nov snow days = 1.0
+|Dec snow days = 12.4
+|Jan sun = 78.5
+|Feb sun = 98.8
+|Mar sun = 138.2
+|Apr sun = 172.7
+|May sun = 193.6
+|Jun sun = 161.9
+|Jul sun = 159.8
+|Aug sun = 198.7
+|Sep sun = 132.1
+|Oct sun = 121.1
+|Nov sun = 86.8
+|Dec sun = 70.7
+|source 1 = [[Japan Meteorological Agency]]&lt;ref&gt;{{cite web
+| url = http://www.data.jma.go.jp/obd/stats/etrn/view/nml_sfc_ym.php?prec_no=19&amp;prec_ch=%8B%FA%98H%8Ex%92%A1&amp;block_no=47570&amp;block_ch=%8B%FA%98H&amp;year=&amp;month=&amp;day=&amp;elm=normal&amp;view=
+| title = 平年値（年・月ごとの値） | accessdate = 2011-11-26 | publisher = Japan Meteorological Agency
+}}&lt;/ref&gt;
+|source 2 = [[Japan Meteorological Agency]] (records)&lt;ref&gt;{{cite web
+| url = http://www.data.jma.go.jp/obd/stats/etrn/view/rank_s.php?prec_no=19&amp;prec_ch=%8B%FA%98H%8Ex%92%A1&amp;block_no=47570&amp;block_ch=%8B%FA%98H&amp;year=&amp;month=&amp;day=&amp;elm=rank&amp;view=
+| title = 観測史上1～10位の値（年間を通じての値）| accessdate = 2011-11-26 | publisher = Japan Meteorological Agency
+}}&lt;/ref&gt;
+|date=November 2011
+}}
+
+==Mergers==
+{{Unreferenced section|date=February 2014}}
+*On April 1, 1937, a part of Machikita village (from [[Kitaaizu District, Fukushima|Kitaaizu District]]) was merged into the city of Wakamatsu.
+*On April 1, 1951, the village of Machikita (remaining parts) (from Kitaaizu District) was later merged into Wakamatsu.
+*On January 1, 1955, seven villages of Kitaaizu District (Kouya, Kouzashi, Monden, Ikki, Higashiyama, Ōto and Minato) were merged into Wakamatsu. The city's name changed to Aizuwakamatsu.
+*On April 1, 1955, a part of the town of [[Aizuhongō, Fukushima|Hongō]] (locality of Oya) (from [[Ōnuma District, Fukushima|Ōnuma District]]) was merged into Aizuwakamatsu.
+*On November 1, 2004, the village of [[Kitaaizu, Fukushima|Kitaaizu]] (from Kitaaizu District) was merged into Aizuwakamatsu. [[Kitaaizu District, Fukushima|Kitaaizu District]] was dissolved as a result.
+*On November 1, 2005, the town of [[Kawahigashi, Fukushima|Kawahigashi]] (from [[Kawanuma District, Fukushima|Kawanuma District]]) was merged into Aizuwakamatsu.
+
+==Demographics==
+Per Japanese census data,&lt;ref&gt;[https://www.citypopulation.de/php/japan-fukushima.php Aizuwakamatsu population statistics]&lt;/ref&gt; the population of Aizuwakamatsu has not increased over the past 40 years.
+{| class=&quot;wikitable&quot;
+|-
+! Census Year
+! Population
+|-
+| 1970
+| 120,839
+|-
+| 1980
+| 130,883
+|-
+| 1990
+| 136,336
+|-
+| 2000
+| 135,415
+|-
+| 2010
+|126,125
+|}
+
+==Government==
+Aizuwakamatsu has a [[mayor-council]] form of government with a directly elected mayor and a [[unicameral]] city legislature of 29 members&lt;ref&gt;[https://www.city.aizuwakamatsu.fukushima.jp/docs/2015081000021/ Aizuwakamatsu city council home page] {{Webarchive|url=https://web.archive.org/web/20190724022323/https://www.city.aizuwakamatsu.fukushima.jp/docs/2015081000021/ |date=2019-07-24 }}{{in lang|ja}}&lt;/ref&gt; The city contributes four members to the Fukushima Prefectural Assembly. In terms of national politics, the city is part of Fukushima Electoral District 4 for the [[House of Representatives of Japan|lower house]] of the [[Diet of Japan]].
+
+==Economy==
+Aizuwakamatsu is a local commercial center. The area is traditionally noted for ''[[sake]]'' brewing and lacquerware. Modern industries include textiles, wood processing and electronics.&lt;ref&gt;{{cite book |last1=Campbell |first1=Allen |last2=Nobel |first2=David S  |title=Japan: An Illustrated Encyclopedia |publisher=Kodansha |date=1993 |pages=24 |isbn=406205938X}}&lt;/ref&gt;
+
+==Education==
+Aizuwakamatsu has one prefectural university and a private junior college. The city has 19 public elementary school and 11 public junior high schools operated by the city government. In addition, the is one private elementary school and one private junior high school. The Fukushima Prefectural Board of Education operates five public high schools and one combined junior/senior high school. The prefecture also operates two special education schools.
+
+===Universities and colleges===
+*[[University of Aizu]] 
+*[[Junior College of Aizu]]
+
+===Senior high schools===
+
+====Public (prefectural)====
+*Aizu High School (会津高等学校)
+*Aoi High School (葵高等学校)
+*Aizu Gakuhō High School (会津学鳳高等学校)
+*Wakamatsu Shōgyō High School (若松商業高等学校)
+*Aizu Kōgyō High School (若松工業高等学校)
+*Aizu Second High School (会津第二高等学校)
+
+====Private====
+*Aizuwakamatsu Xaverio Gakuen High School (会津若松ザベリオ学園高等学校)
+*Wakamatsu 1st High School (若松第一高等学校)
+*Jinai High School (仁愛高等学校)
+
+===Junior high schools===
+
+====Public (municipal)====
+*Aizuwakamatsu First Junior High School (会津若松市立第一中学校)
+*Aizuwakamatsu Second Junior High School (会津若松市立第二中学校)
+*Aizuwakamatsu Third Junior High School (会津若松市立第三中学校)
+*Aizuwakamatsu Fourth Junior High School (会津若松市立第四中学校)
+*Aizuwakamatsu Fifth Junior High School (会津若松市立第五中学校)
+*Aizuwakamatsu Sixth Junior High School (会津若松市立第六中学校)
+*Ikki Junior High School (一箕中学校)
+*Ōto Junior High School (大戸中学校)
+*Minato Junior High School (湊中学校)
+*Kitaaizu Junior High School (北会津中学校)
+*Kawahigashi Junior High School (河東中学校)
+*Aizu Gakuhō Junior High School (会津学鳳中学校, prefectural)
+**Note: All junior high schools are municipal except for Aizu Gakuhō Junior High School.
+
+====Private====
+*Aizuwakamatsu Xaverio Gakuen Junior High School (会津若松ザベリオ学園中学校)
+
+==Transportation==
+===Railway===
+[[File:JR logo (east).svg|20px]] [[JR East]] – [[Banetsu West Line]]
+** {{STN|Higashi-Nagahara}} – {{STN|Hirota}} – {{STN|Aizu-Wakamatsu}} – {{STN|Dōjima}} 
+[[File:JR logo (east).svg|20px]] [[JR East]] – [[Tadami Line]]
+**Aizu-Wakamatsu – {{STN|Nanukamachi}} – {{STN|Nishi-Wakamatsu}} – {{STN| Aizu-Hongō}}
+* [[Aizu Railway]] – [[Aizu Line]]
+**Nishi-Wakamatsu – [[Minami-Wakamatsu Station|Minami-Wakamatsu]] – [[Monden Station|Monden]] – [[Amaya Station|Amaya]] – [[Ashinomaki-Onsen Station|Ashinomaki-Onsen]] – [[Ōkawa-Dam-Kōen Station|Ōkawa-Dam-Kōen]] – [[Ashinomaki-Onsen-Minami Station|Ashinomaki-Onsen-Minami]]
+
+===Highway===
+*[[Ban-etsu Expressway]] – Bandai-Kawahigashi IC – Aizu-Wakamatsu IC
+* {{jct|country=JPN|Route|49}}
+* {{jct|country=JPN|Route|118}}
+* {{jct|country=JPN|Route|121}}
+* {{jct|country=JPN|Route|252}}
+* {{jct|country=JPN|Route|294}}
+* {{jct|country=JPN|Route|401}}
+
+==Media==
+=== Television ===
+*[[NHK]] Fukushima
+*[[Fukushima Television Broadcasting]]
+*[[Fukushima Central Television]]
+*[[Fukushima Broadcasting]]
+*TV-U Fukushima
+
+=== Newspapers ===
+*''Fukushima Mimpō''
+*''Fukushima Min-Yū''
+
+=== Radio ===
+*FM Aizu
+
+==Sister city relations==
+
+===Japanese sister cities===
+* [[Mutsu, Aomori]] (Since September 23, 1984)
+* [[Naruto, Tokushima]] (Since October 30, 1999)
+* [[Ina, Nagano]] (Since September 24, 2000)
+* [[Yokosuka, Kanagawa]] (Since April 17, 2005)
+
+===International sister cities===
+* {{flag|China}} – [[Jingzhou]] (Since June 15, 1991)&lt;ref&gt;[http://en.hubei.gov.cn/opening/sister_provinces_cities/201204/t20120421_346453.shtml Hubei provincial government site]&lt;/ref&gt;
+* {{flag|USA}} – [[Saipan]] (Since September 22, 2006) {{citation needed|date=October 2014}}
+
+==Local attractions==
+[[File:Aizuwakamatsu Castle 04.jpg|thumb|Aizuwakamatsu Castle]]
+* [[Aizuwakamatsu Castle]] (Tsuruga-jo)
+* [[Aizu Matsudaira's Royal Garden]] (Oyakuen)
+*[[Iimori Hill|Mount Iimori]]
+**[[Byakkotai]] graves
+** Sazaedo
+* former Takizawa [[Honjin]]
+* Aizu Matsudaira clan grave
+*[[Nisshinkan]]
+* Aizu samurai houses
+
+==Culture==
+
+===Festivals===
+* Aizu Festival
+
+===Foods===
+* Kozuyu
+* Sauce Katsu-don
+* Basashi (horse sashimi)
+* [[Soba]]
+* Boutara
+* [[Sake]]
+
+===Others===
+* [[Akabeko]]
+* [[Okiagari-koboshi]]
+
+==Notable people from Aizuwakamatsu==
+* [[Sōichirō Hoshi]], voice actor
+* [[Hiroshi Sasagawa]], anime creator
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikivoyage}}
+{{Commons category}}
+*[http://www.city.aizuwakamatsu.fukushima.jp/ Official Website] {{in lang|ja}}
+
+{{Fukushima}}
+{{Authority control}}
+
+[[Category:Cities in Fukushima Prefecture]]
+[[Category:Aizuwakamatsu| ]]</text>
+      <sha1>aemftehwjz5qfx08h0koqj380m1f84v</sha1>
+    </revision>
+  </page>

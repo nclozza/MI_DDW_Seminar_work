@@ -1,0 +1,176 @@
+  <page>
+    <title>Fossambault-sur-le-Lac</title>
+    <ns>0</ns>
+    <id>23959626</id>
+    <revision>
+      <id>770877600</id>
+      <parentid>597843973</parentid>
+      <timestamp>2017-03-18T04:11:52Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
+      </contributor>
+      <comment>Migrate {{Infobox settlement}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+&lt;!-- See Template:Infobox settlement for additional fields and descriptions --&gt;
+|name                   = Fossambault-sur-le-Lac
+|official_name          = 
+|native_name            =  
+|other_name             = 
+|settlement_type        = [[City (Quebec)|City]]
+&lt;!-- images, nickname, motto ---&gt;
+|image_skyline          = Lac Saint-Joseph, Quebec.jpg
+|imagesize              = 
+|image_caption          = Lake Saint-Joseph in Fossambault-sur-le-Lac
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            = 
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|nickname               = 
+|motto                  = ''Crois en l'avenir''
+ | image_map            = Fossambault-sur-le-Lac Quebec location diagram.png
+ | map_caption          = Location within La Jacques-Cartier RCM.
+ | pushpin_map          = Canada Central Quebec
+ | pushpin_label_position = left
+ | pushpin_label        = 
+ | pushpin_map_caption  = Location in central Quebec.
+|coordinates            = {{coord|46|52|N|71|37|W|region:CA-QC|display=inline,title}}
+|coor_pinpoint          = 
+|coordinates_footnotes  = &lt;ref name=&quot;toponymie&quot;/&gt;
+&lt;!-- location ------------------&gt;
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = {{QC}}
+|subdivision_type2      = [[Region (Quebec)|Region]]
+|subdivision_name2      = [[Capitale-Nationale]]
+|subdivision_type3      = [[Regional county municipality|RCM]]
+|subdivision_name3      = [[La Jacques-Cartier Regional County Municipality|La Jacques-Cartier]]
+|subdivision_type4      = 
+|subdivision_name4      =
+|established_title      = Settled
+|established_date       = 
+|established_title1     = Constituted
+|established_date1      = March 10, 1949
+|established_title2     = 
+|established_date2      = 
+|established_title3     = 
+|established_date3      = 
+&lt;!-- government type, leaders --&gt;
+|government_footnotes   = &lt;ref name=mamrot&gt;Ministère des Affaires municipales, des Régions et de l'Occupation du territoire - [http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/22010/ Répertoire des municipalités: Fossambault-sur-le-Lac]&lt;/ref&gt;
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Jean Laliberté
+|leader_title1          = [[List of Canadian federal electoral districts|Federal riding]]
+|leader_name1           = [[Portneuf—Jacques-Cartier]]
+|leader_title2          = [[List of Quebec provincial electoral districts|Prov. riding]]
+|leader_name2           = [[La Peltrie (provincial electoral district)|La Peltrie]]
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+&lt;!-- area ----------------------&gt;
+|area_footnotes           = &lt;ref name=&quot;mamrot&quot;/&gt;&lt;ref name=&quot;cp2011&quot;&gt;Statistics Canada 2011 Census - [http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&amp;Geo1=CSD&amp;Code1=2422010&amp;Geo2=PR&amp;Code2=24&amp;Data=Count&amp;SearchText=Fossambault-sur-le-Lac&amp;SearchType=Begins&amp;SearchPR=01&amp;B1=All&amp;Custom= Fossambault-sur-le-Lac census profile]&lt;/ref&gt;
+|area_magnitude         = 
+|area_total_km2           = 13.80
+|area_land_km2            = 11.38
+|area_water_km2           =
+|area_water_percent       =
+|area_blank1_title        =
+|area_blank1_km2          =
+|elevation_footnotes    =  &lt;!--for references: use &lt;ref&gt; &lt;/ref&gt; tags--&gt;
+|elevation_m            = 367
+&lt;!-- population ----------------&gt;
+|population_footnotes           = &lt;ref name=&quot;cp2011&quot;/&gt;
+|population_total               = 1613
+|population_as_of               = [[Canada 2011 Census|2011]]
+|population_density_km2         = 141.7
+|population_blank1_title        = Pop&amp;nbsp;&lt;small&gt;2006-2011&lt;/small&gt;
+|population_blank1              = {{increase}} 5.3%
+|population_density_blank1_km2 =   
+|population_blank2_title= Dwellings
+|population_blank2      = 1257
+|population_note                =
+&lt;!-- time zone(s) --------------&gt;
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = −5
+|timezone_DST           = [[Eastern Time Zone|EDT]]
+|utc_offset_DST         = −4
+&lt;!-- postal codes, area code ---&gt;
+|postal_code_type       = [[Canadian postal code|Postal code(s)]]
+|postal_code            = [[List of G postal codes of Canada|G3N]]
+|area_code              = [[Area codes 418 and 581|418 and 581]]
+|blank_name             = Highways
+|blank_info             = No major routes
+|blank1_name            =
+|blank1_info            =
+|website                = {{URL|www.fossambault-sur-le-lac.com|www.fossambault-&lt;br&gt;sur-le-lac.com}}
+|footnotes              = 
+}}
+
+'''Fossambault-sur-le-Lac''' is a French-speaking [[city (Quebec)|city]] in the south part of [[Quebec]], [[Canada]], in [[La Jacques-Cartier Regional County Municipality]], just north of [[Quebec City]]. It had a population of 1,613 as of the [[Canada 2011 Census]]. It is located near [[Lake Saint-Joseph]].
+
+==Demographics==
+===Population===
+{{Historical populations|width=60%
+| title= &lt;small&gt;Historical Census Data - Fossambault-sur-le-Lac, Quebec&lt;/small&gt;&lt;ref name=&quot;scpast&quot;&gt;Statistics Canada: [[Canada 1996 Census|1996]], [[Canada 2001 Census|2001]], [[Canada 2006 Census|2006]], [[Canada 2011 Census|2011]] census&lt;/ref&gt;
+| percentages = 
+| shading = off
+| align = none
+| cols = 3
+| 1991 |817
+| 1996 |921
+| 2001 |1055
+| 2006 |1532
+| 2011 |1613
+}}
+
+Private dwellings occupied by usual residents: 728 (total dwellings: 1,257)
+
+===Language===
+Mother tongue:
+* English as first language: 2.0%
+* French as first language: 96.7%
+* English and French as first language: 0.7%
+* Other as first language: 0.7%
+
+==Places of interest==
+''[[Station Touristique Duchesnay]]'' is one of the most attractive places of the town. The [[Jacques-Cartier River]] flows just nearby, and [[Route Fossambault]] links the town to [[Sainte-Catherine-de-la-Jacques-Cartier]], where the [[Sainte Catherine's church]] is located. There is also a well-known hotel, called &quot;Hotel de la Glace&quot;, with views overlooking the lake.
+
+==See also==
+*[[List of cities in Quebec]]
+
+==References==
+{{Reflist|refs=
+&lt;ref name=&quot;toponymie&quot;&gt;{{toponymie |23278}}&lt;/ref&gt;
+}}
+&lt;br&gt;
+{{Geographic location
+ | title = '''Adjacent Municipal Subdivisions'''
+ | Centre    = Fossambault-sur-le-Lac
+ | North     = 
+ | Northeast = [[Shannon, Quebec|Shannon]]
+ | East      = 
+ | Southeast = [[Sainte-Catherine-de-la-Jacques-Cartier]]
+ | South     = 
+ | Southwest = [[Sainte-Catherine-de-la-Jacques-Cartier]]
+ | West      = 
+ | Northwest = [[Lac-Saint-Joseph, Quebec|Lac-Saint-Joseph]]
+ | image =
+}}
+&lt;br&gt;
+{{La Jacques-Cartier RCM|state=expanded}}
+{{Greater Quebec}}
+
+[[Category:Cities and towns in Quebec]]
+[[Category:Incorporated places in Capitale-Nationale]]</text>
+      <sha1>o5yctb2aoy12gb03qlzq6yxhuguu3oq</sha1>
+    </revision>
+  </page>

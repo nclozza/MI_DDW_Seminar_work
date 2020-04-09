@@ -1,0 +1,121 @@
+  <page>
+    <title>N’Dali</title>
+    <ns>0</ns>
+    <id>13452398</id>
+    <revision>
+      <id>851991940</id>
+      <parentid>851918350</parentid>
+      <timestamp>2018-07-25T22:04:02Z</timestamp>
+      <contributor>
+        <username>PlyrStar93</username>
+        <id>9997592</id>
+      </contributor>
+      <minor />
+      <comment>rv szm020730</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+&lt;!--See the Table at Infobox Settlement for all fields and descriptions of usage--&gt;
+&lt;!-- Basic info  ----------------&gt;
+|name          = N’Dali
+|other_name             =
+|native_name            =  &lt;!-- for cities whose native name is not in English --&gt;
+|nickname               = 
+|settlement_type        =[[Communes of Benin|Commune]] and [[List of cities in Benin|city]]
+|motto                  =
+&lt;!-- images and maps  -----------&gt;
+|image_skyline          =Ndali-mosque-2005.jpg
+|imagesize              =
+|image_caption          = The Grand Mosque in N'Dali
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                =
+|map_caption            = 
+|pushpin_map            = Benin&lt;!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map --&gt;
+|pushpin_label_position =bottom
+|pushpin_mapsize        =
+|pushpin_map_caption    =Location in Benin
+&lt;!-- Location ------------------&gt;
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Benin}}
+|subdivision_type1      = [[Departments of Benin|Department]]
+|subdivision_name1      = [[Borgou Department]]
+|subdivision_type2      =
+|subdivision_name2      = 
+|subdivision_type3      =
+|subdivision_name3      = 
+|&lt;!-- Politics -----------------&gt;
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  &lt;!-- for places with, say, both a mayor and a city manager --&gt;
+|leader_name1           =
+|established_title      =  &lt;!-- Settled --&gt;
+|established_date       = 
+&lt;!-- Area    ---------------------&gt;
+|area_magnitude         = 
+|unit_pref                =Imperial &lt;!--Enter: Imperial, if Imperial (metric) is desired--&gt;
+|area_footnotes           =
+|area_total_km2           =3748 &lt;!-- ALL fields dealing with a measurements are subject to automatic unit conversion--&gt;
+|area_land_km2            = &lt;!--See table @ Template:Infobox Settlement for details on automatic unit conversion--&gt;
+&lt;!-- Population   -----------------------&gt;
+|population_as_of               =2002
+|population_footnotes           =
+|population_note                =
+|population_total               =67379
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+&lt;!-- General information  ---------------&gt;
+|timezone               =[[West Africa Time|WAT]] 
+|utc_offset             = +1
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|9|51|39|N|2|43|5|E|region:BJ|display=inline,title}}
+|elevation_footnotes    =  &lt;!--for references: use &lt;ref&gt; &lt;/ref&gt; tags--&gt;
+|elevation_m            = 
+|elevation_ft           =
+&lt;!-- Area/postal codes &amp; others --------&gt;
+|postal_code_type       =  &lt;!-- enter ZIP code, Postcode, Post code, Postal code... --&gt;
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}} 
+
+'''N'Dali''' is a city and [[Arrondissements of Benin|arrondissement]] in the north of [[Benin]], and the capital of the Commune of N'Dali in the  [[Borgou Department]]. The commune covers an area of 3748 square kilometres and as of 2002 had a population of 67,379 people.&lt;ref name=&quot;Atlasbenin&quot;&gt;{{cite web|url=http://atlasbenin.africa-web.org/Borgou/Ndali.htm|title=Ndali|publisher=Atlas Monographique des Communes du Benin|accessdate=January 5, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.statoids.com/ybj.html|title=Communes of Benin|publisher=Statoids|accessdate=January 5, 2010}}&lt;/ref&gt; In 2008 there were an estimated 16,941 people living in the main town of N'Dali.
+
+==Geography==
+It lies on the main north-south highway, approximately 60&amp;nbsp;km north of [[Parakou]], and is the location of a customs stop where all north/south commercial traffic on the RNIE-2 and RNIE-6 must stop for a customs check. The [[Sota River]] begins near N'Dali and flows north-north-east until it reaches the [[Niger River]] at [[Malanville]].
+
+It is also the seat of the [[Roman Catholic Diocese of N’Dali]].
+
+==References==
+{{Reflist}} 
+
+{{Communes of Benin}}
+
+{{DEFAULTSORT:N'Dali}}
+[[Category:Communes of Benin]]
+[[Category:Populated places in Benin]]
+
+{{Benin-geo-stub}}</text>
+      <sha1>pbrebpw3o0i6nl25ok5cv7377njbqwf</sha1>
+    </revision>
+  </page>

@@ -1,0 +1,226 @@
+  <page>
+    <title>Al-Rastan</title>
+    <ns>0</ns>
+    <id>10229633</id>
+    <revision>
+      <id>933483568</id>
+      <parentid>922870442</parentid>
+      <timestamp>2020-01-01T07:28:43Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor />
+      <comment>[[User:Monkbot/task 15: normalize lang icon templates|Task 15]]:  language icon template(s) replaced (2×);</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+|name                   =Ar-Rastan
+|official_name          = 
+|other_name             = 
+|native_name            =  {{lang|ar|الرستن}}&lt;!-- for cities whose native name is not in English --&gt;
+|nickname               = 
+|motto                  =
+&lt;!-- images and maps  -----------&gt;
+|image_skyline          = Rastan, 1934-39.jpg
+|imagesize              = 250px
+|image_caption          = Ar-Rastan (on hill in background) and waterwheel (forefront) separated by Orontes River, 1930s
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Syria &lt;!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map --&gt;
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Syria
+|pushpin_mapsize        =250
+&lt;!-- Location ------------------&gt;
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Syria}}
+|subdivision_type1      = [[Governorates of Syria|Governorate]]
+|subdivision_name1      = [[Homs Governorate|Homs]]
+|subdivision_type2      = [[Districts of Syria|District]]
+|subdivision_name2      = [[Al-Rastan District|Al-Rastan]]
+|subdivision_type3      = [[Nahiyah|Subdistrict]]
+|subdivision_name3      = Al-Rastan
+|settlement_type        =
+|subdivision_type4      = 
+|subdivision_name4      =
+&lt;!-- Politics -----------------&gt;
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  &lt;!-- for places with, say, both a mayor and a city manager --&gt;
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|established_title      =  &lt;!-- Settled --&gt;
+|established_date       = 
+|established_title2     =  &lt;!-- Incorporated (town) --&gt;
+|established_date2      = 
+|established_title3     =  &lt;!-- Incorporated (city) --&gt;
+|established_date3      =
+&lt;!-- Area    ---------------------&gt;
+|area_magnitude         = 
+|unit_pref                =Metric &lt;!--Enter: Imperial, if Imperial (metric) is desired--&gt;
+|area_footnotes           =
+|area_total_km2           = &lt;!-- ALL fields dealing with a measurements are subject to automatic unit conversion--&gt;
+|area_land_km2            = &lt;!--See table @ Template:Infobox Settlement for details on automatic unit conversion--&gt;
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+&lt;!-- Population   -----------------------&gt;
+|population_as_of               =2004
+|population_footnotes           =&lt;ref name=CBS/&gt;
+|population_note                =
+|population_total               =39,834
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+&lt;!-- General information  ---------------&gt;
+|timezone               = [[Eastern European Time|EET]]
+|utc_offset             = +2
+|timezone_DST           = +3
+|utc_offset_DST         = 
+|coordinates            = {{coord|34|55|N|36|44|E|region:SY|display=inline}}
+|elevation_footnotes    =  &lt;!--for references: use &lt;ref&gt; &lt;/ref&gt; tags--&gt;
+|elevation_m            = 430
+|elevation_ft           =
+&lt;!-- Area/postal codes &amp; others --------&gt;
+|postal_code_type       =  &lt;!-- enter ZIP code, Postcode, Post code, Postal code... --&gt;
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}
+
+'''ar-Rastan''' ({{lang-ar|الرستن}}) is the third largest city in the [[Homs Governorate]],&lt;ref&gt;The first two largest cities in the Homs Governorate according to the [[Central Bureau of Statistics (Syria)|Central Bureau of Statistics]]' 2004 census are Homs ([http://www.cbssyr.org/new%20web%20site/General_census/census_2004/NH/TAB04-1-2004.htm 652,609] {{webarchive|url=https://archive.is/20120731052244/http://www.cbssyr.org/new%20web%20site/General_census/census_2004/NH/TAB04-1-2004.htm |date=2012-07-31 }}) and [[Palmyra|Tadmur]] ([https://archive.is/20121220124749/http://www.cbssyr.org/new%20web%20site/General_census/census_2004/NH/TAB04-20-2004.htm 51,323]). {{in lang|ar}}&lt;/ref&gt; located {{convert|25|km|mi|sp=us}} north of its administrative capital [[Homs]] and {{convert|22|km|mi|sp=us}} from [[Hama]]. Nearby localities include [[Talbiseh]] and [[al-Ghantu]] to the south, [[al-Zaafaraniyah]] and [[al-Mashrafah]] to the southeast, [[Murayj al-Durr]] to the northeast, [[Tumin]] to the north, [[Deir al-Fardis]] to the northwest and [[Kafr Nan]] and the [[Houla]] village cluster to the west.&lt;ref&gt;Map depicting surrounding localities of ar-Rastan. [http://mapcarta.com/12691570 Rastan Map]. Mapcarta.&lt;/ref&gt; Ar-Rastan had a population of nearly 40,000 in 2004.&lt;ref name=CBS/&gt;
+
+It occupies the site of the Roman-era city of '''[[Arethusa (see)|Arethusa]]''' ({{lang-grc|Ἀρέθουσα}})&lt;ref&gt;[https://topostext.org/work/241#A116.5 Stephanus of Byzantium, Ethnica, §A116.5]&lt;/ref&gt; and still contains some of its ancient ruins. It continued to exist as a relatively small, but strategic town throughout the early Islamic and Ottoman eras. Ar-Rastan is situated adjacently south of the large bridge linking Homs and Hama.&lt;ref&gt;Bar'el, Zvi. [http://www.haaretz.com/news/middle-east/report-assad-s-air-force-pounds-population-centers-in-syria-s-rastan-1.416357 Report: Assad's air force pounds population centers in Syria's Rastan]. ''[[Haaretz]]''. 4 March 2012. Retrieved 28 June 2012.&lt;/ref&gt; The total land area of the town is 350 hectares.&lt;ref&gt;[http://www.esyria.sy/ehoms/index.php?p=stories&amp;category=places&amp;filename=200910211400022 الرستن جمال الطبيعة وأصالة التاريخ]. E-Syria. 21 October 2009.&lt;/ref&gt; It is the site of the [[al-Rastan Dam]], a major [[dam]] on the [[Orontes River]] that has a retaining capacity of 225 million m³. The dam is principally used for irrigation.&lt;ref&gt;[http://www.erhard.de/index.php?WaterfortheFields Water for the Fields]. Talis. Retrieved 28 June 2012.&lt;/ref&gt; The city also contains one of Syria's principal [[marl]]stone quarries.&lt;ref&gt;Britannica, p. 19.&lt;/ref&gt;
+
+From the start of the [[Syrian Civil War]] until 2018, Ar-Rastan served as a major opposition stronghold and had been the site of much fighting between Syrian Government Forces and rebels of various factions.  The Syrian government retook control of the city on 15 May, 2018 as part of an agreement which allowed rebels and their families safe passage to rebel-held parts of northern Syria in exchange for surrendering the territory along with their heavy weapons.
+
+==History==
+
+===Classical era===
+[[File:ناووس روماني.JPG|thumb|Roman sarcophagus of Arethuse, 3rd century BCE, found in the Rastan area, preserved in the [[National Museum of Damascus]]]]
+Ar-Rastan was built on the site of ancient Arethusa. According to Roman historian [[Appian]],&lt;ref name=&quot;Cohen101&quot;&gt;Cohen, 2006, p. 101.&lt;/ref&gt; Arethusa was established by [[Seleucus I Nicator]], founder of the [[Seleucid dynasty]] in the 3rd century BCE.&lt;ref&gt;Levick, p. 7.&lt;/ref&gt; Most sources agree Seleucus named it after the city of [[Arethusa (Mygdonia)|Arethusa]] in [[Greek Macedonia]], but others claim it was named after a spring in [[Sicily]] with the same name.&lt;ref&gt;Byzantine historian Stephanos and French historian agree that Arethusa was named after the Arethusa of Greek Macedonia while Michael Avi-Yonah claims it was named after [[Arethuse]] in Sicily. Cohen, 2006, p. 102.&lt;/ref&gt; Arethusa in native [[Syriac Christians|Syriac]] was called Arastan, also mentioned in the Christian [[First Council of Nicaea]] in 325 AD. To a lesser extent, the name &quot;Arastan&quot; continued to be used by the indigenous inhabitants, alongside &quot;Arethusa&quot;.&lt;ref&gt;Cohen, 2006, p. 202.&lt;/ref&gt;
+
+It served as the first capital of the [[Royal family of Emesa|Emesani kingdom]] in central Syria,&lt;ref&gt;Butcher, p. 91.&lt;/ref&gt; a vassal of the [[Roman Empire]], in the mid-1st-century BCE.&lt;ref&gt;Levick, p. 12.&lt;/ref&gt; Roman historian [[Strabo]] stated that it was well governed under the ''[[phylarch]]'' Sampsiceramus I from 64 to 63,&lt;ref&gt;Levick, p. 8.&lt;/ref&gt; when the Roman general [[Pompey]] captured it.&lt;ref name=&quot;Burton64&quot;&gt;Burton, p. 64.&lt;/ref&gt;&lt;ref name=&quot;Butcher92&quot;/&gt; Emesani control was restored by 46 BCE when it was ruled by Iamblichus I.&lt;ref name=&quot;Cohen101&quot;/&gt; During the [[Final War of the Roman Republic|Roman civil war]] that followed the death of [[Julius Caesar]], the city's inhabitants sided with [[Mark Antony]] against [[Octavian]]. Nonetheless, Arethusa became an independent city-state following Octavian's victory in the [[Battle of Actium]] in 31 BCE, but returned to Emesani control eleven years later. Thereafter, its status declined with the rise of nearby [[Emesa]] (modern-day Homs) as a religious and political center.&lt;ref name=&quot;Butcher92&quot;&gt;Butcher, p. 92.&lt;/ref&gt;
+
+===Byzantine era===
+Arethusa was a Christian [[bishopric]] by the beginning of the 4th century. The [[First Council of Nicaea]] in 325 counted among its participants a Bishop Eustathius of Arethusa.&lt;ref name=Lequien&gt;Michel Lequien, [https://books.google.com/books?id=86weAemI-e4C&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false ''Oriens christianus in quatuor Patriarchatus digestus''], Paris 1740, Vol. II, coll. 915-916&lt;/ref&gt;&lt;ref name=Gams&gt;[Pius Bonifacius Gams, [http://www.wbc.poznan.pl/dlibra/doccontent?id=65154&amp;dirids=1 ''Series episcoporum Ecclesiae Catholicae''], Leipzig 1931, p.&amp;nbsp;436]&lt;/ref&gt;
+
+In the time of [[Roman emperor]] [[Constantius II]] (337-361), Bishop Marcus (Mark) of Arethusa was authorized to replace a [[pagan]] temple in the city with a Christian church. Under [[Julian the Apostate]] (361–363), he was ordered to rebuild the temple. To avoid doing so he fled from the city, but returned to save the Christian people from paying the penalty in his stead, and in 362 underwent very cruel treatment at the hands of the pagan mob, as recounted by [[Theodoret]] and [[Sozomen]].&lt;ref&gt;Their accounts are given in both the original texts and in English translation in [https://books.google.com/books?id=EfQ8AAAAcAAJ&amp;pg=PA351&amp;lpg=PA351&amp;dq=Bishop+Marcus+of+Arethusa&amp;source=bl&amp;ots=ffP_iIfrmN&amp;sig=EKt0AloR3Kd3IO6JW2eMKLkRSy4&amp;hl=en&amp;sa=X&amp;ei=XtfXU-ruAdTy7AaZlIGACg&amp;ved=0CDEQ6AEwAg#v=onepage&amp;q=Bishop%20Marcus%20of%20Arethusa&amp;f=false John Brown, ''The Law of Christ Respecting Civil Obedience'' (London, 1839), pp. 351–356]&lt;/ref&gt; He is said to have been the author of the [[Creed of Sirmium]] (351) and was counted by [[Tillemont]] as an [[Arianism|Arian]]. Research by the [[Bollandists]] restored his reputation for orthodoxy. The [[Roman Martyrology]] commemorates him on 29 March, with the description: &quot;Saint Mark, Bishop of Arethusa in Syria, who in the time of the Arian controversy held firm to the orthodox faith and was severely maltreated under Julian the Apostate. Saint [[Gregory of Nazianzus]] lauds him as an outstanding and saintly old man.&quot;&lt;ref&gt;''Martyrologium Romanum'' (Libreria Editrice Vaticana, 2001, {{ISBN|978-88-209-7210-3}}), p. 198&lt;/ref&gt; The Eastern Orthodox Church celebrates him on 20 March.&lt;ref name=Lequien/&gt;
+
+By a subdivision of the Roman province of [[Coele-Syria]] after c. 415, Arethusa became part of the new province of [[Syria (Roman province)|Syria Secunda]] or Syria Salutaris, with capital at [[Apamea, Syria|Apamea on the Orontes]] (modern-day [[Qalaat al-Madiq]]).&lt;ref&gt;Moosa, 2005, p. 7.&lt;/ref&gt; The [[episcopal see]] of Arethusa thus became a suffragan of the [[metropolitan see]] of Apamea rather than of Antioch.
+
+Other bishops of Arethusa whose names are known are: a second Mark, who took part in the [[Council of Chalcedon]] in 451; Eusebius, one of the signatories of the letter that the bishops of Syria Secunda wrote to Emperor [[Leo I the Thracian]] after the killing of Patriarch [[Proterius of Alexandria]]; Severianus at the start of the 6th century; and Abraamius, who ordained the priest Constantinus of Apamea, accused of Monothelism at the [[Third Council of Constantinople]] (680–681).&lt;ref name=Lequien/&gt;&lt;ref name=Gams/&gt;
+
+[[Lebanon|Lebanese]] sources such as [[Giuseppe Simone Assemani]] and Bishop Yusef al-Dibs claim that [[Maron]], the [[patron saint]] of the [[Maronite Church]], who died in 410, was buried in Arethusa.&lt;ref&gt;Moosa, 2005, p. 23.&lt;/ref&gt; Most Maronite sources also believe the Monastery of Maron was located in the city as well.&lt;ref&gt;Moosa, 2005, p. 27.&lt;/ref&gt;
+
+In the [[Crusades]] period, Arethusa (which was called Artasia) was for a short time a [[Latin Rite]] see, of which two bishops are known, mentioned respectively in 1100 and 1135.&lt;ref&gt;Konrad Eubel, ''Hierarchia Catholica Medii Aevi'', [http://sul-derivatives.stanford.edu/derivative?CSNID=00002718&amp;mediaType=application/pdf vol. 3], p.&amp;nbsp;116; [https://archive.org/stream/hierarchiacathol05eubeuoft#page/97/mode/1up vol. 5], p.&amp;nbsp;97; [https://archive.org/stream/hierarchiacathol06eubeuoft#page/98/mode/1up vol. 6], p.&amp;nbsp;98&lt;/ref&gt; Since Arethusa is no longer a residential bishopric, it is today listed by the [[Catholic Church]] as a [[titular see]] for both the [[Latin Church]] and the [[Syriac Catholic Church]].&lt;ref&gt;''Annuario Pontificio 2013'' (Libreria Editrice Vaticana 2013 {{ISBN|978-88-209-9070-1}}), p. 838&lt;/ref&gt;
+
+===Islamic era===
+According to early Muslim geographers,&lt;ref&gt;[[Istakhri]] and [[Abu'l Fida]], quoted by le Strange, 1890, pp. [https://archive.org/stream/palestineundermo00lestuoft#page/519/mode/1up 519]–520.&lt;/ref&gt; ar-Rastan, despite its strong fortifications and large garrison was swiftly captured then destroyed by [[Abu Ubaida]]'s forces during the [[Muslim conquest of Syria]] in 634,&lt;ref name=&quot;Burton64&quot;/&gt; while [[Umar|Umar ibn al-Khattab]] was [[caliph]].&lt;ref name=&quot;le Strange520&quot;/&gt; In early 945 the [[Aleppo]]-based [[Hamdanid]]s under the leadership of [[Sayf al-Dawla]] decisively defeated the [[Ikhshidid dynasty|Ikhshidid]] army led by [[Abu al-Misk Kafur]] at ar-Rastan from which they proceeded to conquer [[Damascus]].&lt;ref&gt;Houtsma, p. 676.&lt;/ref&gt; According to one account, about 4,000 Ikshidid soldiers were taken captive in addition to hundreds killed in action or drowned in the Orontes River.&lt;ref&gt;Breasted, p. 84.&lt;/ref&gt;
+
+In 1115 while [[Artukid]] ruler [[Ilghazi]] was resting at ar-Rastan on his way north to [[Diyarbakır]], Khir Khan ibn Qaraja, the [[Seljuk dynasty|Seljuk]] ruler of Homs, attacked his camp and briefly had him imprisoned.&lt;ref&gt;Richards, p. 167.&lt;/ref&gt;&lt;ref&gt;Houtsma, p. 466.&lt;/ref&gt; Following [[Saladin]]'s arrival at ar-Rastan in February 1175, the Crusaders under [[Raymond III, Count of Tripoli|Raymond of Tripoli]] withdrew from their siege of Homs which was then captured by Saladin, bringing most of Syria under [[Ayyubid dynasty|Ayyubid]] rule.&lt;ref&gt;Ibn al-Athir, p. 34.&lt;/ref&gt; In 1226, during Ayyubid rule, Syrian geographer [[Yaqut al-Hamawi]] visited ar-Rastan and wrote that it was &quot;a small and ancient town&amp;nbsp;... It is now a ruin, but the remains still show what was its former splendor.&quot;&lt;ref name=&quot;le Strange520&quot;/&gt;
+
+The [[Bahri dynasty|Mamluk]]s gained control over Syria in the 1260s, and organized the [[Bilad al-Sham|region]] into kingdoms subordinate to the [[Mamluk Sultanate (Cairo)|sultanate in Cairo]]. Ar-Rastan became the southernmost town of Mamlakat Hama (&quot;Kingdom of Hama&quot;) near the border with Mamlakat Hims.&lt;ref&gt;Ziadeh, 1953, p. 14.&lt;/ref&gt; In a [[Second Battle of Homs|major battle]] at a place between the town and Homs, the Mamluks under [[Qalawun]] decisively defeated the invading [[Mongol military tactics and organization|Mongol army]] of the [[Ilkhanate]] in 1281.&lt;ref&gt;Amitai-Preiss, 2005, p. 195.&lt;/ref&gt; Later, in the early 14th century, [[Abu'l-Fida]] noted that in ar-Rastan, &quot;Each of the houses is so large as to be almost like a village, with ruins everywhere round of buildings and walls.&quot; He further noted that a few arches, gates, parts of the city wall and its water channel were still present.&lt;ref name=&quot;le Strange520&quot;&gt;le Strange, 1890, p. [https://archive.org/stream/palestineundermo00lestuoft#page/520/mode/1up 520].&lt;/ref&gt;
+
+In the late 16th-century or early 17th-century, during [[Ottoman Empire|Ottoman]] rule, the [[caravanserai]] Khan ar-Rastan was built just outside the town.&lt;ref&gt;Grube, 1978, p. 103.&lt;/ref&gt; [[Abd al-Ghani al-Nabulsi]], the 17th-century [[Sufi]] sheikh, visited the false tomb of Persian Sufi mystic [[Bayazid Bastami|Abu Yazid al-Bistami]] at ar-Rastan (the actual one is in [[Bastam|Bistam]]) in 1678, writing &quot;over his grave there is splendor and awe, asserting his presence there.&quot;&lt;ref&gt;Sirriyeh, p. 128.&lt;/ref&gt; Khan al-Rastan was visited in 1745 by [[Edward Pococke]] who described  it as a &quot;huge fortified caravanserai&quot; that was decaying rapidly.&lt;ref name=&quot;Burton64&quot;/&gt;
+
+===Modern era===
+At the beginning of the 19th-century, ar-Rastan was an impoverished village whose population engaged primarily in [[husbandry]].&lt;ref name=&quot;Bey290&quot;/&gt; It occupied the northernmost part of Arethusa's ruins.&lt;ref name=&quot;Walpole180&quot;&gt;Walpole, p. 180.&lt;/ref&gt; Like Homs during this period, its houses were built of black trapp.&lt;ref name=&quot;Bey290&quot;&gt;Bey, p. 290.&lt;/ref&gt; They were described as small, ramshackle dwellings with mud roofs supported by wooden beams. A few buildings dating from the Mamluk era contained arches with the ''[[ablaq]]'' architectural style.&lt;ref name=&quot;Walpole180&quot;/&gt;
+
+During the [[Franco-Syrian War]], ar-Rastan served as one of the bases for [[Saleh al-Ali]] and his local allies and was shelled by French forces in early 1920.&lt;ref&gt;Moosa, 1987, p. 282.&lt;/ref&gt; Two [[Sunni Muslim]] agricultural clans, the Firzat and the Hamdan, dominated ar-Rastan in the 19th and early 20th centuries. The former claimed descent from the [[Banu 'Abs]] tribe that arrived in Syria as part of [[Khalid ibn al-Walid]]'s army in the mid-7th-century. A member, Sheikh Abd al-Qader, served as ar-Rastan's ''[[mukhtar]]'' in the late [[Ottoman Empire|Ottoman]] and [[French Mandate of Syria|French Mandate]] periods.&lt;ref name=&quot;Batatu152&quot;&gt;Batatu, p. 152.&lt;/ref&gt;
+
+Abd al-Qader was the father of [[Mustafa Tlass]] who would become Defense Minister under [[Hafez al-Assad]] in 1972. The Hamdan had greater influence in the city and politically identified itself with the [[Nasserism|Nasserist]] trend which gained mass appeal in the [[Arab world]] in the 1950s–60s.&lt;ref name=&quot;Batatu152&quot;/&gt;
+
+On 23 March 1961, the Bulgarian Techno-Impex company completed the Rastan Dam while Syria was part of the [[United Arab Republic]] with [[Egypt]]. The dam is currently the third largest in the country.&lt;ref&gt;Oron, p. 511.&lt;/ref&gt;
+
+===Ongoing Syrian Civil War===
+{{Main article|Siege of Rastan and Talbiseh|Battle of Rastan (2011)|Battle of Rastan (2012)|May 2012 battle of Rastan}}
+Ar-Rastan was one of the first cities to participate in the Syrian uprising against the government of [[Bashar al-Assad]] that would lead to the ongoing [[Syrian Civil War]].  In mid-April large anti-government demonstrations began taking place in ar-Rastan as well as nearby [[Talbiseh]].&lt;ref&gt;[https://www.bbc.co.uk/news/world-middle-east-13130401 Syria protests: Homs city sit-in 'dispersed by gunfire']. ''[[BBC News]]''. 19 April 2011. Retrieved 26 June 2012.&lt;/ref&gt; On 28 April about 50 local [[Ba'ath Party (Syrian-led faction)|Ba'ath Party]] officials resigned from the organization in protest of the government and opposition activists claimed 17 demonstrators were killed by security forces.&lt;ref&gt;Oweis, Khalid Yacoub. [http://in.reuters.com/article/2011/05/04/idINIndia-56765220110504 Syrian tanks deploy in town; hundreds detained]. [[Reuters]]. 4 May 2011. Retrieved 26 June 2012.&lt;/ref&gt; On 29 May, the Syrian Army launched an [[Siege of Rastan and Talbiseh|assault]] on the city which lasted through most of the first week of June. By 2 June local activists claimed at least 52 civilians were killed, while the government stated four of its soldiers were killed in the offensive.&lt;ref name=&quot;Reuters2&quot;&gt;Oweis, Khalid Yacoub. [https://www.reuters.com/article/2011/06/02/us-syria-rastan-idUSTRE75131S20110602 Syria forces kill 11 civilians in Rastan: activists]. [[Reuters]]. 2 June 2011. Retrieved 28 June 2012.&lt;/ref&gt;
+
+By August 2011, ar-Rastan was mostly in the hands of the opposition [[Free Syrian Army]] (FSA) which was made up of defectors from the [[Syrian Army]] and civilian volunteers.&lt;ref name=&quot;Ajami&quot;/&gt; According to ''[[Al Jazeera]]'', &quot;Many defectors from the army come from Rastan.&quot;&lt;ref name=&quot;AJE1&quot;&gt;[http://www.aljazeera.com/news/middleeast/2012/05/20125148022185166.html Syrian troops 'killed' in Rastan clashes]. ''[[Al Jazeera English]]''. Quote by Al Jazeera correspondent Rula Amin. 14 May  2012. Retrieved 27 June 2012.&lt;/ref&gt; The unit based in the city called themselves the Khalid ibn al-Walid Battalion. That month saw the FSA target local government figures and sympathizers, and pro-government [[Shabiha]] militiamen attack opposition-held neighborhoods. In late September the Syrian Army, reportedly backed by tanks and helicopters, launched an operation to retake the city resulting in [[Battle of Rastan (2011)|four days of fighting]]. The Syrian Army succeeded and the FSA withdrew.&lt;ref name=&quot;Ajami&quot;&gt;Ajami, 2012, ch. Sarajevo on the Orontes.&lt;/ref&gt;
+
+Opposition militants regained control of the city by January 2012 reigniting continuous [[Battle of Rastan (2012)|clashes]] between them and the security forces which started late that month.&lt;ref name=&quot;AJE1&quot;/&gt; On 31 January ten activists and their relatives were killed in ar-Rastan after their building collapsed from Syrian Army fire.&lt;ref&gt;Oweis, Khalid Yacoub. [http://in.reuters.com/article/2012/01/31/syria-attack-idINDEE80U0GI20120131 Syrian forces kill 10 in rebel town]. [[Reuters]]. 31 January 2012. Retrieved 27 June 2012.&lt;/ref&gt; On 6 February a local FSA unit commander Ala'a al-Sheikh reported that at least 42 people were killed by the Syrian Army in the preceding three days.&lt;ref&gt;Weiss, Michael.[http://blogs.telegraph.co.uk/news/michaelweiss/100135384/russia-iran-and-hezbollah-are-already-intervening-in-syria-why-arent-we/ &quot;Russia, Iran and Hezbollah are already intervening in Syria. Why aren't we?&quot;]. ''[[The Daily Telegraph]]''. 6 February 2012. Retrieved 27 June 2012.&lt;/ref&gt; By 4 March the FSA had managed to repel the Syrian Army, although many of their fighters retreated &quot;for tactical reasons&quot; according to their local commander. Army shelling reportedly killed three people that day.&lt;ref&gt;Abedine, Saad. [http://articles.cnn.com/2012-03-04/middleeast/world_meast_syria-unrest_1_homs-and-hama-local-coordination-committees-opposition-activists?_s=PM:MIDDLEEAST More blood shed as rockets fall on Rastan, fears grow in Homs] {{webarchive|url=https://web.archive.org/web/20120512010429/http://articles.cnn.com/2012-03-04/middleeast/world_meast_syria-unrest_1_homs-and-hama-local-coordination-committees-opposition-activists?_s=PM%3AMIDDLEEAST |date=2012-05-12 }}. ''[[CNN]]''. 4 March 2012. Retrieved 27 June 2012.&lt;/ref&gt; On 14 May, opposition sources claimed that nine people were killed as a result of Syrian Army shelling, while 23 soldiers were killed after the FSA attacked Syrian Army armored carriers approaching the city. An FSA member stated that ar-Rastan &quot;has been destroyed.&quot;&lt;ref name=&quot;AJE1&quot;/&gt;
+In September 2015, the [[Syrian Observatory for Human Rights]] reported that ISIS jihadists murdered seven men in the town, accusing them of &quot;being homosexual&quot;.&lt;ref&gt;[https://news.yahoo.com/executes-10-people-accused-being-gay-syria-monitor-204159542.html IS executes 10 people accused of being gay in Syria: monitor] AFP September 2015&lt;/ref&gt; {{anchor|Bassel National Hospital}}In the northside of the city, the al-Bassel National Hospital is a major army base for government troops and is often the target of rebel shelling.&lt;ref&gt;[https://www.youtube.com/watch?v=I8OzbZzpyVc الجيش الحر يستهدف قوات النظام في المشفى الوطني بالرستن], SMART News Agency, 23 déc. 2015&lt;/ref&gt; 
+
+On 16 May 2018, the Syrian government established control over city after the last rebels were transported to the Idlib Governorate.&lt;ref&gt;{{cite web|url= https://sana.sy/en/?p=137892 |title=National flag hoisted over al-Rastan and Talbeisa|date=16 May 2018|publisher=[[Syrian Arab News Agency]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.almasdarnews.com/article/syrian-army-raises-flag-over-long-time-rebel-stronghold-in-northern-homs/|title=Syrian Army raises flag over long-time rebel stronghold in northern Homs|date=15 May 2018|publisher=[[Al Masdar News]]}}&lt;/ref&gt;
+
+==Demographics==
+In 1970 ar-Rastan's population was 7,509.&lt;ref&gt;United States. Office of International Health. Division of Planning and Evaluation, 1977, p. 131.&lt;/ref&gt; It had a population of 39,834 in 2004 according to the census by the [[Central Bureau of Statistics (Syria)|Central Bureau of Statistics of Syria]] (CBS). There were a total of 6,066 households.&lt;ref name=CBS&gt;[https://archive.is/20130112185055/http://www.cbssyr.org/new%20web%20site/General_census/census_2004/NH/TAB04-18-2004.htm General Census of Population and Housing 2004]. [[Central Bureau of Statistics (Syria)|Syria Central Bureau of Statistics]] (CBS). Homs Governorate. {{in lang|ar}}&lt;/ref&gt; [[Reuters]] news agency put the city's population in 2011–2012 as roughly 60,000.&lt;ref name=&quot;Reuters2&quot;/&gt; The inhabitants are mostly [[Sunni Muslim]]s.&lt;ref&gt;[http://mobile.reuters.com/article/topNews/idUSBRE84S0P020120610 Assad Forces Renew Homs Assault]. [[Reuters]]. 10 June 2012. Retrieved 28 June 2012.&lt;/ref&gt;
+
+==References==
+{{reflist|colwidth=30em}}
+
+==Bibliography==
+{{refbegin}}
+*{{cite book|first=Fouad|last=Ajami|title=The Syrian Rebellion|url=https://books.google.com/?id=Smc_kC5anMsC&amp;dq=Rastan+Syria|publisher=Hoover Press|year=2012|isbn=978-0817915063}}
+*{{cite book|first=Reuven|last=Amitai-Preiss|title=Mongols and Mamluks: The Mamluk-Īlkhānid War, 1260–1281|url=https://books.google.com/?id=DFO-eV9cQ0sC&amp;dq=Rastan+Mamluk|publisher=Cambridge University Press|year=2005|isbn=0521522900}}
+*{{cite book|first=Hanna|last=Batatu|title=Syria's Peasantry, the Descendants of Its Lesser Rural Notables, and Their Politics|url=https://books.google.com/?id=Mbr-ZfU_uCoC&amp;dq=Rastan+Syria|publisher=Princeton University Press|year=1999|isbn=0691002541}}
+*{{cite book|first=Ali|last=Bey|title=Travels of Ali Bey : in Morocco, Tripoli, Cyprus, Egypt, Arabia, Syria, and Turkey, Between the Years 1803 and 1807|url=|publisher=Longman, Hurst, Rees, Orme, and Brown|year=1816|volume=2}}
+*{{cite book|first=James Henry|last=Breasted|title=A History of Egypt from the Earliest Times to the Persian Conquest
+|url=https://books.google.com/?id=FWAL8L-a7CwC&amp;dq=Breasted+Rastan|publisher=Ardent Media|year=1927}}
+*{{cite book|first=Sir Richard Francis|last=Burton|title=Unexplored Syria: Visits to the Libanus, the Tulúl el Safá, the Anti-Libanus, the Northern Libanus, and the 'Aláh|url=https://books.google.com/?id=TYwrAQAAIAAJ&amp;dq=Khan+Rastan|publisher=Tinsley Brothers|year=1872|volume=1}}
+*{{cite book|first=Kevin|last=Butcher|title=Roman Syria and the Near East|url=https://books.google.com/?id=YJPn3-rRjC0C&amp;dq=Arethusa+Syria|publisher=Getty Publications|year=2003|isbn=0892367156}}
+*{{cite book|author=Britannica Educational Publishing|editor=Laura S. Etheredge|title=Syria, Lebanon, and Jordan|url=https://books.google.com/?id=mqrjDpWgGfgC&amp;dq=Rastan+Syria|publisher=The Rosen Publishing Group|year=2011|isbn=978-1615304141}}
+*{{cite book|first=Samuel Taylor|last=Coleridge|title=Encyclopaedia Metropolitana or Universal Dictionary of Knowledge|url=https://books.google.com/?id=zBVGAQAAIAAJ&amp;dq=Arethusa+Syria|publisher=B. Fellowes|year=1845}}
+*{{cite book|first=Getzel M.|last=Cohen|title=The Hellenistic Settlements in Syria, the Red Sea Basin, And North Africa|url=https://books.google.com/?id=RqdPcxuNthcC&amp;dq=Rastan+Syria|publisher=University of California Press|year=2006|isbn=0520241487}}
+*{{cite book|first=Ernst J.|last=Grube|title=Architecture of the Islamic world: its history and social meaning, with a complete survey of key monuments|url=https://books.google.com/?id=EcqfAAAAMAAJ&amp;dq=Rastan+Ottoman&amp;q=Rastan#search_anchor|publisher=Morrow|year=1978}}
+*{{cite book|first=M. H.|last=Houtsma|title=E.J. Brill's First Encyclopaedia of Islam|url=https://books.google.com/?id=wpM3AAAAIAAJ&amp;dq=Huwwarin|publisher=BRILL|year=1987|isbn=9004082654}}
+*{{cite book|first=Izz al-Din|last=Ibn al-Athir|editor=Donald Sidney Richards|title=The Chronicle of Ibn Al-Athīr for the Crusading Period from Al-Kāmil Fīʼl-taʼrīkh: The years 541–589|url=https://books.google.com/?id=QQafhE-PPYkC&amp;dq=Rastan+Syria|publisher=Ashgate Publishing, Ltd.|year=2007|isbn=978-0754640783}}
+*{{cite book|first=Barbara|last=Levick|title=Julia Domna, Syrian Empress|url=https://books.google.com/?id=uYTh0KFGJ9MC&amp;dq=Arethusa+Syria|publisher=Taylor &amp; Francis|year=2007|isbn=978-0415331432}}
+*{{cite book|first=Matti|last=Moosa|title=Extremist Shiites: The Ghulat Sects|url=https://books.google.com/?id=WYO1BqdvX9EC&amp;dq=al-Rastan|publisher=Syracuse University Press|year=1987|isbn=0815624115}}
+*{{cite book|first=Matti|last=Moosa|title=The Maronites in History|url=https://books.google.com/?id=8Ogp94y8CJgC&amp;dq=Arethusa+Byzantine+Syria|publisher=Gorgias Press LLC|year=2005|isbn=1593331827}}
+*{{cite book|first=Yitzhak|last=Oron|title=Middle East Record, 1961|url=https://books.google.com/?id=vzZ71Eh5QvMC&amp;dq=Rastan+Syria|publisher=The Moshe Dayan Center|year=1962|volume=2}}
+*{{cite book|first=Elizabeth|last=Sirriyeh|title=Sufi Visionary of Ottoman Damascus: ʻAbd Al-Ghanī Al-Nābulusī, 1641–1731|url=https://books.google.com/?id=d4XYRgmgXsIC&amp;dq=Rastan+Ottoman|publisher=Psychology Press|year=2005|isbn=0415341655}}
+*{{Citation|title=Palestine Under the Moslems: A Description of Syria and the Holy Land from A.D. 650 to 1500|url=https://archive.org/details/palestineundermo00lestuoft|first1=Guy|last1=le Strange|year=1890|publisher=Committee of the [[Palestine Exploration Fund]]}}
+*{{cite book|author=United States. Office of International Health. Division of Planning and Evaluation|title=Syncrisis: The Dynamics of Health, Issues 21–24|url=https://books.google.com/?id=8GwgAAAAMAAJ&amp;dq=Rastan+population&amp;q=Rastan#search_anchor|publisher=Office of International Health, Division of Planning and Evaluation; For Sale by the Supt. of Docs., U. S. Govt. Print. Office|year=1977}}
+*{{cite book|first=Frederick|last=Walpole|title=The Ansayrii, (or Assassins,): With Travels in the Further East, in 1850–51. Including a Visit to Ninevah|url=https://books.google.com/?id=6b5JAAAAMAAJ&amp;dq=Telbisse+Rastan|publisher=R. Bentley|year=1851}}
+*{{cite book|first=Nicole A.|last=Ziadeh|title=Urban Life in Syria Under the Early Mamluks|url=https://books.google.com/?id=3ucBAAAAMAAJ&amp;dq=Rastan+Mamluk&amp;q=Rastan#search_anchor|publisher=Greenwood Press|year=1953}}
+{{refend}}
+
+{{Cities of Syria}}
+{{Homs Governorate|rastan}}
+
+{{DEFAULTSORT:Rastan}}
+[[Category:Cities in Syria]]
+[[Category:Populated places in al-Rastan District]]
+[[Category:Catholic titular sees in Asia|Arethusa]]
+[[Category:Royal Family of Emesa]]</text>
+      <sha1>rwvtzc64cowzjjq57mygw2uluzfo1ln</sha1>
+    </revision>
+  </page>

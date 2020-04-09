@@ -1,0 +1,158 @@
+  <page>
+    <title>Sbiba</title>
+    <ns>0</ns>
+    <id>21460593</id>
+    <revision>
+      <id>907174950</id>
+      <parentid>893735792</parentid>
+      <timestamp>2019-07-21T01:28:36Z</timestamp>
+      <contributor>
+        <username>Broccoli and Coffee</username>
+        <id>24034089</id>
+      </contributor>
+      <minor />
+      <comment>Disambiguating links to [[Roman]] (link changed to [[Ancient Rome]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+&lt;!--See the Table at Infobox Settlement for all fields and descriptions of usage--&gt;
+&lt;!-- Basic info  ----------------&gt;
+|official_name          =Sbiba
+|other_name             =
+|native_name            =  &lt;!-- for cities whose native name is not in English --&gt;
+|nickname               = 
+|settlement_type        = &lt;!--For Town or Village (Leave blank for the default City)--&gt;
+|motto                  =
+&lt;!-- images and maps  -----------&gt;
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Tunisia&lt;!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map --&gt;
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Tunisia
+&lt;!-- Location ------------------&gt;
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of Tunisia.svg|25px]] [[Tunisia]]
+|subdivision_type1      = [[Governorates of Tunisia|Governorate]]
+|subdivision_name1      = [[Kasserine Governorate]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+&lt;!-- Politics -----------------&gt;
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  &lt;!-- for places with, say, both a mayor and a city manager --&gt;
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  &lt;!-- Settled --&gt;
+|established_date       = 
+|established_title2     =  &lt;!-- Incorporated (town) --&gt;
+|established_date2      = 
+|established_title3     =  &lt;!-- Incorporated (city) --&gt;
+|established_date3      =
+&lt;!-- Area    ---------------------&gt;
+|area_magnitude         = 
+|unit_pref                =Imperial &lt;!--Enter: Imperial, if Imperial (metric) is desired--&gt;
+|area_footnotes           =
+|area_total_km2           = 
+|area_land_km2            = 
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =2.23 
+|area_blank1_sq_mi        =
+&lt;!-- Population   -----------------------&gt;
+|population_as_of               =2014
+|population_footnotes           =
+|population_note                =
+|population_total               =6513&lt;ref&gt;[http://www.ins.nat.tn/indexen.php National Institute of Statistics - Tunisia]&lt;/ref&gt;
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_blank2_title        =Religions
+|population_blank2              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+&lt;!-- General information  ---------------&gt;
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = 1
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|35|32|48|N|9|4|25|E|region:TN|display=inline,title}}
+|elevation_footnotes    =  &lt;!--for references: use &lt;ref&gt; &lt;/ref&gt; tags--&gt;
+|elevation_m            = 
+|elevation_ft           =
+&lt;!-- Area/postal codes &amp; others --------&gt;
+|postal_code_type       =  &lt;!-- enter ZIP code, Postcode, Post code, Postal code... --&gt;
+|postal_code            =1270
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = [http://www.commune-sbiba.gov.tn/AR/Sbiba_ar.html Sbiba Official Website]
+|footnotes              = 
+}} 
+'''Sbiba''' ({{lang-ar|سبيبة}}) is a city surrounded by chains of mountains in the province of [[Kasserine Governorate|Kasserine]].
+
+==Background==
+'''Sbiba''' is a city in the Midwest of Tunisia on the latitude of 35° and 36°, about 70&amp;nbsp;km far from [[Kasserine]], bounded on the north with [[Jedelienne]], [[Sbeitla]] to the South. Sbiba was first founded by the [[Ancient Rome|Romans]].
+
+==Geography==
+The city is located at the site of the ancient city of [[Sufes]] at the altitude of 630m. By the city is located the Mount Jbel Mghuila which is the highest peak in the region with 1370m.
+
+==Economy==
+The city is famous for its apples, tomatoes and fresh water. Sbiba produces nearly 40% of the Tunisian total production of apples and tomatoes due to its very advanced system of irrigation. Despite its population of around 55,000, Sbiba suffers from a lack of national and international investments in the fields of industry, agriculture and especially services.
+
+==References==
+{{Reflist|colwidth=30em}}
+
+
+[[Category:Populated places in Kasserine Governorate]]
+[[Category:Communes of Tunisia]]</text>
+      <sha1>3o4hk66e1jkvnnlwxssi74ras1u9sw8</sha1>
+    </revision>
+  </page>

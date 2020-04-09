@@ -1,0 +1,57 @@
+  <page>
+    <title>Geohashing</title>
+    <ns>0</ns>
+    <id>17956789</id>
+    <revision>
+      <id>934863151</id>
+      <parentid>921271071</parentid>
+      <timestamp>2020-01-08T22:51:16Z</timestamp>
+      <contributor>
+        <username>Crox</username>
+        <id>1007984</id>
+      </contributor>
+      <minor />
+      <comment>/* External links */ wiki currently down</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Geohashing''' {{IPAc-en|ˈ|dʒ|iː|oʊ|ˌ|h|æ|ʃ|ɪ|ŋ}} is an outdoor recreational activity inspired by the webcomic ''[[xkcd]]'', in which participants have to reach a random location (chosen by a [[algorithm|computer algorithm]]), prove their achievement by taking a picture of a [[Global Positioning System]] (GPS) [[GPS navigation device|receiver]] or another mobile device and then tell the story of their trip online. Proof based on non-electronic navigation is also acceptable.&lt;ref&gt;{{cite news|last1=Solivellas|first1=Benoit|title=Geohashing, les rencontres par GPS|url=http://www.cnetfrance.fr/news/geohashing-39382080.htm|accessdate=16 August 2015|work=CNET France|date=June 1, 2008|language=French}}&lt;/ref&gt;
+
+Whereas other outdoor recreational activities like [[geocaching]] have a precise goal, geohashing is mainly fueled by its pointlessness, which is deemed amusing by its players. (However, a variation on geocaching, known as [[Geocaching#Geodashing|geodashing]], features a closely comparable principle.) The resulting geohashing community and culture is thus extremely tongue-in-cheek, supporting any kind of humorous behavior during the practice of geohashing and resulting in a parody of traditional outdoor activities. Navigating to a random point need not be pointless. Some geohashers document new mapping features they find on the [[OpenStreetMap]] project.&lt;ref&gt;[http://wiki.xkcd.com/geohashing/Cover_Stories Cover stories]&lt;/ref&gt;
+
+==History==
+On May 21, 2008, the [http://www.xkcd.com/426 426th xkcd comic] was published. Titled &quot;Geohashing&quot;, it described a way for a [[computer]] to create an algorithm that could generate random [[Global Positioning System]] (GPS) coordinates each day based on the [[Dow Jones Industrial Average]] and the current date.&lt;ref&gt;[http://www.xkcd.com/426/ xkcd comic number 426]&lt;/ref&gt; The algorithm was quickly seized by the xkcd community, which used it as intended by xkcd creator Randall Munroe.&lt;ref&gt;[http://wiki.xkcd.com/geohashing/Geohashing_wiki_history#Beta_Testing Beta testing the geohashing algorithm]&lt;/ref&gt;
+
+Originally a stub where people willing to try the algorithm in real life were to issue their reports, the geohashing official wiki expanded in the following weeks and was a working website as early as June 2008.&lt;ref&gt;[http://wiki.xkcd.com/geohashing/Geohashing_wiki_history#The_Main_Page History of geohashing wiki main page]&lt;/ref&gt; The current expedition protocol was then established during the following years, with the creation of humorous awards, regional meetups and a hall of amazingness for the various geohasher achievements.&lt;ref&gt;[http://wiki.xkcd.com/geohashing/Hall_of_Amazingness Hall of Amazingness]&lt;/ref&gt;
+
+Over time, geohashing gained fame across the [[internet]] and now counts more than 10,000 expedition reports.&lt;ref&gt;[http://wiki.xkcd.com/geohashing/Expedition_10000 10,000th expedition]&lt;/ref&gt; 19,000 users are registered on the geohashing wiki, with only 31 active as of January 3, 2019.&lt;ref&gt;[http://wiki.xkcd.com/geohashing/Special:Statistics Geohashing wiki statistics]&lt;/ref&gt; Geohashing has spread mostly in North America, Europe and Australia.&lt;ref&gt;[http://wiki.xkcd.com/geohashing/Maps_and_statistics Maps and statistics]&lt;/ref&gt;
+
+== Geohash ==
+[[File:Geohash 2014-01-13 Location.jpg|thumb|The [[sign]] forbids a geohasher to trespass and reach the location set by the algorithm. His expedition has to end there.]]
+Geohashing divides the earth into a grid made up of graticules which are one degree wide in latitude and longitude. Inside these graticules, a random location is set. Geohashers then have the opportunity to go at the chosen location, either inside their own graticule or in a nearby one. If the location is inaccessible or in a private area, geohashers are advised not to try to reach it, although obviously inaccessible locations have been reached several times. In addition to the repeating location in each graticule, each day there is a single global hashpoint, much more challenging to reach.&lt;ref&gt;[http://wiki.xkcd.com/geohashing/Hall_of_Amazingness#Conquering_Nature.2C_Technology_and_Bodily_Weakness Conquering Nature]&lt;/ref&gt;
+
+== See also ==
+{{div col|colwidth=30em}}
+* [[Benchmarking (geolocating)]]
+* [[Geocaching]]
+* [[Location-based game]]
+* [[Orienteering]]
+* [[Questing]]
+* [[Randall Munroe]]
+* [[xkcd]]
+{{div col end}}
+
+==References==
+{{Reflist|30em}}
+==External links==
+{{Commons category|Geohashing}}
+* [http://wiki.xkcd.com/geohashing/Main_Page Geohashing official wiki] (currently down, see [https://geohashing.info/wiki/ https://geohashing.info/wiki/])
+
+{{Adventure travel}}
+&lt;!-- Please respect alphabetical order --&gt;
+
+[[Category:Global Positioning System]]
+[[Category:Hobbies]]
+[[Category:Outdoor locating games]]</text>
+      <sha1>an9h8dr3xzxzzm4hwhg0fbuw3y9rkh9</sha1>
+    </revision>
+  </page>

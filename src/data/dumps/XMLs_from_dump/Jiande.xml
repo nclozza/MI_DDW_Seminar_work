@@ -1,0 +1,180 @@
+  <page>
+    <title>Jiande</title>
+    <ns>0</ns>
+    <id>24692078</id>
+    <revision>
+      <id>907317609</id>
+      <parentid>900694043</parentid>
+      <timestamp>2019-07-22T02:36:25Z</timestamp>
+      <contributor>
+        <username>Cncs wikipedia</username>
+        <id>23188</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+&lt;!--See Template:Infobox Settlement for additional fields that may be available--&gt;
+&lt;!--See the Table at Infobox Settlement for all fields and descriptions of usage--&gt;
+&lt;!-- Basic info  ----------------&gt;
+|name                   = {{raise|0.2em|Jiande}}
+|official_name          = &lt;!-- Official name in English if different from 'name' --&gt;
+|native_name            = {{lower|0.1em|{{nobold|{{lang|zh-hans|建德市}}}}}}
+|other_name             = Kienteh
+|nickname               = 
+|settlement_type        =[[County-level city]]
+|total_type             = &lt;!-- to set a non-standard label for total area and population rows --&gt;
+|motto                  =
+&lt;!-- images and maps  -----------&gt;
+|image_skyline          = Xin'anjiang-east-enterance.jpg
+|imagesize              =
+|image_caption          =
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = China Zhejiang
+|pushpin_label_position = &lt;!-- the position of the pushpin label: left, right, top, bottom, none --&gt;
+|pushpin_map_caption    = Location in Zhejiang
+|pushpin_mapsize        =
+&lt;!-- Location ------------------&gt;
+|subdivision_type       = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1 = [[Provinces of China|Province]]
+|subdivision_name1      = [[Zhejiang]]
+|subdivision_type2 = [[Sub-provincial city]]
+|subdivision_name2      = [[Hangzhou]]
+|seat_type              =
+|seat                   =
+|parts_type             =
+|parts_style            = &lt;!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5--&gt;
+|parts                  = &lt;!-- parts text, or header for parts list --&gt;
+|p1                     =
+|p2                     = &lt;!-- etc. up to p50: for separate parts to be listed--&gt; 
+&lt;!-- Politics -----------------&gt;
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  &lt;!-- for places with, say, both a mayor and a city manager --&gt;
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  &lt;!-- Settled --&gt;
+|established_date       = 
+|established_title1     =  &lt;!-- Incorporated (town) --&gt;
+|established_date1      = 
+|founder                =
+|named_for              =
+&lt;!-- Area    ---------------------&gt;
+|area_magnitude         = &lt;!-- use only to set a special wikilink --&gt; 
+|unit_pref                = &lt;!--Enter: Imperial, to display imperial before metric--&gt;
+|area_footnotes           =
+|area_total_km2           =  &lt;!-- ALL fields with measurements are subject to automatic unit conversion--&gt;
+|area_land_km2            = &lt;!--See table @ Template:Infobox Settlement for details on unit conversion--&gt;
+|area_water_km2           =
+|area_total_dunam         = &lt;!--Used in Middle East articles only--&gt;
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+&lt;!-- Elevation --------------------------&gt;
+|elevation_footnotes        =  &lt;!--for references: use &lt;ref&gt; &lt;/ref&gt; tags--&gt;
+|elevation_m                = 
+|elevation_ft               =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+&lt;!-- Population   -----------------------&gt;
+|population_as_of                = 
+|population_footnotes            =
+|population_note                 =
+|population_total                =
+|population_density_km2          =  &lt;!--For automatic calculation, any density field may contain: auto --&gt;
+|population_density_sq_mi        = 
+|population_metro                =
+|population_density_metro_km2    =
+|population_density_metro_sq_mi  =
+|population_urban                =
+|population_density_urban_km2    =
+|population_density_urban_sq_mi  =
+|population_blank1_title         =
+|population_blank1               =
+|population_density_blank1_km2   =   
+|population_density_blank1_sq_mi =
+&lt;!-- General information  ---------------&gt;
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+| coor_type             = &lt;!-- can be used to specify what the coordinates refer to --&gt;
+|coordinates = {{coord|29.4896|N|119.337|E|type:adm3rd_region:CN-33_source:kolossus-dewiki|display=inline,title}}
+&lt;!-- Area/postal codes &amp; others --------&gt;
+|postal_code_type = [[Postal code of China|Postal code]]
+|postal_code            = 311600
+|area_code              =
+|website                = 
+|footnotes              =  
+}}
+
+'''{{Audio|Jian4de2.ogg|Jiande}}''' is a [[county-level city]] of [[Zhejiang|Zhejiang Province]], [[East China|East]] [[China]], it is under the administration of the [[prefecture-level city]] of [[Hangzhou]].
+
+==History==
+During the Ming and Qing Dynasties, Jiande was the capital of [[Yanzhou Prefecture (Zhejiang)|Yanzhou Prefecture]]. On account of this, Jiande was often referred to as Yanzhou Fu ({{zh|labels=no |s=严州府}}). A transcription commonly seen in both French and English writing of the time was '''Yen-tcheou-fou''', derived from French missionary writing.&lt;ref&gt;{{cite book
+|title=An historical, geographical, and philosophical view of the Chinese empire: comprehending a description of the fifteen provinces of China, Chinese Tartary; tributary states; natural history of China; government, religion, laws, manners and customs, literature, arts, sciences, manufactures, &amp;c
+|edition=2
+|url= https://books.google.com/books?id=A7g2AAAAMAAJ&amp;pg=PA83
+|page=83}}&lt;/ref&gt;&lt;ref&gt;{{citation
+|first=Hugh |last=Murray|authorlink=Hugh Murray (geographer)|first2= John |last2=Crawfurd|authorlink2=John Crawfurd|first3= Peter |last3=Gordon
+|publisher=Oliver &amp; Boyd |year=1843
+|title=An historical and descriptive account of China: its ancient and modern history, language, literature, religion, government, industry, manners, and social state ...
+|edition=3
+|url= https://books.google.com/books?id=2iELAAAAYAAJ&amp;pg=PA25
+|pages=25–26}}&lt;/ref&gt;&lt;ref&gt;Yen-tcheou-fou was also used to transcribe the name of the [[Yanzhou|city and prefecture]] in [[Shandong]]. (Both places' names are transcribed as &quot;Yanzhou&quot; in [[pinyin]], but are written with different Chinese characters).&lt;/ref&gt;
+
+==Transportation==
+Direct trains for freight link Jiande with [[Yiwu]] and [[Jinhua]]
+
+==See also==
+*[[Xinye Village]], a village in Jiande
+
+==Notes==
+{{reflist}}
+
+{{commons category|Jiande}}
+
+{{County-level divisions of Zhejiang}}
+
+{{Authority control}}
+
+[[Category:County-level cities in Zhejiang]]
+[[Category:Geography of Hangzhou]]</text>
+      <sha1>m612oor4v53zdb988obrb4wduw9sm70</sha1>
+    </revision>
+  </page>
