@@ -1,11 +1,10 @@
-CITE_START = "{{cite "
-CITE_END = "}}"
-
 CITE_TYPES = ["book", "web", "news", "journal"]
 
-XML_FOLDER_PATH = "../../../ignore_pages/"
+XML_FOLDER_PATH = "../data/dumps/XMLs_from_dump/"
 XML_EXTENSION = ".xml"
-JSONL_FOLDER_PATH = "../../../ignore_jsonl_pages/"
+JSONL_FOLDER_PATH = "../data/dumps/JSONLs_from_dump/"
 JSONL_EXTENSION = ".jsonl"
 
 IGNORE_EXISTING_FILES = False
+
+XML_DUMP_PATH = "../../../enwiki-20200201-pages-articles-multistream1.xml-p10p30302"

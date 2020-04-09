@@ -1,7 +1,8 @@
-from pprint import pprint
-from src.common.object import Object
 import json
-import types
+from pprint import pprint
+
+from src.common.object import Object
+
 
 class DumpCite:
     def print(self):
@@ -10,7 +11,7 @@ class DumpCite:
     def to_json(self):
         ret = Object()
         for attr, value in self.__dict__.items():
-            if (value != ""):
+            if value != "":
                 setattr(ret, attr, value)
 
         return json.dumps(ret, default=lambda o: o.__dict__)

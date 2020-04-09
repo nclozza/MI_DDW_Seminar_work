@@ -1,14 +1,15 @@
 import re
-from os import listdir
-from os.path import isfile, join
 from xml.sax import saxutils as su
 
 from src.DumpCrawler.configuration import *
-from src.common.util import remove_file_extension_from_name
+from src.common.util import remove_file_extension_from_name, get_all_files_from_path, save_file
 from src.model.DumpCiteBook import DumpCiteBook
 from src.model.DumpCiteJournal import DumpCiteJournal
 from src.model.DumpCiteNews import DumpCiteNews
 from src.model.DumpCiteWeb import DumpCiteWeb
+
+CITE_START = "{{cite "
+CITE_END = "}}"
 
 
 def get_cite_type(string):
@@ -93,16 +94,6 @@ def remove_string_leftovers(string):
     return None
 
 
-def save_json(filename, json_string):
-    f = open(filename, 'w')
-    f.write(json_string)
-    f.close()
-
-
-def get_all_files_from_path(path):
-    return [f for f in listdir(path) if isfile(join(path, f))]
-
-
 try:
 
     files_to_process = get_all_files_from_path(XML_FOLDER_PATH)
@@ -139,7 +130,7 @@ try:
                     jsonl += cite_type_object.to_json()
                     jsonl += "\n"
 
-        save_json(JSONL_FOLDER_PATH + remove_file_extension_from_name(file_name) + JSONL_EXTENSION, jsonl)
+        save_file(JSONL_FOLDER_PATH + remove_file_extension_from_name(file_name) + JSONL_EXTENSION, jsonl)
 
 except IOError as identifier:
     print(identifier)

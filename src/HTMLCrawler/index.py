@@ -7,7 +7,7 @@ import src.HTMLCrawler.citation as citation
 import src.HTMLCrawler.configuration as configuration
 import src.HTMLCrawler.content as content
 import src.HTMLCrawler.reference as reference
-import src.common.url_type as url_type
+import src.common.configuration as url_type
 import src.common.util as util
 from src.common.object import Object
 from src.model.HTMLPage import HTMLPage

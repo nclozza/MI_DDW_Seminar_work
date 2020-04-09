@@ -1,8 +1,10 @@
 import datetime
 import json
 import time
+from os import listdir
+from os.path import isfile, join
 
-import src.common.url_type as url_type
+import src.common.configuration as url_type
 
 
 def get_name_from_url(url):
@@ -27,13 +29,13 @@ def get_urls(value):
     url_array = []
 
     if value == url_type.DEBUG:
-        path = "../URL/debug.json"
+        path = "../data/dbpedia/debug.json"
     elif value == url_type.CITY:
-        path = "../URL/city.json"
+        path = "../data/dbpedia/city.json"
     elif value == url_type.SPORT:
-        path = "../URL/sport.json"
+        path = "../data/dbpedia/sport.json"
     elif value == url_type.MUSICAL_ARTIST:
-        path = "../URL/musicalArtist.json"
+        path = "../data/dbpedia/musicalArtist.json"
 
     if path != "":
         with open(path) as f:
@@ -43,6 +45,20 @@ def get_urls(value):
             url_array.append(url["url"]["value"])
 
     return url_array
+
+
+def get_all_files_from_path(path):
+    return [f for f in listdir(path) if isfile(join(path, f))]
+
+
+def generate_url_from_name(name):
+    return "http://en.wikipedia.org/wiki/" + name
+
+
+def save_file(filename, string):
+    f = open(filename, 'w')
+    f.write(string)
+    f.close()
 
 
 def remove_file_extension_from_name(file_name):
