@@ -1,0 +1,74 @@
+  <page>
+    <title>Alcaudete</title>
+    <ns>0</ns>
+    <id>13121952</id>
+    <revision>
+      <id>935041994</id>
+      <parentid>918518328</parentid>
+      <timestamp>2020-01-10T03:05:57Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor />
+      <comment>/* References */add authority control</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+| settlement_type   = city
+| official_name = Alcaudete
+| nickname = 
+| image_flag =
+| pushpin_map = Spain
+| image_skyline = Alcaudete.jpg 
+| pushpin_map_caption = Location in Spain.
+| subdivision_type = [[List of sovereign states|Country]] 
+| subdivision_name = [[Spain]] 
+| subdivision_type1 = [[Provinces of Spain|Province]] 
+| subdivision_name1 = [[Jaén (Spanish province)|Jaén]] 
+| subdivision_type2 = [[Comarcas of Andalusia|Comarca]] 
+| subdivision_name2 = [[Sierra Sur de Jaén]]
+| leader_title = Mayor
+| leader_name = Valeriano Martín Cano
+| area_magnitude = 
+| area_total_km2 = 238 
+| area_land_km2 = 
+| area_water_km2 = 
+| elevation_m = 676 
+| population_demonym = Alcaudetense
+| population_as_of = {{Spain metadata Wikidata|population_as_of}}
+| population_footnotes = {{Spain metadata Wikidata|population_footnotes}}
+| population_total = {{Spain metadata Wikidata|population_total}}
+| population_density_km2 =auto 
+| timezone = [[Central European Time|CET]] 
+| utc_offset = +1 
+| timezone_DST = [[Central European Summer Time|CEST]] 
+| utc_offset_DST = +2
+| coordinates       = {{coord|37|35|N|4|06|W|display=inline}}
+| website =  {{official website|http://www.alcaudete.es/}}
+| footnotes = 
+| }}
+
+'''Alcaudete''' is a city located in the [[Province of Jaén (Spain)|province of Jaén]], [[Andalusia]], [[Spain]]. As of 2018, it has a population of 10,558. It is home to a 12th-14th century Moorish castle, located on the top of the hill commanding the town. Other sights include the ''Iglesia de Santa María la Mayor'' (15th century).
+
+The city was established on the site of the Roman settlement of '''Sosontigi''', which was part of the ''[[Conventus iuridicus|Conventus]] [[Astigi]]tanus''.&lt;ref&gt;{{cite book |last1=Ruiz Acevedo |first1=Juan |last2=de Paz Sánchez |first2=Manuel |editor1-last=Campos Carrasco |editor1-first=Juan M. |editor2-last=Bermejo Meléndez |editor2-first=Javier |title=Ciudades romanas de la provincia Baetica Vol. 1 |date=2018 |publisher=Servicio de Publicaciones de la Universidad de Huelva |location=Huelva, Spain |isbn=9788417776039 |page=82 |url=https://books.google.co.uk/books?id=GbKaDwAAQBAJ&amp;pg=PA82 |language=es |chapter=Los límites de la Bética y las ciudades de los conventos astigitano e hispalense en las fuentes literarias grecolatinas}}&lt;/ref&gt; The town of Fravasoson was 3 to 5 miles away.&lt;ref&gt;{{cite book |last1=Masdeu |first1=Juan Francisco |title=Historia critica de España, y de la cultura española: España romana. 1787-1807 |date=1789 |publisher=A. de Sancha |page=345 |url=https://books.google.co.uk/books?id=6hBXAAAAMAAJ&amp;pg=PA345 |language=es}}&lt;/ref&gt;
+
+==Twin towns==
+*{{Flagicon|ESP}} [[Manlleu]], Spain
+*{{Flagicon|ESP}} [[Santa Margarida de Montbui]], Spain
+
+==References==
+{{reflist}}
+{{Municipalities in Jaén}}
+
+
+{{authority control}}
+
+[[Category:Municipalities in the Province of Jaén (Spain)]]
+[[Category:Populated places in the Province of Jaén (Spain)]]
+
+
+{{Andalusia-geo-stub}}</text>
+      <sha1>gc8ckkgixhrbo1exxfcy5ggmfgs5x74</sha1>
+    </revision>
+  </page>

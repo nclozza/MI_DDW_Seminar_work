@@ -1,0 +1,89 @@
+  <page>
+    <title>Carutapera</title>
+    <ns>0</ns>
+    <id>21457338</id>
+    <revision>
+      <id>918179273</id>
+      <parentid>793251462</parentid>
+      <timestamp>2019-09-27T11:34:01Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor />
+      <comment>/* top */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+|name                   = Carutapera
+|settlement_type        = Municipality
+|official_name          = &lt;small&gt;The Municipality of&lt;/small&gt;&lt;br&gt;Carutapera
+|nickname               = 
+|motto                  = 
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             =
+|image_seal             = 
+|image_map              = Maranhao Municip Carutapera.svg
+|map_caption            = Location of Carutapera
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_type1      = [[Regions of Brazil|Region]]
+|subdivision_type2      = [[States of Brazil|State]]   
+|subdivision_name       = {{flag|Brazil}}
+|subdivision_name1      = [[Northeast Region, Brazil|Northeast]]
+|subdivision_name2      = [[Image:Bandeira do Maranhão.svg|border|22px]] [[Maranhão]]
+|leader_title           = [[Mayor]]
+|leader_name            = Vitoria da Gloria de Oliveira Borges Alves
+|established_title      = Founded 
+|established_date       = June 3, 1935
+|area_magnitude         = 
+|area_total_km2         = 1255.555
+|area_total_sq_mi       = 
+|area_land_km2          = 
+|area_land_sq_mi        = 
+|area_water_km2         = 
+|area_water_sq_mi       = 
+|area_water_percent     = 
+|area_urban_km2         = 
+|area_urban_sq_mi       = 
+|area_metro_km2         = 
+|area_metro_sq_mi       = 
+|population_as_of       = 2008
+|population_note        = &lt;ref&gt;[http://www.ibge.gov.br/home/estatistica/populacao/estimativa2008/POP2008_DOU.pdf IBGE 2008 statistics]&lt;/ref&gt;
+|population_total       = 20905
+|population_density_km2     = 16.4
+|population_density_sq_mi = 
+|population_metro       = 
+|population_density_metro_km2 =
+|population_density_metro_sq_mi =
+|population_urban       = 
+|timezone               = [[UTC-3]]
+|utc_offset             = -3
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|01|11|42|S|46|01|12|W|region:BR|display=inline,title}}
+|elevation_m            = 
+|elevation_ft           = 
+|postal_code_type       = 
+|postal_code            = 
+|blank_name         = '''[[Human Development Index|HDI]]''' (2000)
+|blank_info         = 0.571  – &lt;span style=&quot;color:#fc0&quot;&gt;medium&lt;/span&gt;&lt;ref&gt;{{cite web |url=http://www.pnud.org.br/atlas/ranking/IDH-M%2091%2000%20Ranking%20decrescente%20(pelos%20dados%20de%202000).htm |title=Archived copy |accessdate=2009-12-17 |url-status=dead |archiveurl=https://web.archive.org/web/20091003103229/http://www.pnud.org.br/atlas/ranking/IDH-M%2091%2000%20Ranking%20decrescente%20%28pelos%20dados%20de%202000%29.htm |archivedate=2009-10-03 }} - [[UNDP]]&lt;/ref&gt;
+|website                = [https://web.archive.org/web/20090614202038/http://www.carutapera.ma.gov.br/principal.htm www.carutapera.ma.gov.br]
+|footnotes              = 
+}} 
+'''Carutapera''' is the northernmost city in the [[Brazil]]ian [[States of Brazil|state]] of [[Maranhão]].
+
+== References ==
+{{Reflist}}
+
+{{Municipalities of Maranhão}}
+[[Category:Populated places established in 1935]]
+[[Category:Populated coastal places in Maranhão]]
+[[Category:Municipalities in Maranhão]]
+
+
+{{Maranhão-geo-stub}}</text>
+      <sha1>9vfpx4fov3hoxk5xsn7x9si38du9nfy</sha1>
+    </revision>
+  </page>

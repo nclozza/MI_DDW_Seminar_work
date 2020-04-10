@@ -1,0 +1,129 @@
+  <page>
+    <title>Basaria</title>
+    <ns>0</ns>
+    <id>5708427</id>
+    <revision>
+      <id>916221550</id>
+      <parentid>905485631</parentid>
+      <timestamp>2019-09-17T18:24:50Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor />
+      <comment>[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (4×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Use dmy dates|date=August 2018}}
+{{Use Indian English|date=August 2018}}
+{{refimprove|date=July 2013}}
+{{Infobox settlement
+| name                    = Basaria
+| native_name             = 
+| native_name_lang        = 
+| other_name              = 
+| nickname                = 
+| settlement_type         = Neighbourhood in Dhanbad
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| pushpin_map             = India Jharkhand#India
+| pushpin_label_position  = 
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location in Jharkhand, India
+| coordinates             = {{coord|23.78838|N|86.37146|E|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|India}}
+| subdivision_type1       = [[States and territories of India|State]]
+| subdivision_name1       = [[Jharkhand]]
+| subdivision_type2       = [[List of districts of India|District]]
+| subdivision_name2       = [[Dhanbad district|Dhanbad]]
+| established_title       = &lt;!-- Established --&gt;
+| established_date        = 
+| founder                 = 
+| named_for               = 
+| government_type         = 
+| governing_body          = 
+| unit_pref               = Metric
+| area_footnotes          = 
+| area_rank               = 
+| area_total_km2          = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_total        = 3966
+| population_as_of        = 2001
+| population_rank         = 
+| population_density_km2  = auto
+| population_demonym      = 
+| population_footnotes    = 
+| demographics_type1      = Languages
+| demographics1_title1    = Official
+| demographics1_info1     = [[Hindi language|Hindi]], [[Urdu language|Urdu]]
+| timezone1               = [[Indian Standard Time|IST]]
+| utc_offset1             = +5:30
+| postal_code_type        = &lt;!-- [[Postal Index Number|PIN]] --&gt;
+| postal_code             = 
+| registration_plate      = JH 
+| website                 = {{URL|dhanbad.nic.in/}}
+| footnotes               = 
+}}
+'''Basaria''' is a [[neighbourhood]] in [[Dhanbad]] in [[Dhanbad Sadar subdivision]] of [[Dhanbad district]] in [[Jharkhand]] [[States and territories of India|state]], [[India]]. 
+
+==Geography==
+{{OSM Location map
+| width=330| height=220| zoom=11
+| coord={{coord|23|46|30|N|86|24|20|E}}| float=left|caption='''Cities, towns and locations in the central portion of Dhanbad Sadar subdivision in Dhanbad district'''&lt;br/&gt;MC: Municipal Corporation, CT: Census Town, N: Neighbourhood, R: Rural/ Urban centre&lt;br/&gt;Owing to space constraints in the small map, the actual locations in a larger map may vary slightly
+|mark-coord1={{coord|23|46|48|N|86|19|12|E}} | label-pos1=right|label1= Sijua | numbered1=N| mark-title1=[[Sijua]] (N)|label-color1=#800000 |label-size1=11| mark-size1=12|shape1=l-circle|shape-color1= #C42222|shape-outline1=white|label-offset-x1=2
+|mark-coord2={{coord|23|46|45|N|86|21|10|E}} | label-pos2=right|label2= Loyabad | numbered2=N| mark-title2= [[Loyabad]] (N)
+|mark-coord3={{coord|23|45|53|N|86|24|53|E}} | label-pos3=left|label3= Bhagatdih | numbered3=N| mark-title3=[[Bhagatdih]] (N)      
+|mark-coord4={{coord|23|47|25|N|86|22|31|E}} | label-pos4=left|label4= Basaria | numbered4=N| mark-title4= [[Basaria]] (N)|shape-color4=black| label-size4=13|label-color4=black &lt;!-- make the subject of the article stand out with black colors --&gt;
+|mark-coord5={{coord|23|49|0|N|86|23|19|E}} | label-pos5=right|label5= Bhuli | numbered5=N| mark-title5= [[Bhuli, India]] (N)
+|mark-coord6={{coord|23|48|15|N|86|20|3|E}} | label-pos6=left|label6= Chandaur | numbered6=N| mark-title6= [[Chandaur]] (N)
+|mark-coord7={{coord|23|46|10|N|86|22|13|E}} | label-pos7=left|label7= Chhatatanr | numbered7=N| mark-title7= [[Chhatatanr]] (N)
+|mark-coord8={{coord|23|46|30|N|86|24|51|E}} | label-pos8=right|label8= Dhaunsar | numbered8=N| mark-title8= [[Dhaunsar]] (N)
+|mark-coord9={{coord|23|47|20|N|86|23|42|E}} | label-pos9=right|label9= Godhar | numbered9=N| mark-title9= [[Godhar]] (N)
+|mark-coord10={{coord|23|47|20|N|86|19|44|E}} | label-pos10=left|label10= Jogta | numbered10=N| mark-title10= [[Jogta]] (N)
+|mark-coord11={{coord|23|48|36|N|86|20|24|E}} | label-pos11=left|label11= Tetulmari | numbered11=N| mark-title11= [[Tetulmari]] (N)
+|mark-coord12={{coord|23|48|28|N|86|24|8|E}} | label-pos12=left|label12= Wasseypur | numbered12=N| mark-title12= [[Wasseypur]] (N)
+|mark-coord13={{coord|23|49|15|N|86|27|50|E}} | label-pos13=right|label13= Saraidhela| numbered13=N| mark-title13= [[Saraidhela]] (N)
+|mark-coord14={{coord|23|45|5|N|86|25|13|E}} | label-pos14=right|label14=Jharia | numbered14=N| mark-title14= [[Jharia]] (N)
+|mark-coord15={{coord|23|44|41|N|86|24|10|E}} | label-pos15=left|label15= Jharia Khas| numbered15=N| mark-title15= [[Jharia Khas]] (N)
+|mark-coord16={{coord|23|45|47|N|86|28|23|E}} | label-pos16=left|label16= Belgaria | numbered16=R| mark-title16= [[Belgaria]] (R)| shape-14 =#C42222
+|mark-coord17={{coord|23|48|0|N|86|25|50|E}} | label-pos17=right|label-color17=#800000| label17= Dhanbad | numbered17=MC| mark-title17=[[Dhanbad]] (MC)|shape-color17=#800000
+|mark-coord18={{coord|23|45|30|N|86|24|42|E}} | label-pos18=left|label18=BCCL Bastacola Area |numbered18=0 | mark-title18=[[Bastacola Area]] (A)| label-size18=12| shape-color18=#AA6666
+|mark-coord19={{coord|23|46|55|N|86|23|30|E}} | label-pos19=right|label19=BCCL Kusunda Area |numbered19=0 | mark-title19=[[Kusunda Area]] (A)| label-size19=12| shape-color19=#AA6666
+|mark-coord20={{coord|23|47|52|N|86|19|53|E}} | label-pos20=right|label20=BCCL Sijua Area |numbered20=0 | mark-title20=[[Sijua Area]] (A)| label-size20=12| shape-color20=#AA6666
+|mark-coord21={{coord|23|48|48|N|86|26|31|E}} | label-pos21=right|label21= IIT (ISM) Dhanbad| numbered21=F||mark-title21= [[Indian Institute of Technology (Indian School of Mines), Dhanbad|IIT (ISM) Dhanbad]] (F) |shape-color21=#967117
+|mark-coord22={{coord|23|49|25|N|86|25|35|E}} | label-pos22=left|label22= CIMFR – CSiR| numbered22=F| mark-title22= [[Central Institute of Mining and Fuel Research]] (F) |shape-color22=#967117
+|mark-coord23={{coord|23|49|50|N|86|26|40|E}} | label-pos23=right|label23= BBMK University| numbered23=F| mark-title23= [[Binod Bihari Mahto Koylanchal University]] (F) |shape-color23=#967117
+|mark-coord24={{coord|23.7137|86.3475}}| label24=Damodar River| label-color24 = #77A1CB| label-angle24=0| label-pos24=top| label-size24=10| mark-size24=0| mark-title24 =none}}
+
+===Location===
+Basaria is located at {{coord|23.78838|N|86.37146|E|display=inline}}.
+
+&lt;small&gt;Note: The map alongside presents some of the notable locations in the area. All places marked in the map are linked in the larger full screen map.&lt;/small&gt;
+
+The earlier [[census town]] was combined with other urban units to form [[Dhanbad Municipal Corporation]] in 2006.&lt;ref&gt;{{cite web| url = http://166.62.42.155/dmc/citizen/ | title= Dhanbad Municipal Corporation|publisher= DMC| accessdate = 15 October 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = http://dhanbad.nic.in/maps.html | title = Dhanbad District Map | work = Physical Map of Dhanbad | publisher = Jharkhand Government | accessdate = 15 October 2017 | archive-url = https://web.archive.org/web/20171005161335/http://dhanbad.nic.in/maps.html | archive-date = 5 October 2017 | url-status = dead }}&lt;/ref&gt;
+
+Basaria is part of Ward No. 10 of Dhanbad Municipal Corporation.&lt;ref&gt;{{cite web  | url = http://dhanbad.nic.in/dhanbad_dmc.html  | title = Dhanbad Municipal Corporation  | work = प्रादेशिक निर्वाचन क्षेत्रों की सूची (in Hindi)  | publisher = Jharkhand Government  | accessdate = 19 October 2017  | archive-url = https://web.archive.org/web/20171028073630/http://dhanbad.nic.in/dhanbad_dmc.html  | archive-date = 28 October 2017  | url-status = dead  }}&lt;/ref&gt;
+
+===Overview===
+The region shown in the map is a part of the undulating [[Highland|uplands]] bustling with coalmines in the lowest rung of the [[Chota Nagpur Plateau]]. The entire area shown in the map is under [[Dhanbad Municipal Corporation]], except [[Belgaria]] which is under [[Baliapur (community development block)]]. The places in the DMC area are marked as [[neighbourhoods]]. The DMC area shown in the map is around the core area of [[Dhanbad]] city. Another major area of DMC is shown in the map of the southern portion of the district. A small stretch of DMC, extending up to [[Katras]] is shown in the map of the western portion. The region is fully urbanised. [[Jharia (community development block)]] has been merged into DMC. Three operational areas of [[Bharat Coking Coal|BCCL]] operate fully within the region – [[Sijua Area]], [[Kusunda Area]] and [[Bastacola Area]].&lt;ref&gt;{{cite web | url =  http://www.censusindia.gov.in/2011census/dchb/DCHB_A/20/2009_PART_A_DCHB_DHANBAD.pdf  | title = District Census Handbook Dhanbad | work = Series 21, Part XIIA, pages 4-5, 5-6, 8 | publisher = Directorate of Census Operations, Jharkhand  | accessdate =  4 June 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web| url = http://www.censusindia.gov.in/pca/cdb_pca_census/Houselisting-housing-JK.html |title = 2011 Census C.D. Block Wise Primary Census Abstract Data(PCA) | work= Jharkhand – District-wise CD Blocks|publisher= Registrar General and Census Commissioner, India  | accessdate = 8 October 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url =  http://www.bcclweb.in/?page_id=22623| title = Area | publisher =  Bharat Coking Coal Limited | accessdate =  2 July 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web| url = http://166.62.42.155/dmc/citizen/ | title= Dhanbad Municipal Corporation|publisher= DMC| accessdate = 15 October 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = http://dhanbad.nic.in/maps.html | title = Dhanbad Dsitrict Map | work = Physical Map of Dhanbad | publisher = Jharkhand Government | accessdate = 15 October 2017 | archive-url = https://web.archive.org/web/20171005161335/http://dhanbad.nic.in/maps.html | archive-date = 5 October 2017 | url-status = dead }}&lt;/ref&gt;&lt;ref&gt;{{cite web  | url = http://dhanbad.nic.in/dhanbad_dmc.html  | title = Dhanbad Municipal Corporation  | work = प्रादेशिक निर्वाचन क्षेत्रों की सूची (in Hindi)  | publisher = Jharkhand Government  | accessdate = 19 October 2017  | archive-url = https://web.archive.org/web/20171028073630/http://dhanbad.nic.in/dhanbad_dmc.html  | archive-date = 28 October 2017  | url-status = dead  }}&lt;/ref&gt;
+
+==Demographics==
+{{As of|2001}} India [[census]],&lt;ref&gt;{{cite web|url=http://www.censusindia.net/results/town.php?stad=A&amp;state5=999|archiveurl=https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&amp;state5=999|archivedate=2004-06-16|title= Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)|accessdate=2008-11-01|work= |publisher= Census Commission of India}}&lt;/ref&gt; Basaria had a population of 3,966. Males constitute 53% of the population and females 47%. Basaria has an average literacy rate of 52%, lower than the national average of 59.5%; with 69% of the males and 31% of females literate. 15% of the population is under 6 years of age.
+
+==Transport==
+There was a station at Baseria but the Dhanbad-Chandrapura line was closed from 15 June 2017.&lt;ref&gt;{{cite web| url = https://indiarailinfo.com/train/news/news-dhanbad-muri-passenger-53341/6434/378/383 | title= 53341 Dhanbad Muri Passenger |publisher= Indiarailinfo| accessdate = 19 October 2017}}&lt;/ref&gt; 
+
+==References==
+{{Reflist}}
+
+{{Dhanbad District}}
+
+[[Category:Neighbourhoods in Dhanbad]]
+
+{{Jharkhand-geo-stub}}</text>
+      <sha1>sx9wa6we8k6wynfdrnvng198bveyhm2</sha1>
+    </revision>
+  </page>

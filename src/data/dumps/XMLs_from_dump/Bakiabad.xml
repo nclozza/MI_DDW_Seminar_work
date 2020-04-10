@@ -1,0 +1,86 @@
+  <page>
+    <title>Bakiabad</title>
+    <ns>0</ns>
+    <id>5707550</id>
+    <revision>
+      <id>916308890</id>
+      <parentid>916219854</parentid>
+      <timestamp>2019-09-18T07:28:47Z</timestamp>
+      <contributor>
+        <username>Fylindfotberserk</username>
+        <id>9023670</id>
+      </contributor>
+      <minor />
+      <comment>date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Use dmy dates|date=September 2019}}
+{{Use Indian English|date=July 2018}}
+{{for|the village in Iran|Bakiabad, Iran}}
+{{Infobox settlement
+| name                    = Bakiabad
+| native_name             = 
+| native_name_lang        = 
+| other_name              = 
+| nickname                = 
+| settlement_type         = city
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| pushpin_map             = India Uttar Pradesh#India
+| pushpin_label_position  = 
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location in Uttar Pradesh, India
+| coordinates             = {{coord|25|06|39|N|82|53|59|E|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|India}}
+| subdivision_type1       = [[States and territories of India|State]]
+| subdivision_name1       = [[Uttar Pradesh]]
+| subdivision_type2       = [[List of districts of India|District]]
+| subdivision_name2       = [[Mirzapur district|Mirzapur]]
+| established_title       = &lt;!-- Established --&gt;
+| established_date        = 
+| founder                 = 
+| named_for               = 
+| government_type         = 
+| governing_body          = 
+| unit_pref               = Metric
+| area_footnotes          = 
+| area_rank               = 
+| area_total_km2          = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_total        = 3979
+| population_as_of        = 2001
+| population_rank         = 
+| population_density_km2  = auto
+| population_demonym      = 
+| population_footnotes    = 
+| demographics_type1      = [[Language]]
+| demographics1_title1    = Official
+| demographics1_info1     = [[Hindi language|Hindi]]&lt;ref name=&quot;langoff&quot;&gt;{{cite web|title=52nd REPORT OF THE COMMISSIONER FOR LINGUISTIC MINORITIES IN INDIA|url=http://nclm.nic.in/shared/linkimages/NCLM52ndReport.pdf|website=nclm.nic.in|publisher=[[Ministry of Minority Affairs]]|accessdate=26 December 2018|url-status=dead|archiveurl=https://web.archive.org/web/20170525141614/http://nclm.nic.in/shared/linkimages/NCLM52ndReport.pdf|archivedate=25 May 2017}}&lt;/ref&gt;
+| demographics1_title2    = Additional&amp;nbsp;official
+| demographics1_info2     = [[Urdu]]&lt;ref name=&quot;langoff&quot;/&gt;
+| timezone1               = [[Indian Standard Time|IST]]
+| utc_offset1             = +5:30
+| postal_code_type        = &lt;!-- [[Postal Index Number|PIN]] --&gt;
+| postal_code             = 
+| registration_plate      = UP 
+| website                 = {{URL|up.gov.in}} 
+| footnotes               = 
+}}
+'''Bakiabad''' is a [[census town]] in [[Mirzapur district]]  in the state of [[Uttar Pradesh]], [[India]].
+
+==Demographics==
+{{As of|2001}} India [[census]],&lt;ref&gt;{{cite web|url=http://www.censusindia.net/results/town.php?stad=A&amp;state5=999|archiveurl=https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&amp;state5=999|archivedate=16 June 2004|title= Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)|accessdate=1 November 2008|work= |publisher= Census Commission of India}}&lt;/ref&gt; Bakiabad had a population of 3979. Males constitute 53% of the population and females 47%. Bakiabad has an average literacy rate of 71%, higher than the national average of 59.5%; with 60% of the males and 40% of females literate. 11% of the population is under 6 years of age.
+
+==References==
+{{Reflist}}
+
+{{Mirzapur district}}
+
+[[Category:Cities and towns in Mirzapur district]]
+{{Mirzapur-geo-stub}}</text>
+      <sha1>egu02zcxjlxv7c1g8y97lpipje3b58d</sha1>
+    </revision>
+  </page>

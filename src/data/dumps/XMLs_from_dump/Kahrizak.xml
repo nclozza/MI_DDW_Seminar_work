@@ -1,0 +1,73 @@
+  <page>
+    <title>Kahrizak</title>
+    <ns>0</ns>
+    <id>33627686</id>
+    <revision>
+      <id>919545526</id>
+      <parentid>919545335</parentid>
+      <timestamp>2019-10-04T09:37:27Z</timestamp>
+      <contributor>
+        <username>GreenMeansGo</username>
+        <id>24271879</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edits by [[Special:Contribs/Maani8007|Maani8007]] ([[User talk:Maani8007|talk]]) to last version by BD2412</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{other places}}
+{{Infobox settlement
+|official_name =Kahrizak
+|native_name = كهريزك
+|settlement_type        = City
+|image_skyline =
+|imagesize = 
+|image_caption = 
+|pushpin_map            =Iran
+|mapsize                =150px
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name = {{flag|Iran}}
+|subdivision_type1 =[[Provinces of Iran|Province]]
+|subdivision_name1 =[[Tehran Province|Tehran]]
+|subdivision_type2 =[[Counties of Iran|County]]
+|subdivision_name2 =[[Ray County, Iran|Rey]]
+|subdivision_type3 =[[Bakhsh]]
+|subdivision_name3 =[[Kahrizak District|Kahrizak]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2016 Census
+|population_total       =37,527 &lt;ref&gt;https://www.amar.org.ir/english&lt;/ref&gt;
+|population_density_km2   =auto
+|timezone               = [[Iran Standard Time|IRST]]
+|utc_offset             = +3:30
+|timezone_DST           = [[Iran Daylight Time|IRDT]]
+|utc_offset_DST         = +4:30
+|coordinates            = {{coord|35|31|03|N|51|21|35|E|region:IR|display=inline,title}}
+|elevation_m            = 
+|area_code              = 
+|website                  = 
+|footnotes              =
+}}
+'''Kahrizak''' ({{lang-fa|كهريزك}}, also [[Romanize]]d as '''Kahrīzak'''; also known as '''Kahrīzak-e Ghār''')&lt;ref&gt;{{GEOnet3|-3068566}}&lt;/ref&gt; is a city and capital of [[Kahrizak District]], in [[Ray County, Iran|Ray County]], [[Tehran Province]], [[Iran]].  At the 2006 census, its population was 8,704, in 2,178 families.&lt;ref&gt;{{IranCensus2006|23}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Iran}}
+. [[Kahrizak detention center]]
+
+==References==
+{{reflist}}
+
+{{Tehran Province}}
+{{Ray County, Iran}}
+
+[[Category:Populated places in Ray County, Iran]]
+
+[[Category:Cities in Tehran Province]]
+
+{{Rey-geo-stub}}</text>
+      <sha1>l0sfj97ovomevlsvnteyy6ct1dg3qqo</sha1>
+    </revision>
+  </page>

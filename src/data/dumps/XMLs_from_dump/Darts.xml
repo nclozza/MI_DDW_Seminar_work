@@ -1,0 +1,508 @@
+  <page>
+    <title>Darts</title>
+    <ns>0</ns>
+    <id>397713</id>
+    <revision>
+      <id>938006786</id>
+      <parentid>937994452</parentid>
+      <timestamp>2020-01-28T15:45:51Z</timestamp>
+      <contributor>
+        <username>Slywriter</username>
+        <id>14494991</id>
+      </contributor>
+      <comment>It's a missile. As defined in the article linked. Undid revision 937994452 by [[Special:Contributions/82.219.84.29|82.219.84.29]] ([[User talk:82.219.84.29|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{short description|Throwing game}}
+{{other uses|Dart (disambiguation)|Darts (disambiguation)}}
+{{Infobox sport
+| image = Darts in a dartboard.jpg
+| imagesize = 
+| caption = Darts in a dartboard
+| union      = [[World Darts Federation|WDF]]
+| nickname   = throwers, arrows, tungsten, dartsmith
+| first      = approx 1860s United Kingdom &lt;ref&gt;{{cite web |last=Masters |first=Youtham Joseph |url=http://www.tradgames.org.uk/games/Darts.htm |title=Darts history |work=Trad games |date= |accessdate=1 November 2009}}&lt;/ref&gt;
+| registered = 655 [[World Darts Federation|WDF]] ranked players&lt;br /&gt;679 [[Professional Dart Players Association|PDPA]] ranked players
+| clubs      =
+| contact    = 
+| team       = Team events exist, see [[WDF World Cup darts|World Cup]] and [[PDC World Cup of Darts]]
+| mgender    = Separate men's &amp; women's championship although no restrictions on women competing against men.
+| category   = [[Outline of sports#Target sports|Target sports]], [[Individual sport]]
+| ball       = Set of 3 darts, dartboard
+| glossary   = [[Glossary of darts]]
+}}
+'''Darts''' is a [[sport]] in which [[dart (missile)|small missiles]] are thrown at a circular target (&quot;dartboard&quot;) fixed to a wall.&lt;ref name=&quot;definition&quot;&gt;{{cite web|title=Darts|url=http://encyclopedia2.thefreedictionary.com/darts|work=The Free Dictionary|accessdate=21 August 2010}}&lt;/ref&gt; Though various boards and rules have been used in the past, the term &quot;darts&quot; usually now refers to a standardised game involving a specific board design and set of rules. 
+
+As well as being a professional competitive game, darts is a traditional [[pub game]], commonly played in the [[United Kingdom]] and the [[Republic of Ireland]], across the [[Commonwealth of Nations|Commonwealth]], [[mainland Europe]], the [[United States]] and elsewhere.
+{{TOC limit|3}}
+
+==History==
+===Dartboard===
+{{refimprove|section|date = January 2019}}
+[[File:Dartboard diagram.svg|right|250px]]
+
+The dartboard is likely to have its origins in the cross-section of a tree. An old name for a dartboard is &quot;[[Archery butts|butt]]&quot;; the word comes from the French word {{lang|fr|but}}, meaning &quot;target&quot;.&lt;ref&gt;''Webster's Third New International Dictionary of the English Language'', Chicago: Encyclopædia Britannica, 1966, 304.&lt;/ref&gt;
+
+It is generally said that the standard numbering plan with a 20 on top was created in 1896 by [[Lancashire]] carpenter Brian Gamlin to penalise inaccuracy,&lt;ref&gt;[http://dartsinfoworld.com/history-of-darts/ Darts History] - Darts Info World&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last=Eiselt|first=H|last2=Laporte|first2=Gilbert|date=February 1991|title=A Combinatorial Optimization Problem Arising in Dartboard Design |journal=The Journal of the Operational Research Society |publisher=Palgrave Macmillan Journals|volume=42|issue=2|pages=113–118 |doi=10.2307/2583175|jstor=2583175}}&lt;/ref&gt; though this is disputed.&lt;ref&gt;{{cite web|url=http://www.darts501.com/Number.html|title=Darts 501 - Brian Gamlin Dartboard Numbers|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tradgames.org.uk/games/Darts.htm|title=Darts - History and information on Dartboards and darts|publisher=}}&lt;/ref&gt; However, a great many other configurations have been used throughout the years and in different geographical locations. In particular, the Yorkshire and Manchester Log End boards differ from the standard board in that they have no triple, only double and bullseye, the Manchester board being of a smaller diameter, with a playing area of only 25 cm (9.84 in) across with double and bull areas measuring just 4 mm (0.157 inch).
+
+The London Fives board is another variation. This has only 12 equal segments numbered 20, 5, 15, 10, 20, 5, 15, 10, 20, 5, 15, 10 with the doubles and trebles being a quarter of an inch (6.35 mm) wide. Mathematically, removing the rotational symmetry by placing the &quot;20&quot; at the top, there are [[Factorial|19!]], or 121,645,100,408,832,000 possible dartboards. Many different layouts would penalise a player more than the current setup; however, the current setup actually does the job rather efficiently. There have been several mathematical papers published that consider the &quot;optimal&quot; dartboard.&lt;ref&gt;See, for example:
+# K. Selkirk (1976), &quot;Redesigning the dartboard&quot;, ''Mathematical Gazette'', vol. 60, pages 171–178
+# P. J. Everson and A. P. Bassom (January 1995). &quot;Optimal arrangements for a dartboard&quot;, ''Mathematical Spectrum'', vol. 27, no. 2, pages 32–34
+# {{Cite journal|last=Eiselt|first=H|last2=Laporte|first2=Gilbert|date=February 1991|title=A Combinatorial Optimization Problem Arising in Dartboard Design |journal=The Journal of the Operational Research Society |publisher=Palgrave Macmillan Journals|volume=42|issue=2|pages=113–118 |doi=10.2307/2583175|jstor=2583175}}
+# Ivars Peterson (May 19, 1997). [https://web.archive.org/web/20040324002353/http://www.maa.org/mathland/mathland_5_19.html &quot;Around the dartboard&quot;]
+# G. L. Cohen and E. Tonkes (2001) [http://www.combinatorics.org/Volume_8/PDF/v8i2r4.pdf &quot;Dartboard arrangements&quot;], ''The Electronic Journal of Combinatorics'', vol. 8, no. 2, pages 4
+# Ryan J. Tibshirani, Andrew Price, and Jonathan Taylor (January 2011) [http://www-stat.stanford.edu/~ryantibs/papers/darts.pdf &quot;A statistician plays darts&quot;], ''[[Journal of the Royal Statistical Society]]'', series A, vol. 174, no. 1, pages 213–226. &lt;br/&gt;Article on the preceding article: Cameron Bird (Dec. 2009) [https://www.wired.com/magazine/2009/11/st_darts/ &quot;Darts for geeks: Statistician cracks the game's secrets&quot;], ''Wired''.
+# Trevor Lipscombe and Arturo Sangalli (2001) &quot;The Devil's Dartboard&quot;, ''[[Crux Mathematicorum]]'', vol. 27, no. 4, pages 215–21.
+# David F. Percy (Dec. 2012) [https://web.archive.org/web/20130329081839/http://www.ima.org.uk/_db/_documents/mt_dec12_darts.pdf &quot;The Optimal Dartboard?&quot;], ''Mathematics TODAY'', Dec. 2012, pages 268–270.&lt;/ref&gt;
+
+Before the [[First World War]], [[pub]]s in the United Kingdom had dartboards made from solid blocks of wood, usually elm.&lt;ref&gt;{{cite web|title=The Nodor - Winmau Story|url=https://patrickchaplin.com/2019/05/22/the-nodor-winmau-story/|publisher=PatrickChaplin|accessdate=4 November 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=The history of darts|url=http://www.talkdarts.co.uk/guides/history_of_darts.html|publisher=TalkDarts|accessdate=25 December 2014|archive-url=https://web.archive.org/web/20170608035707/http://www.talkdarts.co.uk/guides/history_of_darts.html|archive-date=8 June 2017|url-status=dead}}&lt;/ref&gt; Elm dart boards had two problems. Darts broke up the surface so it was common for a hole to develop around the treble twenty. The other problem was that board needed to be soaked to keep the wood soft.&lt;ref&gt;https://triplebullseye.com/how-to-maintain-your-darts-and-dart-board/&lt;/ref&gt;
+
+This changed when a company called Nodor, whose primary business was making [[modelling clay]] (which has no odour, hence the name ''Nodor''), started producing clay dartboards in 1923. The clay dartboards never caught on, and Nodor switched to making the traditional elm dartboards that were popular at the time.{{CN|date=January 2020}}
+
+In 1935, chemist Ted Leggatt and pub owner Frank Dabbs began using the [[Agave americana|century plant]], a type of agave, to make dartboards.&lt;ref&gt;{{Cite book|title=The Mini Book of Mini Darts|last=Lotowycz|first=Randall|last2=Passineau|first2=John|publisher=Workman Publishing Company|year=2013|isbn=0761177434|location=|pages=29}}&lt;/ref&gt; Small bundles of [[sisal]] fibres of the same length were bundled together. The bundles were then compressed into a disk and bound with a metal ring. It was an instant success, as the darts did little or no damage to the board—they just parted the fibres when they entered the board; this type of board was more durable and required little maintenance.
+
+In the late 1970s, companies devised and began producing electronic dartboards. These dartboards have electronic scoring computers that are preprogrammed with a wide variety of game types. The board is made of plastic facings with small holes. The holes slant out, allowing the plastic-tipped darts to stick inside. When a dart strikes the board, the section makes contact with a metal plate, telling the computer where the player has thrown. These &quot;soft-tip&quot; darts and automated boards greatly increased the game's popularity in the United States.{{CN|date=January 2020}}
+
+=== Darts ===
+Initially the darts were simply cut down arrows or crossbow bolts.&lt;ref name=&quot;Harrows1&quot;&gt;{{cite web|url= http://www.harrowsdarts.com/harrows-world/history-darts |title=History of Darts from Harrows, UK|page=|date=|work= |publisher=Harrows|accessdate=25 December 2014}}&lt;/ref&gt; The first purpose-made darts were manufactured in one piece from wood; wrapped with a strip of lead for weight and fitted with flights made from split turkey feathers. These darts were mainly imported from France and became known as French darts.&lt;ref name=&quot;Chaplin&quot;&gt;{{cite web|url= https://patrickchaplin.com/2019/05/21/the-history-of-the-dart/|title=The History of the Dart|page=|date=|work=2007 |publisher=Patrick Chaplin|accessdate=4 November 2019}}&lt;/ref&gt; Metal barrels were patented in 1906 but wood continued to be used into the 1950s.&lt;ref name=&quot;Harrows1&quot; /&gt;&lt;ref name=&quot;Harrows2&quot;&gt;{{cite web|url= http://www.harrowsdarts.com/harrows-world/history-darts|title=History of Darts from Harrows, UK|page=|date=|work= |publisher=Harrows|accessdate=12 November 2011}}&lt;/ref&gt; 
+
+The first metal barrels were made from brass which was relatively cheap and easy to work.&lt;ref name=&quot;Chaplin&quot; /&gt; The wooden shafts, which were now threaded to fit the tapped barrel, were either fletched as before or designed to take a paper flight. This type of dart continued to be used into the 1970s.&lt;ref name=&quot;Chaplin&quot; /&gt; When the advantages of using plastic were realised, the shaft and flight became separate entities, although one piece moulded plastic shaft and flights were also available.&lt;ref&gt;{{cite web|url=http://www.dartdealer.com/displayproduct.aspx?cid=340|title=Moulded plastic flights|publisher=Dart Dealer |accessdate=12 November 2011}}&lt;/ref&gt;
+
+== Equipment ==
+
+=== Dartboard ===
+According to the Darts Regulation Authority, a regulation board is {{cvt|451|mm|in|frac=4}} in diameter and is divided into 20 radial sections.&lt;ref&gt;{{Cite web|url=http://www.thedra.co.uk/wp-content/uploads/2019/01/DRA2019Rules_110119-final-1.pdf|title=Darts Regulation Authority Rule Book|date=11 January 2019|website=www.thedra.co.uk|access-date=6 March 2019}}&lt;/ref&gt; Each section is separated with metal wire or a thin band of sheet metal.&lt;ref&gt;{{cite web |url=http://mylocalnews.com/darts/bdo-playing-rules/ |title=British Darts Organisation Officially Website |work=BDO darts |date=1 April 2006 |accessdate=19 May 2015 }}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; The best dartboards have the thinnest wire, so that the darts have less chance of hitting a wire and bouncing out. The numbers indicating the various scoring sections of the board are also normally made of wire, especially on tournament-quality boards. The wire ring on which the numbers are welded can be turned to facilitate even wear of the board. Boards of lesser quality often have the numbers printed directly on the board.{{CN|date=January 2020}}
+
+Quality dartboards are still made of [[sisal]] [[Fiber|fibres]], originating from East Africa, Brazil, or China; less expensive boards are sometimes made of [[Cork (material)|cork]] or coiled paper. {{CN|date=January 2020}}
+
+Illumination is arranged to brightly illuminate the dartboard and minimize shadows of thrown darts. The main supply for the illumination should be protected against accidental piercing, or placed away from the board.{{CN|date=January 2020}}[[File:HOPE-AND-ANCHOR-DART-CLUB.JPG|thumb|&quot;Hope and Anchor dart club&quot;, [[Hope and Anchor (Hammersmith)|Hope and Anchor]], 20 Waterloo Street (now Macbeth Street), Hammersmith, London, UK. c.1925. NB publican Charles Fletcher (seated front row centre) with elm board]]
+[[File:Darts gameplay.jpg|thumb|right|250px|Playing darts]]
+
+===Darts===
+Modern darts have four parts: the points, the barrels, the shafts and the flights.&lt;ref name=&quot;Dartsworld&quot;&gt;{{cite web|url= http://dartsinfoworld.com/about-darts/the-darts/ |title= About darts|page=|date= |publisher=dartsinfoworld.com|accessdate=12 November 2011}}&lt;/ref&gt;
+
+The points come in 2 common lengths, {{cvt|32|and|41|mm|in|frac=16}} and are sometimes knurled or coated to improve grip. Others are designed to retract slightly on impact to lessen the chance of bouncing out.&lt;ref&gt;{{cite web|url=https://thebro.zone/darts/best-darts|title=Selecting the Right Darts|publisher=Thebro.zone}}&lt;/ref&gt;
+
+The barrels come in a variety of weights and are usually constructed from brass, silver-nickel, or a [[tungsten]] alloy.&lt;ref name=china&gt;{{cite web|url=http://www.chinadart.com/different_darts.htm|title= Darts|date=|work=|publisher=China Tungsten|page=|accessdate=12 November 2011}}&lt;/ref&gt; Brass is cheap but light and therefore brass barrels tend to be very bulky. Tungsten on the other hand, is twice as dense as brass thus a barrel of an equivalent weight could be thirty percent smaller in diameter.&lt;ref name=Harrows3&gt;{{cite web|url= http://www.harrowsdarts.com|title= Tungsten Technology|publisher= Harrows Darts|accessdate=12 November 2011}}&lt;/ref&gt; Tungsten is very brittle however and so an alloy of between 80 and 95 per cent tungsten is used. The remainder is usually nickel, iron, or copper.&lt;ref name=Harrows3/&gt; Silver-nickel darts offer a compromise between density and cost. Barrels come in 3 basic shapes: cylindrical, ton, or torpedo.&lt;ref name=&quot;China2&quot;&gt;{{cite web|url= http://www.chinadart.com/tungsten_dart_barrel_shape.htm |title=Barrel shape|work=|publisher=China Dart|page=|accessdate=12 November 2011}}&lt;/ref&gt;
+
+* Cylindrical barrels are the same diameter along their entire length and so tend to be long and thin. Their slenderness makes them better for grouping, but because they are long, the centre of gravity is further back.
+* Ton shaped barrels are thin at either end but bulge in the middle. This makes them fatter than a cylindrical barrel of equivalent weight but the centre of gravity is further forward and so theoretically easier to throw.
+* Torpedo shaped barrels are widest at the point end and taper towards the rear. This keeps the weight as far forward as possible but like the ton, gives it a larger diameter than the cylinder.
+
+The shafts are manufactured in various lengths and some are designed to be cut to length. Shafts are generally made from plastics, nylon polymers, or metals such as aluminium and titanium; and can be rigid or flexible.&lt;ref name=&quot;china3&quot;&gt;{{cite web |url=http://www.chinadart.com/dart_accessories_shaft.htm |title=Shafts |publisher=Chinadart |accessdate=12 November 2011}}&lt;/ref&gt; Longer shafts provide greater stability and allow a reduction in flight size which in turn can lead to closer grouping; but, they also shift the weight towards the rear causing the dart to tilt backward during flight, requiring a harder, faster throw.
+
+The flight stabilizes the dart by producing [[Drag (physics)|drag]], thus preventing the rear of the dart from overtaking the point.&lt;ref name=&quot;Dartsworld&quot; /&gt; Modern flights are generally made from plastic, nylon, or foil and are available in a range of shapes and sizes. The three most common shapes in order of size are the standard, the kite, and the smaller pear shape. The less surface area, the less stability but larger flights hamper close grouping. Some manufacturers have sought to solve this by making a flight long and thin but this in turn creates other problems such as changing the dart's centre of gravity. Generally speaking, a heavier dart will require a larger flight.&lt;ref name=&quot;Dartsworld&quot; /&gt;
+
+The choice of barrel, shaft, and flight will depend a great deal on the individual player's throwing style. For competitive purposes, a dart cannot weigh more than {{cvt|50|g|oz|frac=16}} including the shaft and flight and cannot exceed a total length of {{cvt|300|mm|in|frac=8}}.&lt;ref&gt;{{cite web|url=https://triplebullseye.com/dart-weights-and-how-to-choose/|title=Dart Weights and How to Choose|author=|website=|publisher=triplebullseye}}&lt;/ref&gt;&lt;ref name=&quot;Harrows1&quot; /&gt;
+
+===Playing dimensions===
+The WDF uses the following standards for play:
+
+*Height: the dart board is hung so that the centre of the bulls eye is {{cvt|1.73|m|ftin|0}} from the floor. This is considered eye-level for a six-foot person.
+
+*Distance: the [[oche]] (line behind which the thrower must stand) should be {{cvt|2.37|m|ftin|frac=4}} from the face of the board. If the face projects outward from the wall, due to the thickness of the board and/or a cabinet in which it is mounted, the oche must be moved back appropriately to maintain the required distance.
+
+The regulations came about due to the United Kingdom and the rest of the world playing at different lengths, with {{cvt|2.37|m|ftin|frac=4}} being the compromise length.&lt;ref&gt;{{Cite web|url=https://www.dartswdf.com/wp-content/uploads/2017/06/2018-02-28_WDF_Playing_Tournament_Rules_rev_20.pdf|title=World Darts Federation Playing and Tournament Rules Twentieth Revised Edition|date=28 February 2018|website=www.dartswdf.com|access-date=4 March 2019}}&lt;/ref&gt;
+
+==Scoring==
+{{CN|date=January 2020}}
+[[File:Dartboard_heatmap.svg|thumb|Scores for each region of a dartboard (not to scale) shaded by value]]
+The standard dartboard is divided into 20 numbered sections, scoring from 1 to 20 points, by wires running from the small central circle to the outer circular wire. Circular wires within the outer wire subdivide each section into single, double and triple areas. The dartboard featured on ''[[The Indoor League]]'' television show of the 1970s did not feature a triple section, and according to host [[Fred Trueman]] during the first episode, this is the traditional Yorkshire board.
+
+Various games can be played (and still are played informally) using the standard dartboard. However, in the official game, any dart landing inside the outer wire scores as follows:
+*Hitting one of the large portions of each of the numbered sections, traditionally alternately coloured black and white, scores the points value of that section.
+* Hitting the thin inner portions of these sections, roughly halfway between the outer wire and the central circle coloured red or green, scores triple the points value of that section.
+* Hitting the thin outer portions of these sections, again coloured red or green, scores double the points value of that section. The double-20 is often referred to as double-top, reflecting the 20's position on the dartboard.
+*The central circle is divided into a green outer ring worth 25 points (known as &quot;outer&quot;, &quot;outer bull&quot;, or &quot;single bull&quot;) and a red or black inner circle (usually known as &quot;bull&quot;, &quot;inner bull&quot; or &quot;double bull&quot;), worth 50 points. The term &quot;bullseye&quot; can mean either the whole central part of the board or just the inner red/black section. The term &quot;bull's ring&quot; usually means just the green outer ring. The inner bull counts as a double when doubling in or out.
+*Hitting outside the outer wire scores nothing.
+* A dart only scores if its point is embedded in or is touching the playing surface. This rule applies to any dart that lands in such a way as to be partially or totally supported by others that have already hit the board.
+* When a standard board is used, any dart whose point does not remain in contact with the playing surface until being collected by the player does not score. This includes darts that bounce off the board for any reason, that fall off on their own, or that are dislodged by the impact of later throws. However, when an electronic board is used, fallen/dislodged darts do score as long as their impacts have registered on the board first.
+
+The highest score possible with three darts is 180, commonly known as a &quot;ton 80&quot; (100 points is called a ton), obtained when all three darts land in the triple 20. In the [[television|televised]] game, the [[referee]] frequently announces a score of 180 in exuberant style. A &quot;quad&quot; ring appeared briefly between the triple ring and the bull in the 1990s, leading to a potential ''240'' maximum (three quad-20s), a ''210'' maximum checkout (Q20-Q20-Bull) and ''seven'' dart finishes from a 501 start (five quad-20s, triple-17, bullseye), but was swiftly dropped from professional tournament play after only two years.&lt;ref&gt;{{cite av media|url=https://www.youtube.com/watch?v=6qzifRI2UrI|title=Jocky Wilson Only 240 Ever Seen vs John Lowe Skol World Matchplay|date=16 November 2013|work=YouTube}}&lt;/ref&gt; One make of this board was the Harrows Quadro 240.&lt;ref&gt;{{cite web|url=http://www.crowsdarts.com/reviews/quadro.html|title=QUADRO Dartboard|author=Tim Cronian|work=crowsdarts.com}}&lt;/ref&gt;
+
+===Skill level and aiming===
+[[Image:Optimal Dart Throw Location Skill Level.jpg|thumb|Path of the optimal location to throw a dart where σ = 0 is a perfect player and σ = 100 is a player who throws randomly.]]
+Assuming standard scoring, the optimal area to aim for on the dart board in order to maximize the player's score varies significantly based on the player's skill. The skilled player should aim for the centre of the T20, and as the player's skill decreases, their aim moves slightly up and to the left of the T20. At σ = 16.4&amp;nbsp;mm the best place to aim jumps to the T19. As the player's skill decreases further, the best place to aim curls into the centre of the board, stopping a bit lower than and to the left of the bullseye at σ = 100.&lt;ref&gt;Ryan J. Tibshirani, Andrew Price, and Jonathan Taylor (January 2011) [http://www-stat.stanford.edu/~ryantibs/papers/darts.pdf &quot;A statistician plays darts&quot;], ''Journal of the Royal Statistical Society'', series A, vol. 174, no. 1, pages 213–226&lt;/ref&gt;
+
+Where [[σ]]  may refer to the [[standard deviation]] for a specific population: [[List of darts players]].
+
+==Games==
+There are many games that can be played on a dartboard, but the term &quot;darts&quot; generally refers to a game in which one player at a time throws three darts per turn. The throwing player must stand so that no portion of his/her feet extends past the leading edge of the oche, but may stand on any other portion and/or lean forward over it if desired.
+
+A game of darts is generally contested between two players, who take turns. The most common objective is to reduce a fixed score, commonly 301 or 501, to zero (&quot;checking out&quot;). The final dart must land in either the bullseye or a double segment in order to win. It is not necessary that all three darts are thrown on the final turn, the game can be finished on any of the three darts. When two teams play, the starting score is sometimes increased to 701 or even 1001; the rules remain the same.
+
+A throw that reduces a player's score below zero, to exactly one, or to zero but not ending with a double is known as &quot;going bust&quot;, with the player's score being reset to the value prior to starting the turn, and the remainder of the turn being forfeited.
+
+In some variants (called a &quot;northern bust&quot; in London) only the dart that causes the bust is not counted. That is felt by some to be a purer version of the game, as under the normal rules, as explained above, a player left with a difficult finish, e.g. 5 and one dart remaining will often deliberately &quot;bust&quot; it in order to get back to the easier finish that they had at the start of their go. For example, a player with 20 at the start of their go could miss the double 10 and get a single, miss the double 5 and get a single, leaving them 5 and only one dart remaining. Their best option is to deliberately bust it to get back onto double 10. Under the &quot;northern bust&quot; they would remain on 5.
+
+A darts match is played over a fixed number of games, known as legs. A match may be divided into sets, with each set being contested as over a fixed number of legs.
+
+Although playing straight down from 501 is standard in darts, sometimes a double must be hit to begin scoring, known as &quot;doubling in&quot;, with all darts thrown before hitting a double not being counted. The PDC's [[World Grand Prix (darts)|World Grand Prix]] uses this format.
+
+The minimum number of thrown darts required to complete a leg of 501 is nine. The most common [[nine dart finish]] consists of two 180 maximums followed by a 141 checkout (T20-T19-D12), but there are many other possible ways of achieving the feat. Three 167s (T20-T19-Bull) is considered a pure or perfect nine-dart finish by some players.
+
+===Other games and variants===
+There are a number of regional variations on the standard rules and scoring systems.
+
+====American darts====
+{{Main article|American Darts}}
+American Darts is a regional USA variant of the game (most U.S. dart players play the traditional games described above). This style of dart board is most often found in eastern Pennsylvania, New Jersey, Delaware, Maryland, and parts of New York state.
+
+====Cricket====
+{{Main article|Cricket (darts)}}
+
+Cricket is a widely played darts game involving a race to control and score on numbers between 20 and 15 and the bullseye, by hitting each of these targets for three marks to ''open'' or ''own'' it for scoring.  A hit on the target counts as one mark, while hits in the doubles ring of the target count as two marks in one throw, and on the triples ring as three. Once opened in this manner, until the opponent ''closes'' that number with three marks on it of their own, each additional hit by the owner/opener scores points equal to the number of the target (which may also be doubled and tripled, e.g. a triple-20 is worth 60 points).  The outer bullseye counts as 25 points, and the inner as 50.
+
+====Dartball====
+{{Main article|Dartball}}
+Dartball is a darts game based on the sport of [[baseball]]. It is played on a diamond shaped board and has similar scoring to baseball.
+
+====Dart golf====
+{{Main article|Dart golf}}
+Dart golf is a darts game based on the sport of [[golf]] and is regulated by the World Dolf Federation (WDFF).&lt;ref&gt;&quot;History of Dolf&quot; http://www.dolfdarts.com/history-of-dolf&lt;/ref&gt; It is played on both special golf dartboards and traditional dartboards. Scoring is similar to golf.
+
+====Fives====
+[[Image:FivesDartboard.jpg|thumb|right|200px|An '[[East End of London|East-End]]' or 'Fives' dartboard]]
+This is a regional variant still played in some parts of the East End of London. The board has fewer, larger segments, all numbered either 5, 10, 15 or 20. Players play down from 505 rather than 501, and stand the farthest ({{convert|9|ft|disp=or|abbr=on}}) away from the board of any mainstream variation.&lt;ref&gt;[http://www.eastlondonadvertiser.co.uk/content/towerhamlets/advertiser/sport/story.aspx?brand=ELAOnline&amp;category=sportgeneric&amp;tBrand=northlondon24&amp;tCategory=sportela&amp;itemid=WeED23%20Jul%202008%2014%3A53%3A17%3A537 East London Advertiser] Fives still alive in darts&lt;/ref&gt;
+
+====Halve it====
+{{Main article|Halve it}}
+“Halve it” is a darts game popular in the [[United Kingdom]] and parts of [[North America]] where competitors try to hit previously agreed targets on a standard dart board.&lt;ref name=diddle&gt;{{cite web |url=http://www.diddleforthemiddle.com/halve-it.php |title=Dart games - Halve it |publisher=Diddle for the Middle |accessdate=14 November 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110903180454/http://www.diddleforthemiddle.com/halve-it.php |archivedate=3 September 2011 }}&lt;/ref&gt;
+Failure to do so within a single throw (3 darts) results in the player losing half their accumulated score. Any number of players can take part and the game can vary in length depending on the number of targets selected.&lt;ref name=501darts&gt;{{cite web |url=http://www.darts501.com/Halveit.htm |title= General rules for 'Halve it' |publisher=Darts 501 |accessdate=14 November 2011}}&lt;/ref&gt;
+The game can be tailored to the skill level of the players by selecting easy or difficult targets.
+
+====Killer====
+&quot;Killer&quot; is a 'knock-out' game for two or more players (at its best at 4–6 players). Initially, each player throws a dart at the board with their non-dominant hand to obtain their 'number'. No two players can have the same number. Once everyone has a number, each player takes it in turn to get their number five times with their three darts (doubles count twice, and triples three times). Once a person has reached 5, they become a 'killer'. This means they can aim for other peoples numbers, taking a point off for each time they hit (doubles x2, triples x3). If a person gets to zero they are out. A killer can aim for anyone's numbers, even another killer's. Players cannot get more than 5 points. The winner is 'the last man standing'.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/other_sports/world_darts_2004/3334207.stm |title=Board of brilliant versatility |work=[[BBC Sport]] |date=29 December 2003 |accessdate=2010-08-24}}&lt;/ref&gt;
+
+Another version of &quot;Killer&quot; is a &quot;knock-out&quot; game for three or more players (the more the better). To start, everyone has a pre-determined number of lives, (usually 5) and a randomly chosen player throws a single dart at the board to set a target (i.e. single 18) and does not play until that target is hit. The next player up has 3 darts to try and hit the target (single 18), if they fail, they lose a life and the following player tries. Once a player succeeds at hitting the target, they then become the target setter and throw a dart to set a new target. The initial target setter swaps places with the new target setter. The games carries on until every players lives have been used, the last man standing is the target setter whose target was not hit.  For less experienced players you can count doubles and trebles as part of the same number, i.e. a target of treble 20 can still be counted as success if the double or single 20 is hit and vice versa.
+
+====Lawn darts====
+{{main article|Lawn darts}}
+Lawn darts (also called Jarts or yard darts) is a lawn game based on darts. The game play and objective are similar to both [[horseshoes]] and darts. The darts are similar to the ancient [[Ancient Rome|Roman]] [[plumbata]].
+
+====Round the Clock====
+Round the Clock (also called Around the World, 20 to 1, and Jumpers)&lt;ref&gt;[http://www.bkjumpersleague.bravehost.com] {{Webarchive|url=https://web.archive.org/web/20071012144849/http://bkjumpersleague.bravehost.com/ |date=2007-10-12 }} Bangkok Jumpers League&lt;/ref&gt; is a game involving any number of players where the objective is to hit each section sequentially from 1 to 20 starting after a starting double.&lt;ref&gt;{{Cite web|url=https://www.britannica.com/topic/darts#ref89936|title=Darts|last=Augustyn|first=Adam|date=16 January 2016|website=Britannica|access-date=4 March 2019}}&lt;/ref&gt;
+
+====Shanghai====
+Shanghai is played with at least two players. The standard version is played in seven rounds.&lt;ref name=&quot;Shanghai&quot;&gt;{{cite web|url=http://www.diddleforthemiddle.com/shanghai.php|title=Archived copy|archiveurl=https://web.archive.org/web/20090706053618/http://www.diddleforthemiddle.com/shanghai.php|archivedate=2009-07-06|url-status=dead|accessdate=2009-07-16}} Dart Games: Shanghai&lt;/ref&gt; In round one players throw their darts aiming for the 1 section, round 2, the 2 section and so on until round 7. Standard scoring is used, and doubles and triples are counted. Only hits on the wedge for that round are counted. The winner is the person who has the most points at the end of seven rounds (1–7); or who scores a Shanghai, which wins win instantly, a Shanghai being throws that hit a triple, a double and single (in any order) of the number that is in play.&lt;ref name=&quot;Shanghai&quot;/&gt;
+
+Shanghai can also be played for 20 rounds to use all numbers. A Fairer Start for Shanghai: To prevent players from becoming too practiced at shooting for the 1, the number sequence can begin at the number of the dart that lost the throw for the bullseye to determine the starting thrower. For example; Thrower A shoots for the bullseye and hits the 17. Thrower B shoots for the bullseye and hits it. Thrower B then begins the game, starting on the number 17, then 18, 19, 20, 1, 2, 3, etc. through 16 (if no player hits Shanghai).
+
+==Darts organisations==
+===Professional organisations===
+{{Main article|Split in darts}}
+Of the two [[professional]] steel-tip organisations, the [[British Darts Organisation]] (BDO), founded 1973, is the older. Its tournaments were often shown on the [[BBC]] in the UK. The BDO is a member of the [[World Darts Federation]] (WDF) (founded 1976), along with organizations in some 60 other countries worldwide. The BDO originally organised a number of the more prestigious British tournaments with a few notable exceptions such as the News of the World Championship and the national events run under the auspices of the National Darts Association of Great Britain. However, many sponsors were lost and British TV coverage became much reduced by the early nineties. As of 24 September 2016, the BBC no longer broadcasts the BDO World Championship.
+
+In 1992, a group of darts players broke off from the BDO and, in pursuit of higher prize money, formed the [[Professional Darts Corporation]] (PDC). Like the BDO, the PDC organises their own tournaments as well as their own world championship.
+
+In soft-tip, the World Soft Darts Association serves as a governing body of the sport, with events feature players that play also steel-tip in PDC and BDO events, and other players that compete exclusively in soft-tip events.
+
+===Amateur league organisations===
+The American Darts Organization promulgates rules and standards for amateur league darts and sanctions tournaments in the United States. The American Darts Organization began operation January 1, 1976 with 30 charter member clubs and a membership of 7,500 players. Today, the ADO has a membership that averages 250 clubs on a yearly basis representing roughly 50,000 members.&lt;ref&gt;{{cite web|url=http://www.adodarts.com/history/ |title=American Darts Organization Official Website |work=ADO darts |date=23 February 2011 |accessdate=25 December 2014}}&lt;/ref&gt; 
+
+==Professional play==
+Since the demise of the [[News of the world Darts Championship]] and other past major tournaments The BDO and PDC both organise a televised [[World Professional Darts Championship|World Professional Championship]]. They are held annually over the Christmas/New Year period, with the PDC championship finishing slightly earlier than the BDO tournament. The [[BDO World Darts Championship|BDO World Championship]] has been running since 1978; the [[PDC World Darts Championship|PDC World Championship]] started in 1994.
+
+Both organisations hold other professional tournaments. The BDO organise the [[Winmau World Masters|World Masters]] and many Open tournaments. They also organise county darts for their 66 [[Counties of the United Kingdom|county]] members in the UK including individual and team events.
+
+The PDC's major tournaments are the [[PDC World Darts Championship|World Championship]], [[Premier League Darts|Premier League]], [[PDC UK Open Darts|UK Open]], [[Stan James World Matchplay|World Matchplay]], [[PDC World Grand Prix Darts|World Grand Prix]] and the [[Grand Slam of Darts]]. All of these are broadcast live on Sky Sports television in the UK. They also hold PDC Pro Tour events and smaller category events around the UK.
+
+Two Dutch independently organised major tournaments, the [[International Darts League]] and the [[World Darts Trophy]] introduced a mix of BDO and PDC players in 2006 and 2007. Both organisations allocated rankings to the tournaments, but these two events are now discontinued.
+
+The [[WDF World Cup darts|WDF World Cup]] for national teams and a singles tournament has been played biennially since 1977. The WDF also organise the Europe Cup. The [[Professional Darts Corporation|PDC]] has their own world cup competition, the [[PDC World Cup of Darts]].
+
+For soft-tip darts, WSDA and DARTSLIVE run THE WORLD, an international tour which serves as the Soft Darts World Championship, with the final tournament referred to as the Grand Final, with the circuit first taking place in 2011. Stages take place mostly in East Asia, with some rounds held in the United States and Europe. Matches during WSDA events are played with both 701 and Cricket during a set, usually with an even amount of both, giving both players throw during both formats, and the final round determined by player choice.&lt;ref&gt;{{Cite web|url=http://darts-theworld.com/|title=THE WORLD|website=THE WORLD|language=en|access-date=2019-01-15}}&lt;/ref&gt;
+
+===Professional darts players===
+{{see also|List of darts players}}
+
+===World Champions===
+{{see also|World Professional Darts Championship}}
+
+{| class=&quot;wikitable&quot;
+|- style=&quot;background:#efefef;&quot;
+!Year
+!Winner WPD / BDO
+!Winner PDC
+!Women's winner BDO
+!Women's winner PDC
+!Winner WSDA&lt;ref&gt;{{Cite web|url=http://darts-theworld.com/|title=THE WORLD|website=THE WORLD|language=en|access-date=2019-01-15}}&lt;/ref&gt;
+|-
+|1978
+|{{flagicon|WAL}} [[Leighton Rees]] (1)
+|rowspan=16|Not held
+|rowspan=23|Not held
+|rowspan=32|Not held
+| rowspan=&quot;33&quot; |Not Held
+|-
+|1979
+|{{flagicon|ENG}} [[John Lowe]] (1)
+|-
+|1980
+|{{flagicon|ENG}} [[Eric Bristow]] (1)
+|-
+|1981
+|{{flagicon|ENG}} [[Eric Bristow]] (2)
+|-
+|1982
+|{{flagicon|SCO}} [[Jocky Wilson]] (1)
+|-
+|1983
+|{{flagicon|ENG}} [[Keith Deller]] (1)
+|-
+|1984
+|{{flagicon|ENG}} [[Eric Bristow]] (3)
+|-
+|1985
+|{{flagicon|ENG}} [[Eric Bristow]] (4)
+|-
+|1986
+|{{flagicon|ENG}} [[Eric Bristow]] (5)
+|-
+|1987
+|{{flagicon|ENG}} [[John Lowe]] (2)
+|-
+|1988
+|{{flagicon|ENG}} [[Bob Anderson (darts player)|Bob Anderson]] (1)
+|-
+|1989
+|{{flagicon|SCO}} [[Jocky Wilson]] (2)
+|-
+|1990
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (1)
+|-
+|1991
+|{{flagicon|ENG}} [[Dennis Priestley]] (1)
+|-
+|1992
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (2)
+|-
+|1993
+|{{flagicon|ENG}} [[John Lowe]] (3)
+|-
+|1994
+|{{flagicon|CAN}} [[John Part]] (1)
+|{{flagicon|ENG}} [[Dennis Priestley]] (2)
+|-
+|1995
+|{{flagicon|WAL}} [[Richie Burnett]] (1)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (3)
+|-
+|1996
+|{{flagicon|ENG}} [[Steve Beaton]] (1)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (4)
+|-
+|1997
+|{{flagicon|SCO}} [[Les Wallace]] (1)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (5)
+|-
+|1998
+|{{flagicon|NED}} [[Raymond van Barneveld]] (1)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (6)
+|-
+|1999
+|{{flagicon|NED}} [[Raymond van Barneveld]] (2)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (7)
+|-
+|2000
+|{{flagicon|ENG}} [[Ted Hankey]] (1)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (8)
+|-
+|2001
+|{{flagicon|ENG}} [[John Walton (darts player)|John Walton]] (1)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (9)
+|{{flagicon|ENG}} [[Trina Gulliver]] (1)
+|-
+|2002
+|{{flagicon|AUS}} [[Tony David]] (1)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (10)
+|{{flagicon|ENG}} [[Trina Gulliver]] (2)
+|-
+|2003
+|{{flagicon|NED}} [[Raymond van Barneveld]] (3)
+|{{flagicon|CAN}} [[John Part]] (2)
+|{{flagicon|ENG}} [[Trina Gulliver]] (3)
+|-
+|2004
+|{{flagicon|ENG}} [[Andy Fordham]] (1)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (11)
+|{{flagicon|ENG}} [[Trina Gulliver]] (4)
+|-
+|2005
+|{{flagicon|NED}} [[Raymond van Barneveld]] (4)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (12)
+|{{flagicon|ENG}} [[Trina Gulliver]] (5)
+|-
+|2006
+|{{flagicon|NED}} [[Jelle Klaasen]] (1)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (13)
+|{{flagicon|ENG}} [[Trina Gulliver]] (6)
+|-
+|2007
+|{{flagicon|ENG}} [[Martin Adams]] (1)
+|{{flagicon|NED}} [[Raymond van Barneveld]] (5)
+|{{flagicon|ENG}} [[Trina Gulliver]] (7)
+|-
+|2008
+|{{flagicon|WAL}} [[Mark Webster (darts player)|Mark Webster]] (1)
+|{{flagicon|CAN}} [[John Part]] (3)
+|{{flagicon|RUS}} [[Anastasia Dobromyslova]] (1)
+|-
+|2009
+|{{flagicon|ENG}} [[Ted Hankey]] (2)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (14)
+|{{flagicon|NED}} [[Francis Hoenselaar]] (1)
+|-
+|2010
+|{{flagicon|ENG}} [[Martin Adams]] (2)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (15)
+|{{flagicon|ENG}} [[Trina Gulliver]] (8)
+|{{flagicon|USA}} [[Stacy Bromberg]] (1) 
+|-
+|2011
+|{{flagicon|ENG}} [[Martin Adams]] (3)
+|{{flagicon|ENG}} [[Adrian Lewis]] (1)
+|{{flagicon|ENG}} [[Trina Gulliver]] (9)
+|rowspan=10|Not held
+|{{Flagicon|SIN}} [[Paul Lim]] (1)
+|-
+|2012
+|{{flagicon|NED}} [[Christian Kist]] (1)
+|{{flagicon|ENG}} [[Adrian Lewis]] (2)
+|{{flagicon|RUS}} [[Anastasia Dobromyslova]] (2)
+|{{Flagicon|JPN}} [[Takehiro Suziki]] (1)
+|-
+|2013
+|{{flagicon|ENG}} [[Scott Waites]] (1)
+|{{flagicon|ENG}} [[Phil Taylor (darts player)|Phil Taylor]] (16)
+|{{flagicon|RUS}} [[Anastasia Dobromyslova]] (3)
+|{{Flagicon|PHI}} [[Lourence Ilagan]] (1)
+|-
+|2014
+|{{flagicon|ENG}} [[Stephen Bunting]] (1)
+|{{flagicon|NED}} [[Michael van Gerwen]] (1)
+|{{flagicon|ENG}} [[Lisa Ashton]] (1)
+|{{Flagicon|CRO}} [[Boris Krčmar]] (1)
+|-
+|2015
+|{{flagicon|ENG}} [[Scott Mitchell (darts player)|Scott Mitchell]] (1)
+|{{flagicon|SCO}} [[Gary Anderson (darts player)|Gary Anderson]] (1)
+|{{flagicon|ENG}} [[Lisa Ashton]] (2)
+|{{Flagicon|CRO}} [[Boris Krčmar]] (2)
+|-
+|2016
+|{{flagicon|ENG}} [[Scott Waites]] (2)
+|{{flagicon|SCO}} [[Gary Anderson (darts player)|Gary Anderson]] (2)
+|{{flagicon|ENG}} [[Trina Gulliver]] (10)
+|{{Flagicon|CRO}} [[Boris Krčmar]] (3)
+|-
+|2017
+|{{flagicon|ENG}} [[Glen Durrant]] (1)
+|{{flagicon|NED}} [[Michael van Gerwen]] (2)
+|{{flagicon|ENG}} [[Lisa Ashton]] (3)
+|{{Flagicon|CRO}} [[Boris Krčmar]] (4)
+|-
+|2018
+|{{flagicon|ENG}} [[Glen Durrant]] (2)
+|{{flagicon|ENG}} [[Rob Cross (darts player)|Rob Cross]] (1)
+|{{flagicon|ENG}} [[Lisa Ashton]] (4)
+|{{Flagicon|SIN}} [[Paul Lim]] (2)
+|-
+|2019
+|{{flagicon|ENG}} [[Glen Durrant]] (3)
+|{{flagicon|NED}} [[Michael van Gerwen]] (3)
+|{{flagicon|JPN}} [[Mikuru Suzuki]] (1)
+|{{Flagicon|HKG}} [[Royden Lam]] (1)
+|-
+|2020
+|{{flagicon|WAL}} [[Wayne Warren]] (1)
+|{{flagicon|SCO}} [[Peter Wright (darts player)|Peter Wright]] (1)
+|{{flagicon|JPN}} [[Mikuru Suzuki]] (2)
+|
+|}
+
+'''Multiple-Time World Champions'''
+:16 [[Phil Taylor (darts player)|Phil Taylor]] ''The Power'' (2 BDO, 14 PDC)
+:10 [[Trina Gulliver]] ''The Golden Girl''
+: 5 [[Eric Bristow]] ''The Crafty Cockney''
+: 5 [[Raymond van Barneveld]]  ''Barney'' (4 BDO, 1 PDC)
+: 4 [[Lisa Ashton]] ''The Lancashire Rose''
+: 3 [[Martin Adams]] ''Wolfie''
+: 3 [[Anastasia Dobromyslova]] ''From Russia With Love''
+: 3 [[Glen Durrant]] ''Duzza''
+: 3 [[John Lowe]] ''Old Stoneface''
+: 3 [[John Part]] ''Darth Maple'' (1 BDO, 2 PDC)
+: 3 [[Michael van Gerwen]] ''Mighty Mike''
+: 2 [[Gary Anderson (darts player)|Gary Anderson]] ''The Flying Scotsman''
+: 2 [[Ted Hankey]] ''The Count''
+: 2 [[Adrian Lewis]] ''Jackpot''
+: 2 [[Dennis Priestley]] ''The Menace'' (1 BDO, 1 PDC)
+: 2 [[Mikuru Suzuki]] ''Miracle''
+: 2 [[Scott Waites]] ''Scotty 2 Hotty''
+: 2 [[Jocky Wilson]] ''Jocky''
+
+'''One-Time World Champions'''
+: [[Bob Anderson (darts player)|Bob Anderson]] ''The Limestone Cowboy''
+: [[Steve Beaton]] ''The Bronze Adonis''
+: [[Stacy Bromberg]] ''The Wish Granter''
+: [[Stephen Bunting]] ''The Bullet''
+: [[Richie Burnett]] ''The Prince of Wales''
+: [[Rob Cross (darts player)|Rob Cross]] ''Voltage''
+: [[Tony David]] ''The Deadly Boomerang''
+: [[Keith Deller]] ''The Fella''
+: [[Andy Fordham]] ''The Viking''
+: [[Francis Hoenselaar]] ''The Crown''
+: [[Christian Kist]] ''The Lipstick''
+: [[Jelle Klaasen]] ''The Cobra''
+: [[Scott Mitchell (darts player)|Scott Mitchell]] ''Scotty Dog''
+: [[Leighton Rees]] ''Marathon Man''
+: [[Les Wallace]] ''McDanger''
+: [[John Walton (darts player)|John Walton]] ''John Boy''
+: [[Wayne Warren]] ''Yank''
+: [[Mark Webster (darts player)|Mark Webster]] ''The Spider''
+: [[Peter Wright (darts player)|Peter Wright]] ''Snakebite''
+
+===World rankings===
+{{main article|Darts world rankings}}
+The WDF, BDO and PDC each maintain their own rankings lists. These lists are commonly used to determine [[Seed (tennis)|seedings]] for various tournaments. The WDF rankings are based on the preceding 12 months performances, the BDO resets all ranking points to zero after the seedings for their world championship have been determined, and the [[PDC Order of Merit]] is based on prize money earned over a two-year period.
+
+==See also==
+*[[Darts world rankings]]—current ranking lists for BDO and PDC
+*[[:Category:Darts tournaments|Darts tournaments]]—previous winners, history and information
+*[[:Category:Darts players|Darts players]] profiles
+*[[Nine dart finish]]—the &quot;perfect&quot; game in darts
+*[[High dart average]]—average score achieved with all three darts thrown
+*[[Glossary of darts]]
+*[[Pub games]]
+*''[[Bullseye (British game show)|Bullseye]]''—a British game show based on darts
+
+== References ==
+{{Reflist}}
+
+==Further reading==
+*{{Citation |last=Chaplin |first=Patrick |title=Darts in England, 1900–39: A Social History |location=Manchester |publisher=Manchester University Press, distributed by Palgrave Macmillan |year=2010 |isbn=978-0-7190-7803-3 }}. Scholarly history showing how darts figured in publicans' efforts to improve their establishments, and how the sport moved from a working-class pursuit to gain middle- and upper-class players.
+
+==External links==
+{{wikiquote}}
+{{Commons+cat|Darts}}
+*[http://www.adodarts.com/ American Darts Organization]
+*[https://www.bdodarts.com/ British Darts Organisation]
+*[http://www.pdc.tv/ Professional Darts Corporation]
+*[http://www.dartswdf.com/ World Darts Federation]
+*[http://www.dardscatalunya.cat/ Catalan Darts Federation]
+
+{{Darts}}
+{{Authority control}}
+
+[[Category:Darts| ]]
+[[Category:English inventions]]
+[[Category:Throwing sports]]
+[[Category:Precision sports]]
+[[Category:Individual sports]]
+[[Category:Indoor sports]]
+[[Category:Pub games]]
+[[Category:Throwing games]]
+[[Category:Gambling games]]</text>
+      <sha1>38d9ewt6zhr4aagh0tdj6d6y3hzn4py</sha1>
+    </revision>
+  </page>

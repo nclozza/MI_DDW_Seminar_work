@@ -1,0 +1,149 @@
+  <page>
+    <title>Lekana</title>
+    <ns>0</ns>
+    <id>14245358</id>
+    <revision>
+      <id>771924991</id>
+      <parentid>642744247</parentid>
+      <timestamp>2017-03-24T08:43:35Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
+      </contributor>
+      <comment>Migrate {{Infobox settlement}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+&lt;!--See the Table at Infobox Settlement for all fields and descriptions of usage--&gt;
+&lt;!-- Basic info  ----------------&gt;
+|official_name          =Lekana
+|other_name             =
+|native_name            =  &lt;!-- for cities whose native name is not in English --&gt;
+|nickname               = 
+|settlement_type        = &lt;!--For Town or Village (Leave blank for the default City)--&gt;
+|motto                  =
+&lt;!-- images and maps  -----------&gt;
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     = 
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Republic of the Congo&lt;!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map --&gt;
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in the Republic of the Congo&lt;!-- Location ------------------&gt;
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of the Republic of the Congo.svg|25px]] [[Republic of the Congo]]
+|subdivision_type1      = [[Regions of the Republic of the Congo|Region]] 
+|subdivision_name1      = [[Plateaux Region (Congo)|Plateaux Region]]
+|subdivision_type2      = [[Districts of the Republic of the Congo|District]]
+|subdivision_name2      = [[Lekana District]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+&lt;!-- Politics -----------------&gt;
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  &lt;!-- for places with, say, both a mayor and a city manager --&gt;
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  &lt;!-- Settled --&gt;
+|established_date       = 
+|established_title2     =  &lt;!-- Incorporated (town) --&gt;
+|established_date2      = 
+|established_title3     =  &lt;!-- Incorporated (city) --&gt;
+|established_date3      =
+&lt;!-- Area    ---------------------&gt;
+|area_magnitude         = 
+|unit_pref                =Imperial &lt;!--Enter: Imperial, if Imperial (metric) is desired--&gt;
+|area_footnotes           =
+|area_total_km2           = 
+|area_land_km2            = &lt;!--See table @ Template:Infobox Settlement for details on automatic unit conversion--&gt;
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+&lt;!-- Population   -----------------------&gt;
+|population_as_of               = 
+|population_footnotes           =
+|population_note                =
+|population_total               = 
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_blank2_title        =Religions
+|population_blank2              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+&lt;!-- General information  ---------------&gt;
+|timezone               = 
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|2|19|31|S|14|36|0|E|region:CG|display=inline,title}}
+|elevation_footnotes    =  &lt;!--for references: use &lt;ref&gt; tags--&gt;
+|elevation_m            = 
+|elevation_ft           = &lt;!-- accord. to Google Earth--&gt;
+&lt;!-- Area/postal codes &amp; others --------&gt;
+|postal_code_type       =  &lt;!-- enter ZIP code, Postcode, Post code, Postal code... --&gt;
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}
+
+'''Lekana''' is a city and seat of [[Lekana District]] in the [[Plateaux Region, Congo|Plateaux Region]] of northeastern [[Republic of the Congo]].
+
+The city is served by [[Lekana Airport]].
+
+[[Category:Plateaux Department (Republic of the Congo)]]
+[[Category:Populated places in the Republic of the Congo]]
+
+
+{{RCongo-geo-stub}}</text>
+      <sha1>skjma7qjcci7xdnx8hq90r1pesf0e4d</sha1>
+    </revision>
+  </page>
