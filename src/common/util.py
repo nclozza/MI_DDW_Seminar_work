@@ -51,13 +51,13 @@ def get_available_urls(value):
     path = ""
 
     if value == configuration.DEBUG:
-        path = "../data/dumps/available_urls_debug.json"
+        path = configuration.AVAILABLE_URLS_DEBUG
     elif value == configuration.CITY:
-        path = "../data/dbpedia/available_urls_city.json"
+        path = configuration.AVAILABLE_URLS_CITY
     elif value == configuration.SPORT:
-        path = "../data/dbpedia/available_urls_sport.json"
+        path = configuration.AVAILABLE_URLS_SPORT
     elif value == configuration.MUSICAL_ARTIST:
-        path = "../data/dbpedia/available_urls_musicalArtist.json"
+        path = configuration.AVAILABLE_URLS_MUSICAL_ARTIST
 
     with open(path) as f:
         data = json.load(f)
@@ -81,3 +81,8 @@ def save_file(filename, string):
 
 def remove_file_extension_from_name(file_name):
     return file_name[:file_name.rfind(".")]
+
+
+def windows_name_accepted(string):
+    return all((31 <= ord(c) <= 255 and c not in "<>:\"/\\|?*") for c in string)
+
