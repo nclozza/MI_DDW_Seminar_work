@@ -108,7 +108,7 @@ try:
         files = [x for x in files_to_process if x not in files_processed]
         files = {x + XML_EXTENSION for x in files}
 
-    # files = ["Archery.xml"]
+    # files = ["Utamaro.xml"]
 
     for file_name in files:
         print("Processing: " + file_name)
@@ -119,7 +119,7 @@ try:
         # The first element contains the text before the first appearance of CITE_START
         del references[0]
 
-        jsonl = bytes
+        jsonl = ""
         for line in references:
             string = remove_string_leftovers(line)
 
