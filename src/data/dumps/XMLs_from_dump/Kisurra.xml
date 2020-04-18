@@ -1,0 +1,61 @@
+  <page>
+    <title>Kisurra</title>
+    <ns>0</ns>
+    <id>14078411</id>
+    <revision>
+      <id>852820159</id>
+      <parentid>852819714</parentid>
+      <timestamp>2018-07-31T15:52:44Z</timestamp>
+      <contributor>
+        <username>Ploversegg</username>
+        <id>6417401</id>
+      </contributor>
+      <comment>rm odd diety info from sketchy site - note to self, see if city god is actually known</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+|pushpin_map            = Iraq &lt;!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map --&gt;
+|pushpin_label_position =bottom
+|pushpin_mapsize        =250
+|pushpin_map_caption    =Location in Iraq
+|coordinates            = {{coord|31|50|17|N|45|28|50|E|display=inline}}
+|official_name          = Kisurra
+}}
+'''Kisurra''' (modern '''Tell Abu Hatab''', [[Al-Qādisiyyah Governorate]], [[Iraq]]) was an ancient [[Sumer]]ian ''[[Tell (archaeology)|tell]]'' (hill city)  situated on the west bank of the [[Euphrates]], {{convert|7|km}} north of [[Shuruppak]]. 
+==History==
+Kisurra was established ca. 2700 BC,  during the Sumerian [[History of Sumer|Early Dynastic II]] period. The southern end of the Isinnitum Canal was joined back into the Euphrates at Kisurra.&lt;ref&gt;[http://www.jameswbell.com/geog001sumerianwaterways.html Sumerian Waterways&lt;!-- Bot generated title --&gt;] {{webarchive|url=https://web.archive.org/web/20070717050551/http://www.jameswbell.com/geog001sumerianwaterways.html |date=2007-07-17 }}&lt;/ref&gt; The city lasted as a center for commerce and transport through the  [[Akkadian Empire|Akkadian]] and part of the [[Babylonian Empire]]s, until cuneiform texts and excavation show a decline during the time of [[Hammurabi]] (c.1800 BCE).&lt;ref&gt;Rogers, Robert William (1915) A History of Babylonia and Assyria. The Abingdon Press p435&lt;/ref&gt;
+
+==Archaeology==
+German archaeologists, beginning with [[Robert Koldewey]] in 1902, have found many [[cuneiform]] tablets from Tell Abu Hatab.&lt;ref&gt;Walter Andrae, Die Umgebung von Fara und Abu Hatab,  Mitteilungen
+der Deutschen Orient Gesellschaft, no. 16 , pp. 24-30, 1903&lt;/ref&gt;&lt;ref&gt;Walter Andrae, Ausgrabungen in Fara und Abu Hatab. Bericht über die Zeit vom 15. August 1902 bis 10. Januar 1903, Mitteilungen
+der Deutschen Orient Gesellschaft, no. 17, pp. 4-35, 1903&lt;/ref&gt;&lt;ref&gt;[http://libmedia.cc.stonybrook.edu/cgi-bin/showfile.exe?CISOROOT=/p3006coll41&amp;CISOPTR=116&amp;filename=117.PDF]
+E. Heinrich, Fara: Ergebmisse der Ausgrabungen der Deustchen Orient Gesellschaft in Fara und Abu Hatab 1902/03, J.C. Hinrichs, 1931&lt;/ref&gt;
+
+==See also==
+
+* [[Cities of the Ancient Near East]]
+* [[Tell (archaeology)]]
+
+==Notes==
+{{reflist}}
+
+==Further reading==
+*Anne Goddeeris, Tablets from Kisurra in the collections of The British Museum, Harrasowitz, 2009, {{ISBN|978-3-447-06064-6}}
+*Anne Goddeeris, The Economic Basis of the Local Palace of Kisurra, Zeitschrift für Assyriologie und vorderasiatische Archäologie, vol. 97, issue 1, pp.&amp;nbsp;47–85, 2007
+*Burkhart Kienast, Die altbabylonischen Briefe und Urkunden aus Kisurra, Steiner, 1978, {{ISBN|3-515-02592-8}}
+*E. J. Banks, Impressions from the Excavations by the Germans at Fara and Abu Hatab, Biblical World, vol. 24, pp.&amp;nbsp;138–146, 1904
+*Witold Tyborowski, New Tablets from Kisurra and the Chronology of Central Babylonia in the Early Old Babylonian Period, Zeitschrift für Assyriologie und Vorderasiatische Archäologie, vol. 102, iss. 2, pp. 245–269, 2012, ISSN 0084-5299
+
+==External links==
+*[http://www.klinopis.cz/utf/utf/obtexttype.php?origin=Kisura&amp;type=document Old Babylonian text Corpus at Freiburger Altorientalische studies - in german]
+*[http://cdli.ucla.edu/tools/yearnames/E_GLOSSARINDEX/R849.htm Kisurra related Year Names at CDLI]
+
+{{coord|31|50|17|N|45|28|50|E|type:city|display=title}}
+
+[[Category:Al-Qādisiyyah Governorate]]
+[[Category:Sumerian cities]]
+[[Category:Archaeological sites in Iraq]]
+[[Category:Former populated places in Iraq]]</text>
+      <sha1>lbejlshp4j9e5fyaod7l6mzn500nskr</sha1>
+    </revision>
+  </page>

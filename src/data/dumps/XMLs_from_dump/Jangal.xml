@@ -1,0 +1,68 @@
+  <page>
+    <title>Jangal</title>
+    <ns>0</ns>
+    <id>24619240</id>
+    <revision>
+      <id>858381071</id>
+      <parentid>858375702</parentid>
+      <timestamp>2018-09-06T19:26:24Z</timestamp>
+      <contributor>
+        <username>Catfurball</username>
+        <id>32291640</id>
+      </contributor>
+      <minor />
+      <comment>Corrected spelling of county.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{other uses}}
+{{Infobox settlement
+|official_name =Jangal
+|native_name=جنگل
+|settlement_type        = City
+|pushpin_map            =Iran
+|mapsize                =150px
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name = {{flag|Iran}}
+|subdivision_type1 =[[Provinces of Iran|Province]]
+|subdivision_name1 =[[Razavi Khorasan Province|Razavi Khorasan]]
+|subdivision_type2 =[[Counties of Iran|County]]
+|subdivision_name2 =[[Roshtkhar County|Roshtkhar]]
+|subdivision_type3 =[[Bakhsh]]
+|subdivision_name3 =[[Jangal District|Jangal]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2016 Census
+|population_total       =6,650 &lt;ref&gt;https://www.amar.org.ir/english&lt;/ref&gt;
+|population_density_km2   =auto
+|timezone               = [[Iran Standard Time|IRST]]
+|utc_offset             = +3:30
+|timezone_DST           = [[Iran Daylight Time|IRDT]]
+|utc_offset_DST         = +4:30
+|coordinates            = {{coord|34|42|12|N|59|13|22|E|region:IR|display=inline,title}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+|footnotes              ={{GEOnet2|32FA880A1BBC3774E0440003BA962ED3}}
+}}
+'''Jangal'''&lt;ref&gt;{{GEOnet3|-3067710}}&lt;/ref&gt; ({{lang-fa|جنگل}}) is a city and capital of [[Jangal District]], in [[Roshtkhar County]], [[Razavi Khorasan Province]], [[Iran]]. At the 2006 census, its population was 6,232, in 1,384 families.&lt;ref&gt;{{IranCensus2006|09}}&lt;/ref&gt;  Jangal means &quot;jungle&quot; or &quot;forest&quot; in [[Persian language|Persian]].
+
+== References ==
+{{reflist}}
+
+{{Razavi Khorasan Province}}
+{{Rashtkhvar County}}
+
+{{Portal|Iran}}
+
+[[Category:Populated places in Roshtkhar County]]
+[[Category:Cities in Razavi Khorasan Province]]
+
+
+{{Rashtkhvar-geo-stub}}</text>
+      <sha1>chx1r08q1lzn1l5mr89l3mrzou7hxv9</sha1>
+    </revision>
+  </page>

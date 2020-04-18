@@ -84,5 +84,5 @@ def remove_file_extension_from_name(file_name):
 
 
 def windows_name_accepted(string):
-    return all((31 <= ord(c) <= 255 and c not in "<>:\"/\\|?*") for c in string)
+    return all((31 <= ord(c) <= 126 and c not in "<>:\"/\\|?*") for c in string)
 

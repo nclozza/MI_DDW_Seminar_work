@@ -1,0 +1,69 @@
+  <page>
+    <title>Diaobingshan</title>
+    <ns>0</ns>
+    <id>24748773</id>
+    <revision>
+      <id>844757353</id>
+      <parentid>800766778</parentid>
+      <timestamp>2018-06-06T23:39:23Z</timestamp>
+      <contributor>
+        <username>CaradhrasAiguo</username>
+        <id>24002831</id>
+      </contributor>
+      <minor />
+      <comment>Specific postal code link using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+|name = {{raise|0.2em|Diaobingshan}}
+|native_name = {{lower|0.1em|{{nobold|{{lang|zh-hans|调兵山市}}}}}}
+|official_name = 
+|other_name =
+|postal_code_type = [[Postal code of China|Postal code]]
+|settlement_type = [[County-level city]]
+|image_skyline = 
+|image_map = ChinaTielingDiaobingshan.png
+|map_caption = Location in Tieling
+|pushpin_map = China Liaoning
+|pushpin_label =
+|pushpin_map_caption = Location in Liaoning
+|subdivision_type = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1 = [[Province (China)|Province]]
+|subdivision_name1 = [[Liaoning]]
+|subdivision_type2 = [[Prefecture-level city]]
+|subdivision_name2 = [[Tieling]]
+|area_total_km2 = 
+|population = 
+|population_as_of = 
+|population_density_km2 = auto
+|coordinates = {{coord|42|28|N|123|34|E|type:adm3rd_region:CN-21|display=inline,title}}
+|elevation_ft = 
+|elevation_m = 
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|website =
+}}
+'''Diaobingshan''' ({{zh|s=调兵山 |t=調兵山 |p=Diàobīngshān}}) is a city in the northeast of [[Liaoning]] province in [[Northeast China]]. It is under the administration of [[Tieling]] City, which lies {{convert|30|km}} to the southeast.
+
+==Administrative Divisions&lt;ref&gt;[http://www.xzqh.org/html/list/81.html 铁岭市-行政区划网]&lt;/ref&gt;==
+There are 7 [[Town (China)|towns]] under the city's administration.
+
+Towns:
+*[[Bingshan]] (兵山镇), [[Tiefa]], [[Xiaoming]] (晓明镇), [[Gushanzi]] (孤山子镇), [[Xiaonan, Diaobingshan|Xiaonan]] (晓南镇), [[Xiaoqing, Diaobingshan|Xiaoqing]] (小青镇), [[Daming, Diaobingshan|Daming]] (大明镇)
+
+==References==
+{{reflist}}
+
+==External links==
+
+{{County-level divisions of Liaoning}}
+
+[[Category:County-level divisions of Liaoning]]
+[[Category:Tieling]]
+
+
+{{Liaoning-geo-stub}}</text>
+      <sha1>kd8qn6etzrh87a0g4yn6plqu4zdmrdz</sha1>
+    </revision>
+  </page>

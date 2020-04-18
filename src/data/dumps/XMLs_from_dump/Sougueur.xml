@@ -1,0 +1,90 @@
+  <page>
+    <title>Sougueur</title>
+    <ns>0</ns>
+    <id>24090182</id>
+    <revision>
+      <id>876919613</id>
+      <parentid>876870692</parentid>
+      <timestamp>2019-01-05T10:21:43Z</timestamp>
+      <contributor>
+        <username>Dahn</username>
+        <id>531961</id>
+      </contributor>
+      <comment>Undid revision 876870692 by [[Special:Contributions/Sm 751|Sm 751]] ([[User talk:Sm 751|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+|official_name          = Sougueur
+|native_name            = {{lang|ar|السوقر}}
+|nickname               = 
+|settlement_type        = City (Common and Daira)
+|motto                  =
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_map              = Dz - 14 - Sougueur.svg
+|mapsize                = 180px
+|map_caption            = Location of Sougueur in the [[Tiaret Province]]
+|pushpin_map            = 
+|pushpin_label_position = bottom
+|pushpin_mapsize= 300
+|pushpin_map_caption    = Location of Sougueur in the [[Algeria]]
+|coordinates            = 
+| coor_pinpoint           =
+|subdivision_type       = Country
+|subdivision_name       ={{flag|Algeria}}
+|subdivision_type1      = [[Provinces of Algeria|Province]] 
+|subdivision_name1      =[[Tiaret Province]]
+|subdivision_type2      = [[Districts of Algeria|District]]
+|subdivision_name2      = [[Sougueur District]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+|government_footnotes   =
+|government_type        = [[Municipality]]
+|leader_title           = [[Mayor]]
+|leader_name            = 
+|established_title      = APC
+|established_date       = 2012-2017
+|area_magnitude         = 
+|unit_pref              = Imperial 
+|area_footnotes         =
+|area_total_km2         = 257.82
+|area_land_km2          = 
+|population_as_of       = 2008
+|population_footnotes   =
+|population_note        =
+|population_total       = 78956
+|population_density_km2 = 
+|timezone               = [[Central European Time|CET]] 
+|utc_offset             =  +1
+|elevation_footnotes    = 
+|elevation_m            = 
+|elevation_ft           = 
+|iso_code        = CP
+|postal_code_type       = [[List of postal codes in Algeria|Postal code]]
+|postal_code            = 14003
+|area_code              =
+|blank_name             =
+|blank_info             =
+|website                = 
+|footnotes              = 
+}}
+
+'''Sougueur''' is a town and commune in [[Tiaret Province]] in north-western [[Algeria]].
+
+{{coord|35|11|N|1|30|E|display=title|region:DZ_type:city_source:GNS-enwiki}}
+
+{{Tiaret Province}}
+
+[[Category:Populated places in Tiaret Province]]
+[[Category:Communes of Algeria]]
+
+
+{{Tiaret-geo-stub}}</text>
+      <sha1>m3w3guq25rkn83nmmk7cv3r3xsewnpa</sha1>
+    </revision>
+  </page>
