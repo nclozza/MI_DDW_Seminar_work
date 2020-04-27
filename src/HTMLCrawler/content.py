@@ -1,6 +1,8 @@
 import json
+import sys
 
-import src.DumpCrawler.configuration as configuration
+sys.path.append('../')
+import DumpCrawler.configuration as configuration
 
 
 def extract_text(soup, name):

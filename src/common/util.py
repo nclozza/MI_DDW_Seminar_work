@@ -1,10 +1,12 @@
 import datetime
 import json
+import sys
 import time
 from os import listdir
 from os.path import isfile, join
 
-import src.common.configuration as configuration
+sys.path.append('../')
+import common.configuration as configuration
 
 
 def get_name_from_url(url):
@@ -85,4 +87,3 @@ def remove_file_extension_from_name(file_name):
 
 def windows_name_accepted(string):
     return all((31 <= ord(c) <= 126 and c not in "<>:\"/\\|?*") for c in string)
-

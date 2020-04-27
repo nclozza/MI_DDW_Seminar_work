@@ -1,16 +1,18 @@
 import datetime
+import sys
 
+import citation as citation
+import configuration as configuration
+import content as content
+import reference as reference
 import requests
 from bs4 import BeautifulSoup
 
-import src.HTMLCrawler.citation as citation
-import src.HTMLCrawler.configuration as configuration
-import src.HTMLCrawler.content as content
-import src.HTMLCrawler.reference as reference
-import src.common.configuration as url_configuration
-import src.common.util as util
-from src.common.object import Object
-from src.model.HTMLPage import HTMLPage
+sys.path.append('../')
+import common.configuration as url_configuration
+import common.util as util
+from common.object import Object
+from model.HTMLPage import HTMLPage
 
 
 def main(craw_delay, headers):

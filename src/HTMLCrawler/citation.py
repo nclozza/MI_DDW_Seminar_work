@@ -1,5 +1,9 @@
-import src.HTMLCrawler.reference as reference
-from src.model.HTMLCitation import HTMLCitation
+import sys
+
+import reference as reference
+
+sys.path.append('../')
+from model.HTMLCitation import HTMLCitation
 
 
 def find_all(soup, references):
