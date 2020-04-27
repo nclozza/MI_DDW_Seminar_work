@@ -1,6 +1,7 @@
 IGNORE_EXISTING_FILES = False
 
-XML_DUMP_PATH = "../../enwiki-20200201-pages-articles-multistream.xml"
+# The program will prepend a '../' to the path, and should be written as if it's read from src/DumpCrawler
+XML_DUMP_PATH = "data/test_dump.xml"
 
 # Remove files with special characters in the filename
 # like \303\247 instead of ç in Paiçandu
