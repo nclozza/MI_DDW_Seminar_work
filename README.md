@@ -4,6 +4,12 @@
 
 - Python 3
 
+## Install packages (Windows)
+
+```
+> python -m pip install -r requirements.txt
+```
+
 ## Run HTML Crawler (Windows)
 
 ```
