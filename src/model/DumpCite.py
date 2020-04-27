@@ -1,7 +1,9 @@
 import json
+import sys
 from pprint import pprint
 
-from src.common.object import Object
+sys.path.append("../")
+from common.object import Object
 
 
 class DumpCite:

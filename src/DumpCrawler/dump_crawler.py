@@ -1,12 +1,16 @@
 import re
+import sys
 from xml.sax import saxutils as su
 
-from src.DumpCrawler.configuration import *
-from src.common.util import remove_file_extension_from_name, get_all_files_from_path, save_file
-from src.model.DumpCiteBook import DumpCiteBook
-from src.model.DumpCiteJournal import DumpCiteJournal
-from src.model.DumpCiteNews import DumpCiteNews
-from src.model.DumpCiteWeb import DumpCiteWeb
+sys.path.append("../")
+from configuration import *
+from common.util import remove_file_extension_from_name, get_all_files_from_path, save_file
+from model.DumpCiteBook import DumpCiteBook
+from model.DumpCiteJournal import DumpCiteJournal
+from model.DumpCiteNews import DumpCiteNews
+from model.DumpCiteWeb import DumpCiteWeb
+
+from general_configuration import IGNORE_EXISTING_FILES
 
 CITE_START = "{{cite "
 CITE_END = "}}"

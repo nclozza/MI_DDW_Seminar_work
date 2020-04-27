@@ -1,4 +1,7 @@
-from src.model.DumpCite import DumpCite
+import sys
+
+sys.path.append("../")
+from model.DumpCite import DumpCite
 
 
 class DumpCiteNews(DumpCite):

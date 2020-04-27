@@ -1,10 +1,15 @@
 import json
 import re
+import sys
 
-from src.DumpCrawler.configuration import XML_FOLDER_PATH, XML_EXTENSION, XML_DUMP_PATH, RUNNING_ON_WINDOWS
-from src.common.configuration import *
-from src.common.object import Object
-from src.common.util import get_urls, get_name_from_url, generate_url_from_name, save_file, windows_name_accepted
+from configuration import XML_FOLDER_PATH, XML_EXTENSION
+
+sys.path.append("../")
+from common.configuration import *
+from common.object import Object
+from common.util import get_urls, get_name_from_url, generate_url_from_name, save_file, windows_name_accepted
+
+from general_configuration import XML_DUMP_PATH, RUNNING_ON_WINDOWS
 
 PAGE_START_TAG = "<page>"
 PAGE_END_TAG = "</page>"
@@ -45,7 +50,7 @@ titles_required_musical_artist = [get_name_from_url(string) for string in get_ur
 city_filenames_array = []
 sport_filenames_array = []
 musical_artist_filenames_array = []
-with open(XML_DUMP_PATH) as infile:
+with open("../" + XML_DUMP_PATH) as infile:
     page_string = ""
     in_page = False
     for line in infile:

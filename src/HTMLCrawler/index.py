@@ -2,7 +2,7 @@ import datetime
 import sys
 
 import citation as citation
-import configuration as configuration
+from src import general_configuration as configuration
 import content as content
 import reference as reference
 import requests
