@@ -6,6 +6,7 @@ import configuration as configuration
 import content as content
 import reference as reference
 import requests
+import statistic as statistic
 from bs4 import BeautifulSoup
 
 sys.path.append('../')
@@ -22,7 +23,6 @@ def main(craw_delay, headers):
         urls = util.get_available_urls(type)
 
         for url in urls:
-            # DEBUG
             print('Crawling: ' + url)
 
             source = requests.get(url, headers).text
@@ -33,9 +33,11 @@ def main(craw_delay, headers):
 
             references = reference.find_all(soup)
             getattr(pages, name).citations = citation.find_all(soup, references)
+            getattr(pages, name).statistic.total_citations_in_HTML = statistic.get_total_citations_in_HTML(
+                getattr(pages, name))
             getattr(pages, name).content = content.extract_text(soup, name)
             content.replace_citations_in_content(getattr(pages, name), name)
-            content.save_json(type, name, url, getattr(pages, name).content)
+            content.save_json(type, name, url, getattr(pages, name))
 
             util.wait_crawl_delay(initial_time, craw_delay)
 

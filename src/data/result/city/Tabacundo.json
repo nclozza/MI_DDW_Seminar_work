@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Tabacundo", "content": "Tabacundo\nTabacundo is the seat of Pedro Moncayo Canton, Pichincha Province, Ecuador. Tabacundo is on the southeastern foothills of Mojanda Volcano. It is northeast of the city of Quito and west of the city of Cayambe.\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Tabacundo",
+    "content": "Tabacundo\nTabacundo is the seat of Pedro Moncayo Canton, Pichincha Province, Ecuador. Tabacundo is on the southeastern foothills of Mojanda Volcano. It is northeast of the city of Quito and west of the city of Cayambe.\n",
+    "statistic": {
+        "total_citations_in_HTML": 0,
+        "total_citations_in_dump": 0,
+        "total_citations_in_dump_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        },
+        "citations_matched": 0,
+        "citations_matched_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        }
+    }
+}

@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Piratini", "content": "Piratini\nPiratini is a city in the Brazilian state of Rio Grande do Sul with a population of some 19,000.[1]   It is the former capital of the short-lived Riograndense Republic which was proclaimed on September 11, 1836.\n\nReferences\n\n\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Piratini",
+    "content": "Piratini\nPiratini is a city in the Brazilian state of Rio Grande do Sul with a population of some 19,000.[1]   It is the former capital of the short-lived Riograndense Republic which was proclaimed on September 11, 1836.\n\nReferences\n\n\n",
+    "statistic": {
+        "total_citations_in_HTML": 1,
+        "total_citations_in_dump": 0,
+        "total_citations_in_dump_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        },
+        "citations_matched": 0,
+        "citations_matched_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        }
+    }
+}

@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Bergepolis", "content": "Bergepolis\nBergepolis (Ancient Greek: \u0392\u03b5\u03c1\u03b3\u03ad\u03c0\u03bf\u03bb\u03b9\u03c2) was a Greek town located in ancient Thrace, in the region between the river Nestos to the river Hebros. It was founded by colonists from Abdera.{\"citetype\": \"book\", \"year\": \"2004\", \"chapter\": \"Thrace from Nestos to Hebros\", \"title\": \"An inventory of archaic and classical poleis\", \"location\": \"New York\", \"publisher\": \"[[Oxford University Press]]\", \"isbn\": \"0-19-814099-1\", \"author\": \"Mogens Herman Hansen & Thomas Heine Nielsen\"} Bergepolis was an urban center dependent on Abdera. Bergepolis survived in the Roman times.{\"citetype\": \"book\", \"year\": \"2004\", \"chapter\": \"Thrace from Nestos to Hebros\", \"title\": \"An inventory of archaic and classical poleis\", \"location\": \"New York\", \"publisher\": \"[[Oxford University Press]]\", \"isbn\": \"0-19-814099-1\", \"author\": \"Mogens Herman Hansen & Thomas Heine Nielsen\"}\nIts site is located 9 miles (14\u00a0km) southeast of modern Xanthi.[2][3]\n\nReferences\nCoordinates: 41\u00b003\u203227\u2033N 25\u00b000\u203249\u2033E\ufeff / \ufeff41.057585\u00b0N 25.013705\u00b0E\ufeff / 41.057585; 25.013705\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Bergepolis",
+    "content": "Bergepolis\nBergepolis (Ancient Greek: \u0392\u03b5\u03c1\u03b3\u03ad\u03c0\u03bf\u03bb\u03b9\u03c2) was a Greek town located in ancient Thrace, in the region between the river Nestos to the river Hebros. It was founded by colonists from Abdera.{\"citetype\": \"book\", \"year\": \"2004\", \"chapter\": \"Thrace from Nestos to Hebros\", \"title\": \"An inventory of archaic and classical poleis\", \"location\": \"New York\", \"publisher\": \"[[Oxford University Press]]\", \"isbn\": \"0-19-814099-1\", \"author\": \"Mogens Herman Hansen & Thomas Heine Nielsen\"} Bergepolis was an urban center dependent on Abdera. Bergepolis survived in the Roman times.{\"citetype\": \"book\", \"year\": \"2004\", \"chapter\": \"Thrace from Nestos to Hebros\", \"title\": \"An inventory of archaic and classical poleis\", \"location\": \"New York\", \"publisher\": \"[[Oxford University Press]]\", \"isbn\": \"0-19-814099-1\", \"author\": \"Mogens Herman Hansen & Thomas Heine Nielsen\"}\nIts site is located 9 miles (14\u00a0km) southeast of modern Xanthi.[2][3]\n\nReferences\nCoordinates: 41\u00b003\u203227\u2033N 25\u00b000\u203249\u2033E\ufeff / \ufeff41.057585\u00b0N 25.013705\u00b0E\ufeff / 41.057585; 25.013705\n\n",
+    "statistic": {
+        "total_citations_in_HTML": 4,
+        "total_citations_in_dump": 1,
+        "total_citations_in_dump_per_type": {
+            "book": 1,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        },
+        "citations_matched": 1,
+        "citations_matched_per_type": {
+            "book": 1,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        }
+    }
+}

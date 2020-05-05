@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Codeball", "content": "Codeball\nCodeball is an individual sport combining the gameplay of golf and soccer.\n\nRules\nCodeball is played on a fairway consisting of usually 14 bowls, similar to the holes in golf. A six-inch rubber ball is kicked from a marked kickoff area, and once the ball comes to rest, it is kicked again. The process is repeated until the ball is sunk into the bowl. The goal of codeball is to reach the bowl using as few kicks as possible.\n\nHistory\nCodeball was invented in 1929 by a Chicago doctor named William Edward Code, who developed the game for his friend. At the time, Code's friend sought an inexpensive outdoor game suited to large playgrounds.{\"citetype\": \"book\", \"year\": \"2012\", \"title\": \"Urban Physical Education: Instructional Practices and Cultural Activities\", \"url\": \"https://books.google.com/books?id=lD5gUt3d7zoC&pg=PA122\", \"pages\": \"122\", \"author\": \"Clements, Rhonda L.\"} Almost forgotten today, the game reached its peak of popularity in the 1930s. By summer 1932, at least 12 codeball courses were in existence, chiefly in the upper Midwest.[2]\nIt was officially sanctioned by the Amateur Athletic Union in 1929.[2]\nThe first codeball championship was won by Bert Gates, with a score of 69 for 15 bowls, at Forest Park, St. Louis, in 1935.{\"citetype\": \"web\", \"url\": \"http://content.time.com/time/magazine/article/0,9171,770064,00.html\", \"title\": \"Sport: Who Won, Jul. 1, 1935\", \"date\": \"1 July 1935\", \"work\": \"Time\"}\n\nVariations\nCode later invented codeball-on the-court, a combination of handball and soccer. It is a two-person sport played with a six-inch ball on a playing court. The ball is kicked against a wall, and the opposing player must return the ball on the second bounce. The original sport is sometimes called Codeball-on-the-Green to distinguish it from the newer game.\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Codeball",
+    "content": "Codeball\nCodeball is an individual sport combining the gameplay of golf and soccer.\n\nRules\nCodeball is played on a fairway consisting of usually 14 bowls, similar to the holes in golf. A six-inch rubber ball is kicked from a marked kickoff area, and once the ball comes to rest, it is kicked again. The process is repeated until the ball is sunk into the bowl. The goal of codeball is to reach the bowl using as few kicks as possible.\n\nHistory\nCodeball was invented in 1929 by a Chicago doctor named William Edward Code, who developed the game for his friend. At the time, Code's friend sought an inexpensive outdoor game suited to large playgrounds.{\"citetype\": \"book\", \"year\": \"2012\", \"title\": \"Urban Physical Education: Instructional Practices and Cultural Activities\", \"url\": \"https://books.google.com/books?id=lD5gUt3d7zoC&pg=PA122\", \"pages\": \"122\", \"author\": \"Clements, Rhonda L.\"} Almost forgotten today, the game reached its peak of popularity in the 1930s. By summer 1932, at least 12 codeball courses were in existence, chiefly in the upper Midwest.[2]\nIt was officially sanctioned by the Amateur Athletic Union in 1929.[2]\nThe first codeball championship was won by Bert Gates, with a score of 69 for 15 bowls, at Forest Park, St. Louis, in 1935.{\"citetype\": \"web\", \"url\": \"http://content.time.com/time/magazine/article/0,9171,770064,00.html\", \"title\": \"Sport: Who Won, Jul. 1, 1935\", \"date\": \"1 July 1935\", \"work\": \"Time\"}\n\nVariations\nCode later invented codeball-on the-court, a combination of handball and soccer. It is a two-person sport played with a six-inch ball on a playing court. The ball is kicked against a wall, and the opposing player must return the ball on the second bounce. The original sport is sometimes called Codeball-on-the-Green to distinguish it from the newer game.\n",
+    "statistic": {
+        "total_citations_in_HTML": 4,
+        "total_citations_in_dump": 2,
+        "total_citations_in_dump_per_type": {
+            "book": 1,
+            "journal": 0,
+            "news": 0,
+            "web": 1
+        },
+        "citations_matched": 2,
+        "citations_matched_per_type": {
+            "book": 1,
+            "journal": 0,
+            "news": 0,
+            "web": 1
+        }
+    }
+}

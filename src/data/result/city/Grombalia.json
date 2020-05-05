@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Grombalia", "content": "Grombalia\nGrombalia is a Tunisian city located in the Nabeul Governorate.\nIts population was 24,336 (2014 Census), while the population of the municipality was 67,475. It is the birthplace of former president Moncef Marzouki.\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Grombalia",
+    "content": "Grombalia\nGrombalia is a Tunisian city located in the Nabeul Governorate.\nIts population was 24,336 (2014 Census), while the population of the municipality was 67,475. It is the birthplace of former president Moncef Marzouki.\n",
+    "statistic": {
+        "total_citations_in_HTML": 0,
+        "total_citations_in_dump": 0,
+        "total_citations_in_dump_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        },
+        "citations_matched": 0,
+        "citations_matched_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        }
+    }
+}

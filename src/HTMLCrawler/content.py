@@ -1,8 +1,11 @@
 import json
 import sys
 
+import statistic as statistic
+
 sys.path.append('../')
 import DumpCrawler.configuration as configuration
+from model.HTMLResult import HTMLResult
 
 
 def extract_text(soup, name):
@@ -35,9 +38,10 @@ def replace_citations_in_content(page, name):
                 max_count = 0
                 actual_count = 0
                 html_citation = None
+                page.statistic.total_citations_in_dump += 1
+                statistic.add_dump_citation_per_type(page.statistic.total_citations_in_dump_per_type, dump_citation)
 
                 for citation in page.citations:
-
                     for attr, value in dump_citation.items():
                         if is_text_in_citation(citation, value):
                             actual_count += 1
@@ -49,6 +53,8 @@ def replace_citations_in_content(page, name):
                     actual_count = 0
 
                 if html_citation:
+                    page.statistic.citations_matched += 1
+                    statistic.add_dump_citation_per_type(page.statistic.citations_matched_per_type, dump_citation)
                     page.content = get_html_content_with_dump_citation(page.content, dump_citation,
                                                                        html_citation.citation.text)
     except Exception as e:
@@ -64,11 +70,8 @@ def get_html_content_with_dump_citation(html_content, dump_citation, citation):
     return html_content.replace(citation, text)
 
 
-def save_json(type, name, url, content):
-    result = {
-        "url": url,
-        "content": content
-    }
+def save_json(type, name, url, page):
+    result = HTMLResult(url=url, content=page.content, statistic=page.statistic)
     path = "../data/result/" + type.lower() + "/" + name + ".json"
     with open(path, 'w') as outfile:
-        json.dump(result, outfile)
+        json.dump(result, outfile, default=lambda o: o.__dict__, indent=4)

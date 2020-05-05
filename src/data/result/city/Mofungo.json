@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Mofungo", "content": "Mofungo\nMofungo was a New York City based band that was active from 1979-1993.{\"citetype\": \"web\", \"url\": \"http://ny.eater.com/archives/2013/06/sietsemas_fond_farewell_to_nightlife_legend_maxwells.php\", \"title\": \"Sietsema's Fond Farewell to Nightlife Legend Maxwell's - Sietsema - Eater NY\", \"date\": \"2013-06-06\", \"publisher\": \"Ny.eater.com\"} It featured guitarist Elliott Sharp and future food blogger Robert Sietsema. Robert Christgau described their last album as \"basically unlistenable unless you grant it your full attention\".{\"citetype\": \"web\", \"url\": \"http://www.robertchristgau.com/get_artist.php?name=Mofungo\", \"title\": \"CG: Mofungo\", \"publisher\": \"Robert Christgau\"} The New York Times described them as \"not your typical rock and roll band\".{\"citetype\": \"web\", \"url\": \"https://www.nytimes.com/1987/04/03/arts/pop-jazz-raucous-rockers-add-a-message.html\", \"title\": \"Pop/Jazz; Raucous Rockers Add A Message - New York Times\", \"date\": \"1987-04-03\", \"publisher\": \"Nytimes.com\", \"author\": \"ROBERT PALMERPublished: April 03, 1987\"}\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Mofungo",
+    "content": "Mofungo\nMofungo was a New York City based band that was active from 1979-1993.{\"citetype\": \"web\", \"url\": \"http://ny.eater.com/archives/2013/06/sietsemas_fond_farewell_to_nightlife_legend_maxwells.php\", \"title\": \"Sietsema's Fond Farewell to Nightlife Legend Maxwell's - Sietsema - Eater NY\", \"date\": \"2013-06-06\", \"publisher\": \"Ny.eater.com\"} It featured guitarist Elliott Sharp and future food blogger Robert Sietsema. Robert Christgau described their last album as \"basically unlistenable unless you grant it your full attention\".{\"citetype\": \"web\", \"url\": \"http://www.robertchristgau.com/get_artist.php?name=Mofungo\", \"title\": \"CG: Mofungo\", \"publisher\": \"Robert Christgau\"} The New York Times described them as \"not your typical rock and roll band\".{\"citetype\": \"web\", \"url\": \"https://www.nytimes.com/1987/04/03/arts/pop-jazz-raucous-rockers-add-a-message.html\", \"title\": \"Pop/Jazz; Raucous Rockers Add A Message - New York Times\", \"date\": \"1987-04-03\", \"publisher\": \"Nytimes.com\", \"author\": \"ROBERT PALMERPublished: April 03, 1987\"}\n",
+    "statistic": {
+        "total_citations_in_HTML": 3,
+        "total_citations_in_dump": 3,
+        "total_citations_in_dump_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 3
+        },
+        "citations_matched": 3,
+        "citations_matched_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 3
+        }
+    }
+}

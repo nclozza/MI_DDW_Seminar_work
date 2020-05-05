@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Diving", "content": "Diving\nDiving usually refers to:\nDiving or Dive may also refer to:\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Diving",
+    "content": "Diving\nDiving usually refers to:\nDiving or Dive may also refer to:\n",
+    "statistic": {
+        "total_citations_in_HTML": 0,
+        "total_citations_in_dump": 0,
+        "total_citations_in_dump_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        },
+        "citations_matched": 0,
+        "citations_matched_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        }
+    }
+}

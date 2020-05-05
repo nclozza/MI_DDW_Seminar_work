@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Mascota", "content": "Mascota\nMascota  is a town and municipality in Jalisco, in central-western Mexico. The municipality covers an area of 1,591.63\u00a0km\u00b2. The municipality has smaller villages such as Tecuani and La Plata, both a couple miles away. Mascota is surrounded by roads and pine-covered mountains and is a usual stop on the road to Talpa De Allende or Puerto Vallarta.\nAs of 2005, the municipality had a total population of 14,045.{\"citetype\": \"web\", \"url\": \"http://www.e-local.gob.mx/work/templates/enciclo/jalisco/mpios/14058a.htm\", \"title\": \"Mascota\", \"publisher\": \"[[Instituto Nacional para el Federalismo y el Desarrollo Municipal]]\", \"work\": \"Enciclopedia de los Municipios de M\\u00e9xico\"}\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Mascota",
+    "content": "Mascota\nMascota  is a town and municipality in Jalisco, in central-western Mexico. The municipality covers an area of 1,591.63\u00a0km\u00b2. The municipality has smaller villages such as Tecuani and La Plata, both a couple miles away. Mascota is surrounded by roads and pine-covered mountains and is a usual stop on the road to Talpa De Allende or Puerto Vallarta.\nAs of 2005, the municipality had a total population of 14,045.{\"citetype\": \"web\", \"url\": \"http://www.e-local.gob.mx/work/templates/enciclo/jalisco/mpios/14058a.htm\", \"title\": \"Mascota\", \"publisher\": \"[[Instituto Nacional para el Federalismo y el Desarrollo Municipal]]\", \"work\": \"Enciclopedia de los Municipios de M\\u00e9xico\"}\n",
+    "statistic": {
+        "total_citations_in_HTML": 2,
+        "total_citations_in_dump": 2,
+        "total_citations_in_dump_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 2
+        },
+        "citations_matched": 2,
+        "citations_matched_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 2
+        }
+    }
+}

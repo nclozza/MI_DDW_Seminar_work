@@ -37,7 +37,7 @@ def get_urls(value):
     elif value == configuration.SPORT:
         path = "../data/dbpedia/sport.json"
     elif value == configuration.MUSICAL_ARTIST:
-        path = "../data/dbpedia/musicalArtist.json"
+        path = "../data/dbpedia/musical_artist.json"
 
     if path != "":
         with open(path) as f:
@@ -52,9 +52,7 @@ def get_urls(value):
 def get_available_urls(value):
     path = ""
 
-    if value == configuration.DEBUG:
-        path = configuration.AVAILABLE_URLS_DEBUG
-    elif value == configuration.CITY:
+    if value == configuration.CITY:
         path = configuration.AVAILABLE_URLS_CITY
     elif value == configuration.SPORT:
         path = configuration.AVAILABLE_URLS_SPORT

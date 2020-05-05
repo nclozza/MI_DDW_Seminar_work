@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Lushui", "content": "Lushui\nLushui (simplified Chinese: \u6cf8\u6c34; traditional Chinese: \u7018\u6c34; pinyin: L\u00fashu\u01d0) is a county-level city in the south of Nujiang Prefecture, located in the west of Yunnan Province, China.\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Lushui",
+    "content": "Lushui\nLushui (simplified Chinese: \u6cf8\u6c34; traditional Chinese: \u7018\u6c34; pinyin: L\u00fashu\u01d0) is a county-level city in the south of Nujiang Prefecture, located in the west of Yunnan Province, China.\n",
+    "statistic": {
+        "total_citations_in_HTML": 0,
+        "total_citations_in_dump": 0,
+        "total_citations_in_dump_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        },
+        "citations_matched": 0,
+        "citations_matched_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        }
+    }
+}

@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Fischamend", "content": "Fischamend\nFischamend is a city in the district of Bruck an der Leitha in the Austrian state of Lower Austria. It belonged to Wien-Umgebung District which was dissolved in 2016.[3][4]\n\nGeography\nFischamend lies in the \"Industrial Quarter\" in Lower Austria.\n\nReferences\n\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Fischamend",
+    "content": "Fischamend\nFischamend is a city in the district of Bruck an der Leitha in the Austrian state of Lower Austria. It belonged to Wien-Umgebung District which was dissolved in 2016.[3][4]\n\nGeography\nFischamend lies in the \"Industrial Quarter\" in Lower Austria.\n\nReferences\n\n",
+    "statistic": {
+        "total_citations_in_HTML": 4,
+        "total_citations_in_dump": 0,
+        "total_citations_in_dump_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        },
+        "citations_matched": 0,
+        "citations_matched_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        }
+    }
+}

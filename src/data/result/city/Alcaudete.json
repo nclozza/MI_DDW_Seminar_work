@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Alcaudete", "content": "Alcaudete\nAlcaudete is a city located in the province of Ja\u00e9n, Andalusia, Spain. As of 2018, it has a population of 10,558. It is home to a 12th-14th century Moorish castle, located on the top of the hill commanding the town. Other sights include the Iglesia de Santa Mar\u00eda la Mayor (15th century).\nThe city was established on the site of the Roman settlement of Sosontigi, which was part of the Conventus Astigitanus.{\"citetype\": \"book\", \"last1\": \"Ruiz Acevedo\", \"first1\": \"Juan\", \"last2\": \"de Paz S\\u00e1nchez\", \"first2\": \"Manuel\", \"date\": \"2018\", \"editor1last\": \"Campos Carrasco\", \"editor1first\": \"Juan M.\", \"title\": \"Ciudades romanas de la provincia Baetica Vol. 1\", \"url\": \"https://books.google.co.uk/books?id=GbKaDwAAQBAJ&pg=PA82\", \"language\": \"es\", \"location\": \"Huelva, Spain\", \"publisher\": \"Servicio de Publicaciones de la Universidad de Huelva\", \"page\": \"82\", \"isbn\": \"9788417776039\", \"editor2last\": \"Bermejo Mel\\u00e9ndez\", \"editor2first\": \"Javier\"} The town of Fravasoson was 3 to 5 miles away.{\"citetype\": \"book\", \"last1\": \"Masdeu\", \"first1\": \"Juan Francisco\", \"date\": \"1789\", \"title\": \"Historia critica de Espa\\u00f1a, y de la cultura espa\\u00f1ola: Espa\\u00f1a romana. 1787-1807\", \"url\": \"https://books.google.co.uk/books?id=6hBXAAAAMAAJ&pg=PA345\", \"publisher\": \"A. de Sancha\", \"page\": \"345\"}\n\nReferences\n\n\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Alcaudete",
+    "content": "Alcaudete\nAlcaudete is a city located in the province of Ja\u00e9n, Andalusia, Spain. As of 2018, it has a population of 10,558. It is home to a 12th-14th century Moorish castle, located on the top of the hill commanding the town. Other sights include the Iglesia de Santa Mar\u00eda la Mayor (15th century).\nThe city was established on the site of the Roman settlement of Sosontigi, which was part of the Conventus Astigitanus.{\"citetype\": \"book\", \"last1\": \"Ruiz Acevedo\", \"first1\": \"Juan\", \"last2\": \"de Paz S\\u00e1nchez\", \"first2\": \"Manuel\", \"date\": \"2018\", \"editor1last\": \"Campos Carrasco\", \"editor1first\": \"Juan M.\", \"title\": \"Ciudades romanas de la provincia Baetica Vol. 1\", \"url\": \"https://books.google.co.uk/books?id=GbKaDwAAQBAJ&pg=PA82\", \"language\": \"es\", \"location\": \"Huelva, Spain\", \"publisher\": \"Servicio de Publicaciones de la Universidad de Huelva\", \"page\": \"82\", \"isbn\": \"9788417776039\", \"editor2last\": \"Bermejo Mel\\u00e9ndez\", \"editor2first\": \"Javier\"} The town of Fravasoson was 3 to 5 miles away.{\"citetype\": \"book\", \"last1\": \"Masdeu\", \"first1\": \"Juan Francisco\", \"date\": \"1789\", \"title\": \"Historia critica de Espa\\u00f1a, y de la cultura espa\\u00f1ola: Espa\\u00f1a romana. 1787-1807\", \"url\": \"https://books.google.co.uk/books?id=6hBXAAAAMAAJ&pg=PA345\", \"publisher\": \"A. de Sancha\", \"page\": \"345\"}\n\nReferences\n\n\n",
+    "statistic": {
+        "total_citations_in_HTML": 3,
+        "total_citations_in_dump": 2,
+        "total_citations_in_dump_per_type": {
+            "book": 2,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        },
+        "citations_matched": 2,
+        "citations_matched_per_type": {
+            "book": 2,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        }
+    }
+}

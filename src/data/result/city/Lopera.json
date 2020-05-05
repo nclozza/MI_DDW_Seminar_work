@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Lopera", "content": "Lopera\nLopera is a city located in the province of Ja\u00e9n, Spain. According to the 2014 census,[2] the municipality has a population of 3,837 inhabitants.\n\nExternal links\n\n\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Lopera",
+    "content": "Lopera\nLopera is a city located in the province of Ja\u00e9n, Spain. According to the 2014 census,[2] the municipality has a population of 3,837 inhabitants.\n\nExternal links\n\n\n",
+    "statistic": {
+        "total_citations_in_HTML": 2,
+        "total_citations_in_dump": 0,
+        "total_citations_in_dump_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        },
+        "citations_matched": 0,
+        "citations_matched_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 0
+        }
+    }
+}

@@ -1,1 +1,21 @@
-{"url": "http://en.wikipedia.org/wiki/Sotunki", "content": "Sotunki\nSotunki (Swedish: Sottungsby) is a district of the city of Vantaa, Finland. The district has an area of 13.7 square kilometers and a population of about 641 (as of 2014), making it one of the least densely populated and most rural districts in the city. It is served by its own high school. The valley and farmland in Sotunki are the district's main attractions. The area has been inhabited since the palaeolithic, with three different stone age camp sites identified.\n\nReferences\n\n"}
+{
+    "url": "http://en.wikipedia.org/wiki/Sotunki",
+    "content": "Sotunki\nSotunki (Swedish: Sottungsby) is a district of the city of Vantaa, Finland. The district has an area of 13.7 square kilometers and a population of about 641 (as of 2014), making it one of the least densely populated and most rural districts in the city. It is served by its own high school. The valley and farmland in Sotunki are the district's main attractions. The area has been inhabited since the palaeolithic, with three different stone age camp sites identified.\n\nReferences\n\n",
+    "statistic": {
+        "total_citations_in_HTML": 1,
+        "total_citations_in_dump": 1,
+        "total_citations_in_dump_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 1
+        },
+        "citations_matched": 1,
+        "citations_matched_per_type": {
+            "book": 0,
+            "journal": 0,
+            "news": 0,
+            "web": 1
+        }
+    }
+}
