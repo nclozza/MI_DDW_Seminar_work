@@ -1,3 +1,4 @@
+# Crawls and returns all the references founded
 def find_all(soup):
     try:
         references = soup.find_all("ol", {"class": "references"})
@@ -14,6 +15,7 @@ def find_all(soup):
         print(e)
 
 
+# Returns the text of a specific reference
 def get_text(reference):
     try:
         span = reference.find("span", {"class": "reference-text"})
@@ -33,9 +35,3 @@ def get_text(reference):
         return text
     except Exception as e:
         print(e)
-
-
-def print_all(references):
-    print("CANTIDAD DE REFERENCIAS: " + str(len(references)))
-    for reference in references:
-        print(reference)

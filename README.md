@@ -59,7 +59,7 @@ The outputs are stored in `src/data/result`
 
 ```
 > cd src/HTMLCrawler
-> python3 index.py
+> python3 HTML_crawler.py
 ```
 
 ---
@@ -90,5 +90,5 @@ The outputs are stored in `src/data/result`
 
 ```
 > cd src/HTMLCrawler
-> python index.py
+> python HTML_crawler.py
 ```
