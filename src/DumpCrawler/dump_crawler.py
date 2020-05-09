@@ -9,6 +9,11 @@ from model.DumpCiteBook import DumpCiteBook
 from model.DumpCiteJournal import DumpCiteJournal
 from model.DumpCiteNews import DumpCiteNews
 from model.DumpCiteWeb import DumpCiteWeb
+from model.DumpCiteConference import DumpCiteConference
+from model.DumpCiteCourt import DumpCiteCourt
+from model.DumpCiteEncyclopedia import DumpCiteEncyclopedia
+from model.DumpCiteEpisode import DumpCiteEpisode
+from model.DumpCiteMailingList import DumpCiteMailingList
 
 from general_configuration import IGNORE_EXISTING_FILES
 
@@ -40,6 +45,7 @@ def custom_split(string, open_pair=("{", "(", "["), close_pair=("}", ")", "]"), 
             ret.append(string[last_pipe_index:character_count - 1].strip())
             last_pipe_index = character_count
 
+    ret.append(string[last_pipe_index:].strip())
     return ret
 
 
@@ -62,6 +68,21 @@ def create_cite_type_object(cite_type, string):
 
     elif cite_type == "journal":
         ret = DumpCiteJournal()
+
+    elif cite_type == "conference":
+        ret = DumpCiteConference()
+
+    elif cite_type == "court":
+        ret = DumpCiteCourt()
+
+    elif cite_type == "encyclopedia":
+        ret = DumpCiteEncyclopedia()
+
+    elif cite_type == "episode":
+        ret = DumpCiteEpisode()
+
+    elif cite_type == "mailing list":
+        ret = DumpCiteMailingList()
 
     else:
         # DEBUG
@@ -112,7 +133,7 @@ try:
         files = [x for x in files_to_process if x not in files_processed]
         files = {x + XML_EXTENSION for x in files}
 
-    # files = ["Utamaro.xml"]
+    files = ["Archery.xml"]
 
     for file_name in files:
         print("Processing: " + file_name)
