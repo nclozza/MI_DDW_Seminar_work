@@ -26,6 +26,8 @@ def save_file_from_array(filename, array):
     save_file(filename, json_urls)
 
 
+# Saves XML content in a specific file with a given title
+# Always in the XML folder
 def save_content_in_file(title, page_string):
     file_path = XML_FOLDER_PATH + title + XML_EXTENSION
 
@@ -43,60 +45,67 @@ def save_content_in_file(title, page_string):
     return True
 
 
-titles_required_city = [get_name_from_url(string) for string in get_urls(CITY)]
-titles_required_sport = [get_name_from_url(string) for string in get_urls(SPORT)]
-titles_required_musical_artist = [get_name_from_url(string) for string in get_urls(MUSICAL_ARTIST)]
+# Gets the name of the articles to process (from the URLs)
+# Process the whole XML dump and splits it into smaller XML files, each one with only one page
+# Saves each XML file
+def main():
+    titles_required_city = [get_name_from_url(string) for string in get_urls(CITY)]
+    titles_required_sport = [get_name_from_url(string) for string in get_urls(SPORT)]
+    titles_required_musical_artist = [get_name_from_url(string) for string in get_urls(MUSICAL_ARTIST)]
 
-city_filenames_array = []
-sport_filenames_array = []
-musical_artist_filenames_array = []
-with open("../" + XML_DUMP_PATH) as infile:
-    page_string = ""
-    in_page = False
-    for line in infile:
-        if not (titles_required_city and titles_required_sport and titles_required_musical_artist):
-            print("All titles required already founded")
-            break
+    city_filenames_array = []
+    sport_filenames_array = []
+    musical_artist_filenames_array = []
+    with open("../" + XML_DUMP_PATH) as infile:
+        page_string = ""
+        in_page = False
+        for line in infile:
+            if not (titles_required_city and titles_required_sport and titles_required_musical_artist):
+                print("All titles required already founded")
+                break
 
-        if PAGE_START_TAG in line:
-            in_page = True
+            if PAGE_START_TAG in line:
+                in_page = True
 
-        if in_page:
-            page_string += line
+            if in_page:
+                page_string += line
 
-        if PAGE_END_TAG in line:
-            in_page = False
+            if PAGE_END_TAG in line:
+                in_page = False
 
-        if not in_page and len(page_string) > 0:
-            if REDIRECT_START_TAG not in page_string:
-                title = re.search(TITLE_START_TAG + '(.*)' +
-                                  TITLE_END_TAG, page_string)
+            if not in_page and len(page_string) > 0:
+                if REDIRECT_START_TAG not in page_string:
+                    title = re.search(TITLE_START_TAG + '(.*)' +
+                                      TITLE_END_TAG, page_string)
 
-                title = title.group(1).replace("/", "_")
+                    title = title.group(1).replace("/", "_")
 
-                if RUNNING_ON_WINDOWS and not windows_name_accepted(title):
-                    continue
-
-                if title in titles_required_city:
-                    titles_required_city.remove(title)
-                    city_filenames_array.append(title)
-                    if not save_content_in_file(title, page_string):
+                    if RUNNING_ON_WINDOWS and not windows_name_accepted(title):
                         continue
 
-                elif title in titles_required_sport:
-                    titles_required_sport.remove(title)
-                    sport_filenames_array.append(title)
-                    if not save_content_in_file(title, page_string):
-                        continue
+                    if title in titles_required_city:
+                        titles_required_city.remove(title)
+                        city_filenames_array.append(title)
+                        if not save_content_in_file(title, page_string):
+                            continue
 
-                elif title in titles_required_musical_artist:
-                    titles_required_musical_artist.remove(title)
-                    musical_artist_filenames_array.append(title)
-                    if not save_content_in_file(title, page_string):
-                        continue
+                    elif title in titles_required_sport:
+                        titles_required_sport.remove(title)
+                        sport_filenames_array.append(title)
+                        if not save_content_in_file(title, page_string):
+                            continue
 
-            page_string = ""
+                    elif title in titles_required_musical_artist:
+                        titles_required_musical_artist.remove(title)
+                        musical_artist_filenames_array.append(title)
+                        if not save_content_in_file(title, page_string):
+                            continue
 
-save_file_from_array(AVAILABLE_URLS_CITY, city_filenames_array)
-save_file_from_array(AVAILABLE_URLS_SPORT, sport_filenames_array)
-save_file_from_array(AVAILABLE_URLS_MUSICAL_ARTIST, musical_artist_filenames_array)
+                page_string = ""
+
+    save_file_from_array(AVAILABLE_URLS_CITY, city_filenames_array)
+    save_file_from_array(AVAILABLE_URLS_SPORT, sport_filenames_array)
+    save_file_from_array(AVAILABLE_URLS_MUSICAL_ARTIST, musical_artist_filenames_array)
+
+
+main()

@@ -21,12 +21,15 @@ CITE_START = "{{cite "
 CITE_END = "}}"
 
 
+# Returns the cite type
 def get_cite_type(string):
     for cite_type in CITE_TYPES:
         if re.match("^" + cite_type + "(.*)", string, re.IGNORECASE):
             return cite_type
 
 
+# Splits string given a separator and open/close pairs
+# It doesn't split inside a the open/close pairs
 def custom_split(string, open_pair=("{", "(", "["), close_pair=("}", ")", "]"), separator="|"):
     ret = []
     brackets_count = 0
@@ -49,11 +52,14 @@ def custom_split(string, open_pair=("{", "(", "["), close_pair=("}", ")", "]"), 
     return ret
 
 
+# Returns an HTML formatted string and removes comments
+# e.g. from &gt; to >
 def convert_to_regular_HTML_and_delete_comments(string):
     string = su.unescape(string)
     return re.sub("(<!--.*?-->)", "", string, flags=re.DOTALL)
 
 
+# Creates, fills and returns a dump cite object according to the cite_type
 def create_cite_type_object(cite_type, string):
     string = convert_to_regular_HTML_and_delete_comments(string)
     ret = None
@@ -104,6 +110,7 @@ def create_cite_type_object(cite_type, string):
     return ret
 
 
+# Removes the characters after the end of a given cite
 def remove_string_leftovers(string):
     quantity = 0
     for i in range(0, len(string) - 1):
@@ -119,43 +126,47 @@ def remove_string_leftovers(string):
     return None
 
 
-try:
+# Gets all XML files and generate the according JSONLs for each one
+# Each line of the JSONLs are cites found in the XML
+def main():
+    try:
 
-    files_to_process = get_all_files_from_path(XML_FOLDER_PATH)
-    files = files_to_process
+        files_to_process = get_all_files_from_path(XML_FOLDER_PATH)
+        files = files_to_process
 
-    if IGNORE_EXISTING_FILES:
-        files_to_process = {remove_file_extension_from_name(x) for x in files_to_process}
+        if IGNORE_EXISTING_FILES:
+            files_to_process = {remove_file_extension_from_name(x) for x in files_to_process}
 
-        files_processed = get_all_files_from_path(JSONL_FOLDER_PATH)
-        files_processed = {remove_file_extension_from_name(x) for x in files_processed}
+            files_processed = get_all_files_from_path(JSONL_FOLDER_PATH)
+            files_processed = {remove_file_extension_from_name(x) for x in files_processed}
 
-        files = [x for x in files_to_process if x not in files_processed]
-        files = {x + XML_EXTENSION for x in files}
+            files = [x for x in files_to_process if x not in files_processed]
+            files = {x + XML_EXTENSION for x in files}
 
-    files = ["Archery.xml"]
+        for file_name in files:
+            print("Processing: " + file_name)
+            file = open(XML_FOLDER_PATH + file_name, "r")
+            file_string = file.read()
+            references = re.split(CITE_START, file_string, flags=re.IGNORECASE)
 
-    for file_name in files:
-        print("Processing: " + file_name)
-        file = open(XML_FOLDER_PATH + file_name, "r")
-        file_string = file.read()
-        references = re.split(CITE_START, file_string, flags=re.IGNORECASE)
+            # The first element contains the text before the first appearance of CITE_START
+            del references[0]
 
-        # The first element contains the text before the first appearance of CITE_START
-        del references[0]
+            jsonl = ""
+            for line in references:
+                string = remove_string_leftovers(line)
 
-        jsonl = ""
-        for line in references:
-            string = remove_string_leftovers(line)
+                if string:
+                    cite_type = get_cite_type(string)
+                    cite_type_object = create_cite_type_object(cite_type, string)
+                    if cite_type_object:
+                        jsonl += cite_type_object.to_json()
+                        jsonl += "\n"
 
-            if string:
-                cite_type = get_cite_type(string)
-                cite_type_object = create_cite_type_object(cite_type, string)
-                if cite_type_object:
-                    jsonl += cite_type_object.to_json()
-                    jsonl += "\n"
+            save_file(JSONL_FOLDER_PATH + remove_file_extension_from_name(file_name) + JSONL_EXTENSION, jsonl)
 
-        save_file(JSONL_FOLDER_PATH + remove_file_extension_from_name(file_name) + JSONL_EXTENSION, jsonl)
+    except IOError as identifier:
+        print(identifier)
 
-except IOError as identifier:
-    print(identifier)
+
+main()
