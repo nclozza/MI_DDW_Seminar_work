@@ -6,6 +6,7 @@ sys.path.append('../')
 from model.HTMLCitation import HTMLCitation
 
 
+# Crawls and returns all the references founded
 def find_all(soup, references):
     try:
         citations = soup.find_all("sup", {"class": "reference"})
@@ -24,6 +25,7 @@ def find_all(soup, references):
         print(e)
 
 
+# Finds and returns a reference of a specific citation
 def find_reference_by_citation(citation, references):
     try:
         for ref in references:
@@ -37,6 +39,7 @@ def find_reference_by_citation(citation, references):
         print(e)
 
 
+# Returns the href of a citation
 def get_href(citation):
     try:
         href = citation.find("a", href=True)
@@ -46,9 +49,3 @@ def get_href(citation):
             return None
     except Exception as e:
         print(e)
-
-
-def print_all(citations):
-    print("CANTIDAD DE CITACIONES: " + str(len(citations)))
-    for citation in citations:
-        print(citation)

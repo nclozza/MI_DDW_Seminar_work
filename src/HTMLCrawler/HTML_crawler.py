@@ -16,6 +16,8 @@ from common.object import Object
 from model.HTMLPage import HTMLPage
 
 
+# Main engine of the HTML crawler
+# Gets all the availables URLs and crawls the data
 def main(craw_delay, headers):
     pages = Object()
 

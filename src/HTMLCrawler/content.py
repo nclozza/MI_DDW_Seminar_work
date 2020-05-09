@@ -8,6 +8,7 @@ import DumpCrawler.configuration as configuration
 from model.HTMLResult import HTMLResult
 
 
+# Crawls and returns all the content text of the page
 def extract_text(soup, name):
     try:
         text_content = soup.find("div", {"id": "mw-content-text"})
@@ -28,6 +29,9 @@ def extract_text(soup, name):
         print(e)
 
 
+# Loops all the dumps citations and try to found a match between the html citation and the dump citation
+# If the citation is matched, it is replaced in the content of the page
+# Collects data to add in the statistics
 def replace_citations_in_content(page, name):
     try:
         path = configuration.JSONL_FOLDER_PATH + name + configuration.JSONL_EXTENSION
@@ -61,15 +65,18 @@ def replace_citations_in_content(page, name):
         print(e)
 
 
+# Checks if a text is found in the citation
 def is_text_in_citation(citation, text):
     return text in citation.text
 
 
+# Replaces the citation matched in the content of the page
 def get_html_content_with_dump_citation(html_content, dump_citation, citation):
     text = json.dumps(dump_citation)
     return html_content.replace(citation, text)
 
 
+# Saves a JSON file with the results of the page
 def save_json(type, name, url, page):
     result = HTMLResult(url=url, content=page.content, statistic=page.statistic)
     path = "../data/result/" + type.lower() + "/" + name + ".json"
