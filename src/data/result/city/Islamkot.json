@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Islamkot",
-    "content": "Islamkot\nIslamkot (Urdu: \u0627\u0650\u0633\u0644\u0627\u0645 \u0643\u0648\u0679\u200e), (Sindhi: \u0627\u0633\u0644\u0627\u0645 \u06aa\u0648\u067d\u200e) is a taluka in the Tharparkar District in Sindh, Pakistan. Hundreds of neem trees seen on Islamkot-Mithi, Islamkot-Chachro and Islamkot-Nagarparkar roads were planted during chairmanship of Nihalchand Pabani and under his care. For the same reason this region is also known as the Neem tree region.{\"citetype\": \"web\", \"url\": \"http://santnenuram.org/Aashram/AboutSant/SethNihalChand.html\", \"title\": \"Biography of Seth Nihalchand\"} The Hindu saint \"Shri Sant Nenuram\" was born here and Sant Nenuram Ashram located in this region was established by Nihalchand Pabani with support of local people.{\"citetype\": \"web\", \"url\": \"http://santnenuram.org/Aashram/AboutSant/SethNihalChand.html\", \"title\": \"Biography of Seth Nihalchand\"} Each day twice free meal is served throughout the year in Sant Nenuram Ashram in form of \"Bhandhara\" which is available for everyone.{\"citetype\": \"news\", \"date\": \"April 26, 2018\", \"title\": \"Nenu Ram Ashram: A place of refuge for everyone\", \"url\": \"http://www.pakvoices.pk/nenu-ram-ashram-a-place-of-refuge-for-everyone/\", \"work\": \"Pak Voices\", \"last\": \"Akash Hamirani\", \"first\": \"Bashir Ahmad\"} A huge number of people from different caste (Suthar, Lohana, Mukhi, Maharaj, Maheshwari, Soni, Meghwar, Khaskheli, Bajeer, Kunbhar, Lohaar etc.), creed, race or religion avail this meal on daily basis and during annual three-day festival of Sant thousands of devotees attend and celebrate it, including both Hindus and Muslims.{\"citetype\": \"news\", \"date\": \"2018-10-30\", \"title\": \"Sindh festival promotes religious harmony\", \"url\": \"http://pakistan.asia-news.com/en_GB/articles/cnmi_pf/features/2018/10/30/feature-02\", \"work\": \"Pakistan Forward\", \"last\": \"Zia Ur Rehman\"} There are 10 primary boys school and a higher secondary school, and also three girls primary school and a girls high school. The city is well connected with the other large cities like Karachi and Hyderabad. The name of the city translates as \"Islam Fort\".\nCivil Aviation Authority of Pakistan is building the Islamkot International Airport here.[4]\n\n\nExternal links\nCoordinates: 28\u00b030\u2032N 70\u00b006\u2032E\ufeff / \ufeff28.500\u00b0N 70.100\u00b0E\ufeff / 28.500; 70.100\n",
+    "content": "Islamkot\nIslamkot (Urdu: \u0627\u0650\u0633\u0644\u0627\u0645 \u0643\u0648\u0679\u200e), (Sindhi: \u0627\u0633\u0644\u0627\u0645 \u06aa\u0648\u067d\u200e) is a taluka in the Tharparkar District in Sindh, Pakistan. Hundreds of neem trees seen on Islamkot-Mithi, Islamkot-Chachro and Islamkot-Nagarparkar roads were planted during chairmanship of Nihalchand Pabani and under his care. For the same reason this region is also known as the Neem tree region.{\"citetype\": \"web\", \"url\": \"http://santnenuram.org/Aashram/AboutSant/SethNihalChand.html\", \"title\": \"Biography of Seth Nihalchand\", \"website\": \"Sant Nenuram Ashram\"} The Hindu saint \"Shri Sant Nenuram\" was born here and Sant Nenuram Ashram located in this region was established by Nihalchand Pabani with support of local people.{\"citetype\": \"web\", \"url\": \"http://santnenuram.org/Aashram/AboutSant/SethNihalChand.html\", \"title\": \"Biography of Seth Nihalchand\", \"website\": \"Sant Nenuram Ashram\"} Each day twice free meal is served throughout the year in Sant Nenuram Ashram in form of \"Bhandhara\" which is available for everyone.{\"citetype\": \"news\", \"date\": \"April 26, 2018\", \"title\": \"Nenu Ram Ashram: A place of refuge for everyone\", \"url\": \"http://www.pakvoices.pk/nenu-ram-ashram-a-place-of-refuge-for-everyone/\", \"work\": \"Pak Voices\", \"last\": \"Akash Hamirani\", \"first\": \"Bashir Ahmad\"} A huge number of people from different caste (Suthar, Lohana, Mukhi, Maharaj, Maheshwari, Soni, Meghwar, Khaskheli, Bajeer, Kunbhar, Lohaar etc.), creed, race or religion avail this meal on daily basis and during annual three-day festival of Sant thousands of devotees attend and celebrate it, including both Hindus and Muslims.{\"citetype\": \"news\", \"date\": \"2018-10-30\", \"title\": \"Sindh festival promotes religious harmony\", \"url\": \"http://pakistan.asia-news.com/en_GB/articles/cnmi_pf/features/2018/10/30/feature-02\", \"work\": \"Pakistan Forward\", \"last\": \"Zia Ur Rehman\"} There are 10 primary boys school and a higher secondary school, and also three girls primary school and a girls high school. The city is well connected with the other large cities like Karachi and Hyderabad. The name of the city translates as \"Islam Fort\".\nCivil Aviation Authority of Pakistan is building the Islamkot International Airport here.[4]\n\n\nExternal links\nCoordinates: 28\u00b030\u2032N 70\u00b006\u2032E\ufeff / \ufeff28.500\u00b0N 70.100\u00b0E\ufeff / 28.500; 70.100\n",
     "statistic": {
         "total_citations_in_HTML": 5,
         "total_citations_in_dump": 3,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 2,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 3,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 2,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

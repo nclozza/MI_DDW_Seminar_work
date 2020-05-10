@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Amanpur",
-    "content": "Amanpur\n\nAmanpur is a town and a nagar panchayat in Kasganj district  in the state of Uttar Pradesh, India.\n\nDemographics\nAs of 2001[update] India census,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Amanpur had a population of 9117. Males constitute 52% of the population and females 48%. Amanpur has an average literacy rate of 49%, lower than the national average of 59.5%; with 61% of the males and 39% of females literate. 20% of the population is under 6 years of age. Now It belongs to newly created district Kasganj.\n\nEducation\nMakkhan Lal Inter College (MLIC) is also situated in the city,\nBaikunthi devi rashtriya shishu sadan Amanpur, komal prasad purv madhyamik vidhyalay, mira devi memorial inter college, nirmala devi higher secondary school,\nrajveer memorial mahavidhalya amanpur,\nkushma devi mahavidhalya amanpur\nAdarsh balmikinschool\nAbdul kalam,\nedited by.(kiit bhubaneswar)\n",
+    "content": "Amanpur\n\nAmanpur is a town and a nagar panchayat in Kasganj district  in the state of Uttar Pradesh, India.\n\nDemographics\nAs of 2001[update] India census,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)\", \"publisher\": \"Census Commission of India\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Amanpur had a population of 9117. Males constitute 52% of the population and females 48%. Amanpur has an average literacy rate of 49%, lower than the national average of 59.5%; with 61% of the males and 39% of females literate. 20% of the population is under 6 years of age. Now It belongs to newly created district Kasganj.\n\nEducation\nMakkhan Lal Inter College (MLIC) is also situated in the city,\nBaikunthi Devi Rashtriya Shishu Sadan Amanpur, Komal Prasad Purv Madhyamik Vidhyalay, Mira Devi Memorial Inter College, Nirmala Devi Higher Secondary School,\nRajveer Memorial Mahavidhalya Amanpur,\nKushma Devi Mahavidhalya Amanpur\n(written by DHEERAJ RATAN)\n",
     "statistic": {
         "total_citations_in_HTML": 1,
         "total_citations_in_dump": 1,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 1,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

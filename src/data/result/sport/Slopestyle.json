@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Slopestyle",
-    "content": "Slopestyle\nSlopestyle is a winter sport in which athletes ski or snowboard down a course including a variety of obstacles including rails, jumps and other terrain park features. Points are scored for amplitude, originality and quality of tricks. The discipline has its roots in action sports like skateboarding and BMX and has very successfully crossed over into the snow sports worlds of skiing and snowboarding.{\"citetype\": \"web\", \"url\": \"http://freestyleski.com//about/freestyle-101/disciplines/\", \"title\": \"Slopestyle\", \"publisher\": \"Canadian Freestyle Ski Association\"} Skiers use Twin-tip skis for their symmetry since they often go large portions of the course backward (referred to as \"switch\") and for their balanced weight so as to not destabilize spins. Slopestyle tricks fall mainly into four categories: spins, grinds, grabs and flips, and most tricks done in competition are a combination of these.\nSlopestyle is one of the freestyle disciplines, along with moguls, aerials, cross, big air and half-pipe.\n\nHistory\nSlopestyle became an Olympic event, in both skiing and snowboarding forms, at the 2014 Winter Games in Sochi, Russia.{\"citetype\": \"web\", \"url\": \"http://www.gamesbids.com/eng/other_news/1216135778.html\", \"title\": \"Slopestyle Approved For Sochi 2014\", \"publisher\": \"GamesBids.com\", \"accessdate\": \"2011-10-15\", \"urlstatus\": \"dead\", \"archiveurl\": \"https://web.archive.org/web/20110904041143/http://www.gamesbids.com/eng/other_news/1216135778.html\"} The very first Olympic champions in Slopestyle Skiing were American Joss Christensen for the men and Canadian Dara Howell for the women. The first Olympic champions for Snowboarding Slopestyle were both Americans, Sage Kotsenburg for the men and Jamie Anderson for the women.\n\nCompetition\nIn competition, athletes compete for points awarded by judges on a structured basis. The scoring criteria vary from one organization to another and from each event to the next, but in general athletes are judged on these criteria:{\"citetype\": \"web\", \"url\": \"http://freestyleski.com//about/freestyle-101/disciplines/\", \"title\": \"Slopestyle\", \"publisher\": \"Canadian Freestyle Ski Association\"}{\"citetype\": \"news\", \"title\": \"What Is Slopestyle? {{!}} Winter Olympic Guide For Pyeongchang 2018\", \"url\": \"https://mpora.com/snowboarding/slopestyle-event-guide#AgV12d5VLXqxDKMU.97\", \"work\": \"Mpora\", \"accessdate\": \"2018-04-23\"}\nA feature that is somewhat unique to slopestyle and similar events is that even though it's a judged sport, scores cannot be compared between events: \"A run that scores 65 at one event may score 75 at another event. The score is just a tool to organize the rankings and may vary based on the range and anchor score set for the day.\"[4]\n",
+    "content": "Slopestyle\nSlopestyle is a winter sport in which athletes ski or snowboard down a course including a variety of obstacles including rails, jumps and other terrain park features. Points are scored for amplitude, originality and quality of tricks. The discipline has its roots in action sports like skateboarding and BMX and has very successfully crossed over into the snow sports worlds of skiing and snowboarding.{\"citetype\": \"web\", \"url\": \"http://freestyleski.com//about/freestyle-101/disciplines/\", \"title\": \"Slopestyle\", \"publisher\": \"Canadian Freestyle Ski Association\", \"accessdate\": \"12 November 2014\"} Skiers use Twin-tip skis for their symmetry since they often go large portions of the course backward (referred to as \"switch\") and for their balanced weight so as to not destabilize spins. Slopestyle tricks fall mainly into four categories: spins, grinds, grabs and flips, and most tricks done in competition are a combination of these.\nSlopestyle is one of the freestyle disciplines, along with moguls, aerials, cross, big air and half-pipe.\n\nHistory\nSlopestyle became an Olympic event, in both skiing and snowboarding forms, at the 2014 Winter Games in Sochi, Russia.{\"citetype\": \"web\", \"url\": \"http://www.gamesbids.com/eng/other_news/1216135778.html\", \"title\": \"Slopestyle Approved For Sochi 2014\", \"publisher\": \"GamesBids.com\", \"accessdate\": \"2011-10-15\", \"urlstatus\": \"dead\", \"archiveurl\": \"https://web.archive.org/web/20110904041143/http://www.gamesbids.com/eng/other_news/1216135778.html\", \"archivedate\": \"2011-09-04\"} The very first Olympic champions in Slopestyle Skiing were American Joss Christensen for the men and Canadian Dara Howell for the women. The first Olympic champions for Snowboarding Slopestyle were both Americans, Sage Kotsenburg for the men and Jamie Anderson for the women.\n\nCompetition\nIn competition, athletes compete for points awarded by judges on a structured basis. The scoring criteria vary from one organization to another and from each event to the next, but in general athletes are judged on these criteria:{\"citetype\": \"web\", \"url\": \"http://freestyleski.com//about/freestyle-101/disciplines/\", \"title\": \"Slopestyle\", \"publisher\": \"Canadian Freestyle Ski Association\", \"accessdate\": \"12 November 2014\"}{\"citetype\": \"news\", \"title\": \"What Is Slopestyle? {{!}} Winter Olympic Guide For Pyeongchang 2018\", \"url\": \"https://mpora.com/snowboarding/slopestyle-event-guide#AgV12d5VLXqxDKMU.97\", \"work\": \"Mpora\", \"language\": \"en-US\", \"accessdate\": \"2018-04-23\"}\nA feature that is somewhat unique to slopestyle and similar events is that even though it's a judged sport, scores cannot be compared between events: \"A run that scores 65 at one event may score 75 at another event. The score is just a tool to organize the rankings and may vary based on the range and anchor score set for the day.\"[4]\n",
     "statistic": {
         "total_citations_in_HTML": 13,
         "total_citations_in_dump": 3,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 1,
-            "web": 2
+            "web": 2,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 3,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 1,
-            "web": 2
+            "web": 2,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

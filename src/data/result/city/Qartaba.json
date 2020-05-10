@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Qartaba",
-    "content": "Qartaba\nQartaba (Arabic: \u0642\u0631\u0637\u0628\u0627\u200e, also spelled kartaba) is a village in the Jbeil District of the Mount Lebanon Governorate, Lebanon. It is located 54 kilometers north Beirut on the mountains above Byblos at an altitude of 1,250 meters.{\"citetype\": \"web\", \"title\": \"Kartaba\", \"publisher\": \"Linking Lebanon\", \"accessdate\": \"2007-12-08\"} The town has large church square, and is surrounded by olive groves, mulberry orchards, and vineyards.{\"citetype\": \"book\", \"date\": \"2001\", \"title\": \"Syria & Lebanon Handbook: The Travel Guide\", \"publisher\": \"Footprint Travel Guides\", \"page\": \"502\", \"author\": \"Ivan Mannheim\"} In Syriac, Qartaba means \"good, curing and balanced weather\".\n\nHistory\nQartaba was once considered an important village in the Jbeil highland, a trade point for surrounding villages.{\"citetype\": \"web\", \"title\": \"Kartaba\", \"publisher\": \"Linking Lebanon\", \"accessdate\": \"2007-12-08\"} Silk manufacturing flourished and in 1918, seven factories employed more than 500 people and much of the silk was exported to Lyon, France.{\"citetype\": \"web\", \"title\": \"Kartaba\", \"publisher\": \"Linking Lebanon\", \"accessdate\": \"2007-12-08\"}\n\nDemographics\nThe inhabitants of Qartaba are predominantly Maronite Catholics.{\"citetype\": \"web\", \"url\": \"http://www.localiban.org/IMG/pdf/Elections_municipales_libanaises_2010_-_Mont-Liban.pdf\", \"title\": \"Elections municipales et ikhtiariah au Mont-Liban\", \"date\": \"2010\", \"website\": \"Localiban\", \"publisher\": \"Localiban\", \"page\": \"19\", \"format\": \"pdf\", \"accessdate\": \"2016-02-12\", \"urlstatus\": \"dead\", \"archiveurl\": \"https://web.archive.org/web/20150724081015/http://www.localiban.org/IMG/pdf/Elections_municipales_libanaises_2010_-_Mont-Liban.pdf\"} The families of the village include Sakr, Challita, Saad, El-Sokhn, Karam, Beyrouthy (El Kassis), El-Khoury, Acar, Gharios, Cherfane, Atallah, Francis and Salem.[citation needed]\n",
+    "content": "Qartaba\nQartaba (Arabic: \u0642\u0631\u0637\u0628\u0627\u200e, also spelled kartaba) is a village in the Jbeil District of the Mount Lebanon Governorate, Lebanon. It is located 54 kilometers north Beirut on the mountains above Byblos at an altitude of 1,250 meters.{\"citetype\": \"web\", \"url\": \"http://www.linkinglebanon.com/villagedetails.asp?id=357\", \"title\": \"Kartaba\", \"publisher\": \"Linking Lebanon\", \"accessdate\": \"2007-12-08\"} The town has large church square, and is surrounded by olive groves, mulberry orchards, and vineyards.{\"citetype\": \"book\", \"date\": \"2001\", \"title\": \"Syria & Lebanon Handbook: The Travel Guide\", \"publisher\": \"Footprint Travel Guides\", \"page\": \"502\", \"isbn\": \"1-900949-90-3\", \"author\": \"Ivan Mannheim\"} In Syriac, Qartaba means \"good, curing and balanced weather\".\n\nHistory\nQartaba was once considered an important village in the Jbeil highland, a trade point for surrounding villages.{\"citetype\": \"web\", \"url\": \"http://www.linkinglebanon.com/villagedetails.asp?id=357\", \"title\": \"Kartaba\", \"publisher\": \"Linking Lebanon\", \"accessdate\": \"2007-12-08\"} Silk manufacturing flourished and in 1918, seven factories employed more than 500 people and much of the silk was exported to Lyon, France.{\"citetype\": \"web\", \"url\": \"http://www.linkinglebanon.com/villagedetails.asp?id=357\", \"title\": \"Kartaba\", \"publisher\": \"Linking Lebanon\", \"accessdate\": \"2007-12-08\"}\n\nDemographics\nThe inhabitants of Qartaba are predominantly Maronite Catholics.{\"citetype\": \"web\", \"url\": \"http://www.localiban.org/IMG/pdf/Elections_municipales_libanaises_2010_-_Mont-Liban.pdf\", \"title\": \"Elections municipales et ikhtiariah au Mont-Liban\", \"date\": \"2010\", \"website\": \"Localiban\", \"publisher\": \"Localiban\", \"page\": \"19\", \"format\": \"pdf\", \"accessdate\": \"2016-02-12\", \"urlstatus\": \"dead\", \"archiveurl\": \"https://web.archive.org/web/20150724081015/http://www.localiban.org/IMG/pdf/Elections_municipales_libanaises_2010_-_Mont-Liban.pdf\", \"archivedate\": \"2015-07-24\"} The families of the village include Sakr, Challita, Saad, El-Sokhn, Karam, Beyrouthy (El Kassis), El-Khoury, Acar, Gharios, Cherfane, Atallah, Francis and Salem.[citation needed]\n",
     "statistic": {
         "total_citations_in_HTML": 5,
         "total_citations_in_dump": 3,
@@ -8,14 +8,24 @@
             "book": 1,
             "journal": 0,
             "news": 0,
-            "web": 2
+            "web": 2,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 3,
         "citations_matched_per_type": {
             "book": 1,
             "journal": 0,
             "news": 0,
-            "web": 2
+            "web": 2,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Huasco",
-    "content": "Huasco\nHuasco (Spanish pronunciation:\u00a0[\u02c8wasko]) is a Chilean city and commune, in the Huasco Province, Atacama Region.\nThe port city of Huasco is located 50\u00a0km west of Vallenar and close to the town of Huasco Bajo, which lies on the southern bank of the Huasco River and only a few km from its mouth. The coastal route between Huasco Bajo and Carrizal Bajo provides one of the two accesses to Llanos de Challe National Park. The port was used between 1851 and 1873 to ship copper ore, copper regulus, alpaca wool and hides round Cape Horn to Swansea, Glamorgan and Wales.\n\nDemographics\nAccording to the 2002 census of the National Statistics Institute, Huasco had 7,945 inhabitants (3,999 men and 3,946 women). Of these, 6,445 (81.1%) lived in urban areas and 1,500 (18.9%) in rural areas. The population grew by 5.7% (429 persons) between the 1992 and 2002 censuses.{\"citetype\": \"web\", \"url\": \"http://www.ine.cl/canales/chile_estadistico/censos_poblacion_vivienda/censo_pobl_vivi.php\", \"title\": \"National Statistics Institute\", \"accessdate\": \"4 November 2010\"}\n\nAdministration\nAs a commune, Huasco is a third-level administrative division of Chile administered by a municipal council, headed by an alcalde who is directly elected every four years. The 2008-2012 alcalde is Rodrigo Loyola Morenilla.\nWithin the electoral divisions of Chile, Huasco is represented in the Chamber of Deputies by Mr. Alberto Robles (PRSD) and Mr. Giovanni Calder\u00f3n  (UDI) as part of the 6th electoral district, (together with Caldera, Tierra Amarilla, Vallenar, Freirina and Alto del Carmen). The commune is represented in the Senate by Isabel Allende Bussi (PS) and Baldo Prokurica Prokurica (RN) as part of the 3rd senatorial constituency (Atacama Region).\n",
+    "content": "Huasco\nHuasco (Spanish pronunciation:\u00a0[\u02c8wasko]) is a Chilean city and commune, in the Huasco Province, Atacama Region.\nThe port city of Huasco is located 50\u00a0km west of Vallenar and close to the town of Huasco Bajo, which lies on the southern bank of the Huasco River and only a few km from its mouth. The coastal route between Huasco Bajo and Carrizal Bajo provides one of the two accesses to Llanos de Challe National Park. The port was used between 1851 and 1873 to ship copper ore, copper regulus, alpaca wool and hides round Cape Horn to Swansea, Glamorgan and Wales.\n\nDemographics\nAccording to the 2002 census of the National Statistics Institute, Huasco had 7,945 inhabitants (3,999 men and 3,946 women). Of these, 6,445 (81.1%) lived in urban areas and 1,500 (18.9%) in rural areas. The population grew by 5.7% (429 persons) between the 1992 and 2002 censuses.{\"citetype\": \"web\", \"url\": \"http://www.ine.cl/canales/chile_estadistico/censos_poblacion_vivienda/censo_pobl_vivi.php\", \"title\": \"National Statistics Institute\", \"language\": \"es\", \"accessdate\": \"4 November 2010\"}\n\nAdministration\nAs a commune, Huasco is a third-level administrative division of Chile administered by a municipal council, headed by an alcalde who is directly elected every four years. The 2008-2012 alcalde is Rodrigo Loyola Morenilla.\nWithin the electoral divisions of Chile, Huasco is represented in the Chamber of Deputies by Mr. Alberto Robles (PRSD) and Mr. Giovanni Calder\u00f3n  (UDI) as part of the 6th electoral district, (together with Caldera, Tierra Amarilla, Vallenar, Freirina and Alto del Carmen). The commune is represented in the Senate by Isabel Allende Bussi (PS) and Baldo Prokurica Prokurica (RN) as part of the 3rd senatorial constituency (Atacama Region).\n",
     "statistic": {
         "total_citations_in_HTML": 4,
         "total_citations_in_dump": 1,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 1,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

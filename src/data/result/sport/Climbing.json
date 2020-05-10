@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Climbing",
-    "content": "Climbing\nClimbing is the activity of using one's hands, feet, or any other part of the body to ascend a steep topographical object. It is done for locomotion, recreation and competition, and within trades that rely on ascension; such as emergency rescue and military operations. It is done indoors and out, on natural and man-made structures.\nProfessional mountain guides or rock climbing guides, such as members of the IFMGA, have been known to be a historically significant element of developing the popularity of the sport in the natural environment, and remain so today.\nClimbing will be an official sport for the first time in the Olympic Games in 2021. It has been delayed due to the coronavirus pandemic.[1] It takes place in Tokyo (see Sport climbing at the 2020 Summer Olympics).{\"citetype\": \"web\", \"url\": \"https://www.olympic.org/news/from-doha-to-tokyo-onward-and-upward-for-sport-climbing\", \"title\": \"From Doha to Tokyo: onward and upward for sport climbing - Olympic News\", \"date\": \"2019-10-30\", \"website\": \"International Olympic Committee\", \"language\": \"en\"}\n\nTypes\nClimbing activities include:\nRock, ice and tree climbing all usually utilize ropes for safety or aid. Pole climbing and rope climbing were among the first exercises to be included in the origins of modern gymnastics in the late 18th century and early 19th century.\n\nFilm\nClimbing has been the subject of both film and documentary film with notable examples being Touching the Void, Everest and Free Solo.\n",
+    "content": "Climbing\nClimbing is the activity of using one's hands, feet, or any other part of the body to ascend a steep topographical object. It is done for locomotion, recreation and competition, and within trades that rely on ascension; such as emergency rescue and military operations. It is done indoors and out, on natural and man-made structures.\nProfessional mountain guides or rock climbing guides, such as members of the IFMGA, have been known to be a historically significant element of developing the popularity of the sport in the natural environment, and remain so today.\nClimbing will be an official sport for the first time in the Olympic Games in 2021. It has been delayed due to the coronavirus pandemic.[1] It takes place in Tokyo (see Sport climbing at the 2020 Summer Olympics).{\"citetype\": \"web\", \"url\": \"https://www.olympic.org/news/from-doha-to-tokyo-onward-and-upward-for-sport-climbing\", \"title\": \"From Doha to Tokyo: onward and upward for sport climbing - Olympic News\", \"date\": \"2019-10-30\", \"website\": \"International Olympic Committee\", \"language\": \"en\", \"accessdate\": \"2019-11-06\"}\n\nTypes\nClimbing activities include:\nRock, ice and tree climbing all usually utilize ropes for safety or aid. Pole climbing and rope climbing were among the first exercises to be included in the origins of modern gymnastics in the late 18th century and early 19th century.\n\nFilm\nClimbing has been the subject of both film and documentary film with notable examples being Touching the Void, Everest and Free Solo.\n",
     "statistic": {
         "total_citations_in_HTML": 7,
         "total_citations_in_dump": 5,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 5
+            "web": 5,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 5,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 5
+            "web": 5,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Ibimirim",
-    "content": "Ibimirim\nIbimirim is a city  in the state of Pernambuco, Brazil. The population in 2009, according with IBGE was 29.018 inhabitants and the total area is 2033.59\u00a0km\u00b2.\n\nEconomy\nThe main economic activities in Ibimirim are based in commerce and agribusiness, especially creation of goats, sheep, pigss, cattle, donkeys, horses, chickens;  and plantations of tomatoes, beans, mangoes and bananas.\n\nEconomic indicators\nEconomy by Sector\n2006\n\nHealth Indicators\n{\"citetype\": \"web\", \"url\": \"http://www2.condepefidem.pe.gov.br/web/condepefidem\", \"title\": \"Governo do Estado de Pernambuco - Welcome\", \"work\": \"pe.gov.br\"}\n\nReferences\nCoordinates: 8\u00b032\u2032S 37\u00b042\u2032W\ufeff / \ufeff8.533\u00b0S 37.700\u00b0W\ufeff / -8.533; -37.700\n\n",
+    "content": "Ibimirim\nIbimirim is a city  in the state of Pernambuco, Brazil. The population in 2009, according with IBGE was 29.018 inhabitants and the total area is 2033.59\u00a0km\u00b2.\n\nEconomy\nThe main economic activities in Ibimirim are based in commerce and agribusiness, especially creation of goats, sheep, pigss, cattle, donkeys, horses, chickens;  and plantations of tomatoes, beans, mangoes and bananas.\n\nEconomic indicators\nEconomy by Sector\n2006\n\nHealth Indicators\n{\"citetype\": \"web\", \"url\": \"http://www2.condepefidem.pe.gov.br/web/condepefidem\", \"title\": \"Governo do Estado de Pernambuco - Welcome\", \"accessdate\": \"19 September 2015\", \"work\": \"pe.gov.br\"}\n\nReferences\nCoordinates: 8\u00b032\u2032S 37\u00b042\u2032W\ufeff / \ufeff8.533\u00b0S 37.700\u00b0W\ufeff / -8.533; -37.700\n\n",
     "statistic": {
         "total_citations_in_HTML": 3,
         "total_citations_in_dump": 3,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 3
+            "web": 3,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 3,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 3
+            "web": 3,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

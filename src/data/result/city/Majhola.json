@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Majhola",
-    "content": "Majhola\n\nMajhola is a class III town and a nagar panchayat in Pilibhit district in the Indian state of Uttar Pradesh.  This town is located 25\u00a0km away from district headquarters on state highway 29 connecting Pilibhit to Tanakpur town in Uttaranchal.  It is well connected by metre gauge railway line to District headquarters. Geographically, town is located adjacent to Uttaranchal border in terai region.  Terai region is famous for its fertile land and industrious farmers. Agriculture is the mainstay of the town economy.  It has one sugar factory in cooperative sector, one distillery and few flour mills. Both sugar factory and distillery are now defunct. Demographic profile of town consists of people from different social groups. Dominant among them are farmers which are mainly Sikhs and upper caste group migrants from eastern Uttar Pradesh. Others are business class upper caste people from western Uttar Pradesh who dominates the town economy. The town has two intermediate colleges and one convent school.  There are many place of worships belonging to different religions. The place had a very vibrant sport culture which slowly diminished due to exodus of youth out of town for employment.\n\nDemographics\nAs of the 2001 Census of India,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Majhola had a population of 21,824. Males constitute 52.45% of the population and females 47.55%. Nyoria Husainpur has an average literacy rate of 29%, lower than the national average of 59.5%: male literacy is 37%, and female literacy is 20%. In Majhola, 16% of the population is under 6 years of age.\n\nReferences\n\n",
+    "content": "Majhola\n\nMajhola is a class III town and a nagar panchayat in Pilibhit district in the Indian state of Uttar Pradesh.  This town is located 25\u00a0km away from district headquarters on state highway 29 connecting Pilibhit to Tanakpur town in Uttaranchal.  It is well connected by metre gauge railway line to District headquarters. Geographically, town is located adjacent to Uttaranchal border in terai region.  Terai region is famous for its fertile land and industrious farmers. Agriculture is the mainstay of the town economy.  It has one sugar factory in cooperative sector, one distillery and few flour mills. Both sugar factory and distillery are now defunct. Demographic profile of town consists of people from different social groups. Dominant among them are farmers which are mainly Sikhs and upper caste group migrants from eastern Uttar Pradesh. Others are business class upper caste people from western Uttar Pradesh who dominates the town economy. The town has two intermediate colleges and one convent school.  There are many place of worships belonging to different religions. The place had a very vibrant sport culture which slowly diminished due to exodus of youth out of town for employment.\n\nDemographics\nAs of the 2001 Census of India,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)\", \"publisher\": \"Census Commission of India\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Majhola had a population of 21,824. Males constitute 52.45% of the population and females 47.55%. Nyoria Husainpur has an average literacy rate of 29%, lower than the national average of 59.5%: male literacy is 37%, and female literacy is 20%. In Majhola, 16% of the population is under 6 years of age.\n\nReferences\n\n",
     "statistic": {
         "total_citations_in_HTML": 1,
         "total_citations_in_dump": 1,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 1,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

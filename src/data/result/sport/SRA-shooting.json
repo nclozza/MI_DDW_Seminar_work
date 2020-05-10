@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/SRA-shooting",
-    "content": "SRA-shooting\nThe SRA-shooting is a shooting sport based on the concept of practical shooting. It originates from Finland. Whole name is sovellettu reservil\u00e4isammunta and translates as applied reservists' shooting. It resembles IPSC a lot. The objective of the sport is to develop the weapon handling and marksmanship skills of the athlete.{\"citetype\": \"news\", \"date\": \"2017-11-13\", \"title\": \"About SRA\", \"url\": \"https://ifsra.net/about/\", \"work\": \"IFSRA\", \"accessdate\": \"2017-11-17\"}\nThe rules of the sport are regulated by the Finnish Reservist Sports Federation (RESUL). International Federation SRA[2] is the global governing body of the sport.\nIn IPSC it is strictly forbidden to wear any military styled clothes unless competitor is in active service. In SRA military outlook is promoted. Unlike IPSC where guns are divided in different divisions by structure and power, SRA concentrates in firearms and calibers used by military or paramilitary organisations. Main emphasis is on rifles while pistol shooting is primary in IPSC.\nTarget used in SRA are resembling human like figure (metric) while classic target in IPSC is stretched octagon.\n",
+    "content": "SRA-shooting\nThe SRA-shooting is a shooting sport based on the concept of practical shooting. It originates from Finland. Whole name is sovellettu reservil\u00e4isammunta and translates as applied reservists' shooting. It resembles IPSC a lot. The objective of the sport is to develop the weapon handling and marksmanship skills of the athlete.{\"citetype\": \"news\", \"date\": \"2017-11-13\", \"title\": \"About SRA\", \"url\": \"https://ifsra.net/about/\", \"work\": \"IFSRA\", \"language\": \"en-US\", \"accessdate\": \"2017-11-17\"}\nThe rules of the sport are regulated by the Finnish Reservist Sports Federation (RESUL). International Federation SRA[2] is the global governing body of the sport.\nIn IPSC it is strictly forbidden to wear any military styled clothes unless competitor is in active service. In SRA military outlook is promoted. Unlike IPSC where guns are divided in different divisions by structure and power, SRA concentrates in firearms and calibers used by military or paramilitary organisations. Main emphasis is on rifles while pistol shooting is primary in IPSC.\nTarget used in SRA are resembling human like figure (metric) while classic target in IPSC is stretched octagon.\n",
     "statistic": {
         "total_citations_in_HTML": 2,
         "total_citations_in_dump": 2,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 1,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 2,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 1,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

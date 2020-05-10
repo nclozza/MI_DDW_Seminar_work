@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Bhokarhedi",
-    "content": "Bhokarhedi\n\nBhokarhedi is a town and a nagar panchayat in Muzaffarnagar district  in the state of Uttar Pradesh, India.\n\nDemographics\nAs of 2001[update] India census,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Bhokarhedi had a population of 15,973. Males constitute 54% of the population and females 46%. Bhokarhedi has an average literacy rate of 51%, lower than the national average of 59.5%; with male literacy of 59% and female literacy of 41%. 17% of the population is under 6 years of age.\nTimur or Tamarlane discusses a battle he fought with Hindu Jat warriors here while going to Hardwar during 1398-1399 campaign in  January 1399.There are 12 wards in Bhokerhadi{lokupura uttari,lokupura dakshani,baheda patti,klallan,pathanan,kuwa patti,main bazar,nai basti,harizan chowk,nehru chowk,shubash chowk and seth puri}.Main crop produce in bhokerdadi is sugarcane.\nphysical location: http://wikimapia.org/#lat=29.5079172&lon=77.9368105&z=14&l=0&m=b\n",
+    "content": "Bhokarhedi\n\nBhokarhedi is a town and a nagar panchayat in Muzaffarnagar district  in the state of Uttar Pradesh, India.\n\nDemographics\nAs of 2001[update] India census,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)\", \"publisher\": \"Census Commission of India\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Bhokarhedi had a population of 15,973. Males constitute 54% of the population and females 46%. Bhokarhedi has an average literacy rate of 51%, lower than the national average of 59.5%; with male literacy of 59% and female literacy of 41%. 17% of the population is under 6 years of age.\nTimur or Tamarlane discusses a battle he fought with Hindu Jat warriors here while going to Hardwar during 1398-1399 campaign in  January 1399.There are 12 wards in Bhokerhadi{lokupura uttari,lokupura dakshani,baheda patti,klallan,pathanan,kuwa patti,main bazar,nai basti,harizan chowk,nehru chowk,shubash chowk and seth puri}.Main crop produce in bhokerdadi is sugarcane.\nphysical location: http://wikimapia.org/#lat=29.5079172&lon=77.9368105&z=14&l=0&m=b\n",
     "statistic": {
         "total_citations_in_HTML": 1,
         "total_citations_in_dump": 1,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 1,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Aquem",
-    "content": "Aquem\n\nAquem is a census town in South Goa district  in the state of Goa, India. It is home to the 6th Century Pandava caves which likely have Buddhist origin. \n\nDemographics\nAs of 2001[update] India census,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Aquem had a population of 4985. Males constitute 51% of the population and females 49%. Aquem has an average literacy rate of 70%, higher than the national average of 59.5%; with 55% of the males and 45% of females literate. 13% of the population is under 6 years of age.\n",
+    "content": "Aquem\n\nAquem is a census town in South Goa district  in the state of Goa, India. It is home to the 6th Century Pandava caves which likely have Buddhist origin. \n\nDemographics\nAs of 2001[update] India census,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)\", \"publisher\": \"Census Commission of India\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Aquem had a population of 4985. Males constitute 51% of the population and females 49%. Aquem has an average literacy rate of 70%, higher than the national average of 59.5%; with 55% of the males and 45% of females literate. 13% of the population is under 6 years of age.\n",
     "statistic": {
         "total_citations_in_HTML": 1,
         "total_citations_in_dump": 1,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 1,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Hyena-baiting",
-    "content": "Hyena-baiting\nHyena-baiting is a blood sport involving the baiting of hyenas.\n\nHistory\nThe striped hyena has historically been the most frequently used species. Hyenas can be challenging opponents for dogs, as their jaws are exceedingly powerful. A single bite from a hyena lasting a few seconds without holding on is sufficient to kill a large dog.[1] Hyenas apparently fight dogs by trying to cripple them by biting at their legs.[2]\nThe Qalandar and the Thori in southern Punjab, Kandahar and Quetta, catch striped hyenas in order to pit them against specially trained dogs. The hyenas are restrained with ropes in order to pull them away from the dogs if necessary.{\"citetype\": \"web\", \"url \": \"http://www.nanzan-u.ac.jp/SHUBUNKEN/publications/afs/pdf/a1246.pdf\", \"title \": \"The Magicality of the Hyena: Beliefs and Practices in West and South Asia\", \"publisher \": \"Asian Folklore Studies, Volume 57, 1998: 331\\u2013344\", \"accessdate \": \"23 June 2008\", \"urlstatus \": \"dead\", \"archiveurl \": \"https://web.archive.org/web/20080625072539/http://www.nanzan-u.ac.jp/SHUBUNKEN/publications/afs/pdf/a1246.pdf\"}\nIn Baluchistan, captured hyenas sometimes had bridles placed in their mouths in order to prevent them from injuring the dogs. This was done in order to train the dogs into not fearing the animal.{\"citetype\": \"web\", \"url \": \"http://www.nanzan-u.ac.jp/SHUBUNKEN/publications/afs/pdf/a1246.pdf\", \"title \": \"The Magicality of the Hyena: Beliefs and Practices in West and South Asia\", \"publisher \": \"Asian Folklore Studies, Volume 57, 1998: 331\\u2013344\", \"accessdate \": \"23 June 2008\", \"urlstatus \": \"dead\", \"archiveurl \": \"https://web.archive.org/web/20080625072539/http://www.nanzan-u.ac.jp/SHUBUNKEN/publications/afs/pdf/a1246.pdf\"}\nIt is known that a Dogue de Bordeaux bitch named Megre was pitted against hyenas in 1895, though the exact species was not identified.{\"citetype\": \"web\", \"url \": \"http://www.bulldoginformation.com/evolution-of-the-bulldog.html\", \"title \": \"The Dogue de Bordeaux\", \"publisher \": \"The Bulldog Information Library\"}\n",
+    "content": "Hyena-baiting\nHyena-baiting is a blood sport involving the baiting of hyenas.\n\nHistory\nThe striped hyena has historically been the most frequently used species. Hyenas can be challenging opponents for dogs, as their jaws are exceedingly powerful. A single bite from a hyena lasting a few seconds without holding on is sufficient to kill a large dog.[1] Hyenas apparently fight dogs by trying to cripple them by biting at their legs.[2]\nThe Qalandar and the Thori in southern Punjab, Kandahar and Quetta, catch striped hyenas in order to pit them against specially trained dogs. The hyenas are restrained with ropes in order to pull them away from the dogs if necessary.{\"citetype\": \"web\", \"url \": \"http://www.nanzan-u.ac.jp/SHUBUNKEN/publications/afs/pdf/a1246.pdf\", \"title \": \"The Magicality of the Hyena: Beliefs and Practices in West and South Asia\", \"publisher \": \"Asian Folklore Studies, Volume 57, 1998: 331\\u2013344\", \"accessdate \": \"23 June 2008\", \"urlstatus \": \"dead\", \"archiveurl \": \"https://web.archive.org/web/20080625072539/http://www.nanzan-u.ac.jp/SHUBUNKEN/publications/afs/pdf/a1246.pdf\", \"archivedate \": \"2008-06-25\"}\nIn Baluchistan, captured hyenas sometimes had bridles placed in their mouths in order to prevent them from injuring the dogs. This was done in order to train the dogs into not fearing the animal.{\"citetype\": \"web\", \"url \": \"http://www.nanzan-u.ac.jp/SHUBUNKEN/publications/afs/pdf/a1246.pdf\", \"title \": \"The Magicality of the Hyena: Beliefs and Practices in West and South Asia\", \"publisher \": \"Asian Folklore Studies, Volume 57, 1998: 331\\u2013344\", \"accessdate \": \"23 June 2008\", \"urlstatus \": \"dead\", \"archiveurl \": \"https://web.archive.org/web/20080625072539/http://www.nanzan-u.ac.jp/SHUBUNKEN/publications/afs/pdf/a1246.pdf\", \"archivedate \": \"2008-06-25\"}\nIt is known that a Dogue de Bordeaux bitch named Megre was pitted against hyenas in 1895, though the exact species was not identified.{\"citetype\": \"web\", \"url \": \"http://www.bulldoginformation.com/evolution-of-the-bulldog.html\", \"title \": \"The Dogue de Bordeaux\", \"publisher \": \"The Bulldog Information Library\", \"accessdate \": \"3 August 2008\"}\n",
     "statistic": {
         "total_citations_in_HTML": 5,
         "total_citations_in_dump": 2,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 2
+            "web": 2,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 2,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 2
+            "web": 2,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

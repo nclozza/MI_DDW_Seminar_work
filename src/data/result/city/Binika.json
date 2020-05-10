@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Binika",
-    "content": "Binika\n\nBinika (also known as Binka) is a town and a notified area committee in Subarnapur district  in the state of Odisha, India.\n\nGeography\nBinika is located at 21\u00b002\u2032N 83\u00b048\u2032E\ufeff / \ufeff21.03\u00b0N 83.8\u00b0E\ufeff / 21.03; 83.8.[1] It has an average elevation of 122\u00a0metres (400\u00a0feet).\nThe city is situated in the bank of river Mahanadi. It is 32\u00a0km distance from Sonepur district.\n\nDemographics\nAs of 2001[update] India census,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Binika had a population of 14,537. Males constitute 51% of the population and females 49%. Binika has an average literacy rate of 63%, higher than the national average of 59.5%; with male literacy of 75% and female literacy of 50%. 13% of the population is under 6 years of age.\n\nPolitics\nMLAs who represented Binka Assembly Constituency are Padmanav Behera of BJD (2009-2014 and 2014-2019), Niranjan Pujari of BJD, who won the seat in State elections of 2004 and also in 2000. Previous MLAs from this seat include Narasingha Mishra of JD who won this seat in 1995, Chitiaranjan Mishra of INC in 1985, Pradip Hota of INC(I) in 1980, and independent candidate Parakhita Karna in 1977and other Members from Binka for this constituency are Panchanan Mishra 1990, Radhamohan Mishra, Nrusimha Charan Mishra, Baikuntha Nepak, Anantaram Nanda {\"citetype\": \"web\", \"url \": \"http://archive.eci.gov.in/March2004/pollupd/ac/states/s18/Partycomp113.htm\", \"title \": \"State Elections 2004 - Partywise Comparison for 113-Binka Constituency of Odisha\", \"publisher \": \"Election Commission of India\"}\nBinka is part of Bolangir (Lok Sabha constituency).{\"citetype\": \"web\", \"url\": \"http://archive.eci.gov.in/se2000/background/S18/Orissa_AC_Dist_PC.pdf\", \"title\": \"Assembly Constituencies - Corresponding Districts and Parliamentary Constituencies of Odisha\", \"publisher\": \"Election Commission of India\", \"accessdate\": \"2008-09-26\", \"urlstatus\": \"dead\", \"archiveurl\": \"https://web.archive.org/web/20090304184320/http://archive.eci.gov.in/se2000/background/S18/Orissa_AC_Dist_PC.pdf\"}\n",
+    "content": "Binika\n\nBinika (also known as Binka) is a town and a notified area committee in Subarnapur district  in the state of Odisha, India.\n\nGeography\nBinika is located at 21\u00b002\u2032N 83\u00b048\u2032E\ufeff / \ufeff21.03\u00b0N 83.8\u00b0E\ufeff / 21.03; 83.8.[1] It has an average elevation of 122\u00a0metres (400\u00a0feet).\nThe city is situated in the bank of river Mahanadi. It is 32\u00a0km distance from Sonepur district.\n\nDemographics\nAs of 2001[update] India census,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)\", \"publisher\": \"Census Commission of India\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Binika had a population of 14,537. Males constitute 51% of the population and females 49%. Binika has an average literacy rate of 63%, higher than the national average of 59.5%; with male literacy of 75% and female literacy of 50%. 13% of the population is under 6 years of age.\n\nPolitics\nMLAs who represented Binka Assembly Constituency are Padmanav Behera of BJD (2009-2014 and 2014-2019), Niranjan Pujari of BJD, who won the seat in State elections of 2004 and also in 2000. Previous MLAs from this seat include Narasingha Mishra of JD who won this seat in 1995, Chitiaranjan Mishra of INC in 1985, Pradip Hota of INC(I) in 1980, and independent candidate Parakhita Karna in 1977and other Members from Binka for this constituency are Panchanan Mishra 1990, Radhamohan Mishra, Nrusimha Charan Mishra, Baikuntha Nepak, Anantaram Nanda {\"citetype\": \"web\", \"url \": \"http://archive.eci.gov.in/March2004/pollupd/ac/states/s18/Partycomp113.htm\", \"title \": \"State Elections 2004 - Partywise Comparison for 113-Binka Constituency of Odisha\", \"publisher \": \"Election Commission of India\", \"accessdate \": \"2008-09-26\"}\nBinka is part of Bolangir (Lok Sabha constituency).{\"citetype\": \"web\", \"url\": \"http://archive.eci.gov.in/se2000/background/S18/Orissa_AC_Dist_PC.pdf\", \"title\": \"Assembly Constituencies - Corresponding Districts and Parliamentary Constituencies of Odisha\", \"publisher\": \"Election Commission of India\", \"accessdate\": \"2008-09-26\", \"urlstatus\": \"dead\", \"archiveurl\": \"https://web.archive.org/web/20090304184320/http://archive.eci.gov.in/se2000/background/S18/Orissa_AC_Dist_PC.pdf\", \"archivedate\": \"2009-03-04\"}\n",
     "statistic": {
         "total_citations_in_HTML": 4,
         "total_citations_in_dump": 3,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 3
+            "web": 3,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 3,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 3
+            "web": 3,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

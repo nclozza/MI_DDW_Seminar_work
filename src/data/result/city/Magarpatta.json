@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Magarpatta",
-    "content": "Magarpatta\n\nMagarpatta  (Marathi: \u092e\u0917\u0930\u092a\u091f\u094d\u091f\u093e lit. Land of Magar family) is a 450 acre, privately owned gated community in the Hadapsar area of Pune, India. It has a commercial area, residential area, hospital with several specialisations, shopping malls, restaurants, a gym, Aditi Garden (a 25-acre park) and schools. 30% of the area is made up of green space. There is a commercial complex named \"Destination Centre\" located herein. Construction began in 2001 and continues to develop itself with newer housing societies.\n\nManagement\nMagarpatta was originally a farmland in Hadapsar, owned by the Magar family. They live in Hadapsar. Satish Magar is the chairman & managing director of the township.{\"citetype\": \"news\", \"title\": \"This developer let farmers retain their land\", \"url\": \"https://economictimes.indiatimes.com/industry/services/property-/-cstruction/this-developer-let-farmers-retain-their-land/articleshow/2417713.cms\"}\n\nResidential clusters\nMagarpatta has various residential clusters for different needs and income groups. Names of these clusters are based on different flower species, and they are listed below in order from oldest to newest.\n\nExternal links\nCoordinates: 18\u00b030\u203254\u2033N 73\u00b055\u203235\u2033E\ufeff / \ufeff18.51500\u00b0N 73.92639\u00b0E\ufeff / 18.51500; 73.92639\n",
+    "content": "Magarpatta\n\nMagarpatta  (Marathi: \u092e\u0917\u0930\u092a\u091f\u094d\u091f\u093e lit. Land of Magar family) is a 450 acre, privately owned gated community in the Hadapsar area of Pune, India. It has a commercial area, residential area, hospital with several specialisations, shopping malls, restaurants, a gym, Aditi Garden (a 25-acre park) and schools. 30% of the area is made up of green space. There is a commercial complex named \"Destination Centre\" located herein. Construction began in 2001 and continues to develop itself with newer housing societies.\n\nManagement\nMagarpatta was originally a farmland in Hadapsar, owned by the Magar family. They live in Hadapsar. Satish Magar is the chairman & managing director of the township.{\"citetype\": \"news\", \"date\": \"1 October 2007\", \"title\": \"This developer let farmers retain their land\", \"url\": \"https://economictimes.indiatimes.com/industry/services/property-/-cstruction/this-developer-let-farmers-retain-their-land/articleshow/2417713.cms\"}\n\nResidential clusters\nMagarpatta has various residential clusters for different needs and income groups. Names of these clusters are based on different flower species, and they are listed below in order from oldest to newest.\n\nExternal links\nCoordinates: 18\u00b030\u203254\u2033N 73\u00b055\u203235\u2033E\ufeff / \ufeff18.51500\u00b0N 73.92639\u00b0E\ufeff / 18.51500; 73.92639\n",
     "statistic": {
         "total_citations_in_HTML": 8,
         "total_citations_in_dump": 7,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 1,
-            "web": 6
+            "web": 6,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 7,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 1,
-            "web": 6
+            "web": 6,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

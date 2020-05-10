@@ -1,10 +1,10 @@
-{"citetype": "book", "year": "2005", "title": "Byllis", "location": "Tirana", "publisher": "Migjeni", "isbn": "99943-672-7-7", "last": "Ceka and Mucau"}
-{"citetype": "book", "last": "Pseudo-Scylax"}
-{"citetype": "book", "year": "2005", "title": "Byllis", "publisher": "Migjeni", "isbn": "99943-672-7-7", "last": "Ceka and Mucaj"}
-{"citetype": "book", "year": "2003", "title": "Epirus Vetus: The Archaeology of a Late Antique Province", "publisher": "Duckworth", "isbn": "0-7156-3116-0", "last": "Bowden", "first": "William"}
-{"citetype": "book", "last1": "Ceka", "first1": "Neritan", "last2": "Mu\u00e7aj", "first2": "Sk\u00ebnder", "year": "2005", "title": "Byllis, its history and monuments", "location": "Tirana"}
-{"citetype": "journal", "title": "The Illyrian Atintani, the Epirotic Atintanes and the Roman Protectorate", "pages": "11&ndash;25", "jstor": "301177", "last": "Hammond", "first": "N. G. L.", "year ": "1989", "journal ": "The Journal of Roman Studies", "volume ": "79"}
-{"citetype": "book", "last1": "Hansen", "first1": "Mogens Herman", "last2": "Nielsen", "first2": "Thomas Heine", "year": "2004", "title": "An Inventory of Archaic and Classical Poleis", "publisher": "Oxford University Press", "isbn": "978-0-19-814099-3"}
-{"citetype": "book", "last1": "Hatzopoulos", "first1": "M. B.", "last2": "Sakellariou", "first2": "M.", "year": "1997", "title": "Epirus, Four Thousand Years of Greek History and Civilization", "publisher": "Ekdotike Athenon", "isbn": "960-213-377-5", "last3": "Loukopoulou", "first3": "L. D."}
-{"citetype": "book", "last1": "Lewis", "first1": "D. M.", "last2": "Boardman", "first2": "John", "year": "1994", "title": "The Cambridge Ancient History, Volume 6: The Fourth Century BC", "isbn": "0-521-23348-8"}
-{"citetype": "book", "year": "1995", "title": "The Illyrians", "publisher": "Wiley-Blackwell", "isbn": "0-631-19807-5", "last": "Wilkes", "first": "John"}
+{"citetype": "book", "year": "2005", "title": "Byllis", "location": "Tirana", "publisher": "Migjeni", "pages": "11", "isbn": "99943-672-7-7", "last": "Ceka and Mucau"}
+{"citetype": "book", "title": "Periplus, 27", "last": "Pseudo-Scylax"}
+{"citetype": "book", "year": "2005", "title": "Byllis", "publisher": "Migjeni", "pages": "108\u2013109", "isbn": "99943-672-7-7", "last": "Ceka and Mucaj"}
+{"citetype": "book", "year": "2003", "title": "Epirus Vetus: The Archaeology of a Late Antique Province", "publisher": "Duckworth", "isbn": "0-7156-3116-0", "ref": "harv", "last": "Bowden", "first": "William"}
+{"citetype": "book", "last1": "Ceka", "first1": "Neritan", "last2": "Mu\u00e7aj", "first2": "Sk\u00ebnder", "year": "2005", "title": "Byllis, its history and monuments", "location": "Tirana", "ref": "harv"}
+{"citetype": "journal", "title": "The Illyrian Atintani, the Epirotic Atintanes and the Roman Protectorate", "pages": "11&ndash;25", "jstor": "301177", "ref": "Hammond", "last": "Hammond", "first": "N. G. L.", "year ": "1989", "journal ": "The Journal of Roman Studies", "volume ": "79"}
+{"citetype": "book", "last1": "Hansen", "first1": "Mogens Herman", "last2": "Nielsen", "first2": "Thomas Heine", "year": "2004", "title": "An Inventory of Archaic and Classical Poleis", "publisher": "Oxford University Press", "isbn": "978-0-19-814099-3", "ref": "harv"}
+{"citetype": "book", "last1": "Hatzopoulos", "first1": "M. B.", "last2": "Sakellariou", "first2": "M.", "year": "1997", "title": "Epirus, Four Thousand Years of Greek History and Civilization", "publisher": "Ekdotike Athenon", "isbn": "960-213-377-5", "ref": "harv", "last3": "Loukopoulou", "first3": "L. D."}
+{"citetype": "book", "last1": "Lewis", "first1": "D. M.", "last2": "Boardman", "first2": "John", "year": "1994", "title": "The Cambridge Ancient History, Volume 6: The Fourth Century BC", "isbn": "0-521-23348-8", "ref": "harv"}
+{"citetype": "book", "year": "1995", "title": "The Illyrians", "publisher": "Wiley-Blackwell", "isbn": "0-631-19807-5", "ref": "harv", "last": "Wilkes", "first": "John"}

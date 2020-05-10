@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Andada",
-    "content": "Andada\n\nAndada is a census town in Bharuch district  in the state of Gujarat, India.\n\nDemographics\nAs of 2001[update] India census,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Andada had a population of 13,506. Males constituted 54% of the population and females 46%. Andada has an average literacy rate of 73%, higher than the national average of 59.5%; with 57% of the males and 43% of females literate. 16% of the population is under 6 years of age.{\"citetype\": \"web\", \"url\": \"http://www.citypincode.in/GUJARAT/BHARUCH/Andada__PINCODE\", \"title\": \"Andada Pin Code\", \"publisher\": \"citypincode.in\"}\n",
+    "content": "Andada\n\nAndada is a census town in Bharuch district  in the state of Gujarat, India.\n\nDemographics\nAs of 2001[update] India census,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2001: Data from the 2001 Census, including cities, villages and towns  (Provisional)\", \"publisher\": \"Census Commission of India\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Andada had a population of 13,506. Males constituted 54% of the population and females 46%. Andada has an average literacy rate of 73%, higher than the national average of 59.5%; with 57% of the males and 43% of females literate. 16% of the population is under 6 years of age.{\"citetype\": \"web\", \"url\": \"http://www.citypincode.in/GUJARAT/BHARUCH/Andada__PINCODE\", \"title\": \"Andada Pin Code\", \"publisher\": \"citypincode.in\", \"accessdate\": \"2014-04-08\"}\n",
     "statistic": {
         "total_citations_in_HTML": 2,
         "total_citations_in_dump": 2,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 2
+            "web": 2,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 2,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 2
+            "web": 2,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

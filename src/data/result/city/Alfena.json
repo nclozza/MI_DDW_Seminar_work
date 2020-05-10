@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Alfena",
-    "content": "Alfena\nAlfena is a Portuguese city and parish in the municipality of Valongo, Portugal. The population in 2010 was 18,130,[1] in an area of 15.7\u00a0km\u00b2.{\"citetype\": \"web\", \"url\": \"http://www.dgterritorio.pt/cartografia_e_geodesia/cartografia/carta_administrativa_oficial_de_portugal_caop_/caop__download_/carta_administrativa_oficial_de_portugal___versao_2017__em_vigor_/\", \"title\": \"\\u00c1reas das freguesias, concelhos, distritos e pa\\u00eds\", \"accessdate\": \"2018-11-05\", \"archiveurl\": \"https://web.archive.org/web/20181105172426/http://www.dgterritorio.pt/cartografia_e_geodesia/cartografia/carta_administrativa_oficial_de_portugal_caop_/caop__download_/carta_administrativa_oficial_de_portugal___versao_2017__em_vigor_/\", \"archivedate\": \"2018-11-05\"}\n\nReferences\n\n",
+    "content": "Alfena\nAlfena is a Portuguese city and parish in the municipality of Valongo, Portugal. The population in 2010 was 18,130,[1] in an area of 15.7\u00a0km\u00b2.{\"citetype\": \"web\", \"url\": \"http://www.dgterritorio.pt/cartografia_e_geodesia/cartografia/carta_administrativa_oficial_de_portugal_caop_/caop__download_/carta_administrativa_oficial_de_portugal___versao_2017__em_vigor_/\", \"title\": \"\\u00c1reas das freguesias, concelhos, distritos e pa\\u00eds\", \"accessdate\": \"2018-11-05\", \"urlstatus\": \"dead\", \"archiveurl\": \"https://web.archive.org/web/20181105172426/http://www.dgterritorio.pt/cartografia_e_geodesia/cartografia/carta_administrativa_oficial_de_portugal_caop_/caop__download_/carta_administrativa_oficial_de_portugal___versao_2017__em_vigor_/\", \"archivedate\": \"2018-11-05\"}\n\nReferences\n\n",
     "statistic": {
         "total_citations_in_HTML": 2,
         "total_citations_in_dump": 1,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 1,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

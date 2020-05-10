@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Tantoyuca",
-    "content": "Tantoyuca\n\nTantoyuca  is a city in the Mexican state of Veracruz. It is located in the state's Huasteca Alta region. \nIt serves as the municipal seat of the surrounding municipality of Tantoyuca.\nIn the 2005 INEGI Census, the city of  Tantoyuca reported a total population of 23,893.{\"citetype\": \"web\", \"url\": \"http://www.e-local.gob.mx/work/templates/enciclo/veracruz/municipios/30155a.htm\", \"title\": \"Tantoyuca\", \"publisher\": \"[[Instituto Nacional para el Federalismo y el Desarrollo Municipal]]\", \"accessdate\": \"6 November 2008\", \"urlstatus\": \"dead\", \"archiveurl\": \"https://web.archive.org/web/20070127023713/http://www.e-local.gob.mx/work/templates/enciclo/veracruz/municipios/30155a.htm\", \"archivedate\": \"27 January 2007\", \"work\": \"Enciclopedia de los Municipios de M\\u00e9xico\"}\n\nName\nTantoyuca comes from the Tenek tan-tuyik, which means \"place of wax.\"\n\nHistory\nTantoyuca was founded by Huastec people in pre-Hispanic times. It was conquered by the Mexica Triple Alliance in the late 15th or early 16th centuries. It was given town  (villa)  status on 12 April 1850 and city (ciudad) status on 25 July 1901.\n",
+    "content": "Tantoyuca\n\nTantoyuca  is a city in the Mexican state of Veracruz. It is located in the state's Huasteca Alta region. \nIt serves as the municipal seat of the surrounding municipality of Tantoyuca.\nIn the 2005 INEGI Census, the city of  Tantoyuca reported a total population of 23,893.{\"citetype\": \"web\", \"url\": \"http://www.e-local.gob.mx/work/templates/enciclo/veracruz/municipios/30155a.htm\", \"title\": \"Tantoyuca\", \"publisher\": \"[[Instituto Nacional para el Federalismo y el Desarrollo Municipal]]\", \"accessdate\": \"6 November 2008\", \"urlstatus\": \"dead\", \"archiveurl\": \"https://web.archive.org/web/20070127023713/http://www.e-local.gob.mx/work/templates/enciclo/veracruz/municipios/30155a.htm\", \"archivedate\": \"27 January 2007\", \"work\": \"Enciclopedia de los Municipios de M\\u00e9xico\", \"df\": \"dmy-all\"}\n\nName\nTantoyuca comes from the Tenek tan-tuyik, which means \"place of wax.\"\n\nHistory\nTantoyuca was founded by Huastec people in pre-Hispanic times. It was conquered by the Mexica Triple Alliance in the late 15th or early 16th centuries. It was given town  (villa)  status on 12 April 1850 and city (ciudad) status on 25 July 1901.\n",
     "statistic": {
         "total_citations_in_HTML": 1,
         "total_citations_in_dump": 1,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 1,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

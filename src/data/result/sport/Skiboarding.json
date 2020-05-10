@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Skiboarding",
-    "content": "Skiboarding\nSkiboarding is a type of freestyle skiing using short, usually double-tipped skis, regular ski boots and bindings, and no poles. It is also known as snowblading or skiblading. It is a recreational sport with no governing body or competition.\nThe first mass produced skiboard was the Austrian Kneissl Bigfoot in 1991.{\"citetype\": \"web\", \"url\": \"https://skiboards.eu/en/content/8-about-skiboarding\", \"title\": \"Skiboarding\", \"website\": \"skiboards.eu\"} American manufacturers such as Line Skis then began to produce skiboards, and the sport grew in popularity. From 1998 to 2000, skiboarding was part of the winter X Games in the slopestyle event. After it was dropped there was no longer a profession circuit for the sport, and many competitors switched to freestyle skiing on twin-tip skis. \nToday skiboards are available from major brands such as K2, Atomic, Elan, Head, and Salomon. \nSkiboards are from about 75 to 135\u00a0cm (2 to 4 feet) in length, with a parabolic shape like a snowboard, and a solid wood core.{\"citetype\": \"web\", \"url\": \"https://skiboards.com/frequently-asked-questions/\", \"title\": \"Frequently Asked Questions\", \"website\": \"skiboards.com\"} Length and width are a function of rider weight, skiing style, and conditions.\n",
+    "content": "Skiboarding\nSkiboarding is a type of freestyle skiing using short, usually double-tipped skis, regular ski boots and bindings, and no poles. It is also known as snowblading or skiblading. It is a recreational sport with no governing body or competition.\nThe first mass produced skiboard was the Austrian Kneissl Bigfoot in 1991.{\"citetype\": \"web\", \"url\": \"https://skiboards.eu/en/content/8-about-skiboarding\", \"title\": \"Skiboarding\", \"website\": \"skiboards.eu\", \"accessdate\": \"28 April 2019\"} American manufacturers such as Line Skis then began to produce skiboards, and the sport grew in popularity. From 1998 to 2000, skiboarding was part of the winter X Games in the slopestyle event. After it was dropped there was no longer a profession circuit for the sport, and many competitors switched to freestyle skiing on twin-tip skis. \nToday skiboards are available from major brands such as K2, Atomic, Elan, Head, and Salomon. \nSkiboards are from about 75 to 135\u00a0cm (2 to 4 feet) in length, with a parabolic shape like a snowboard, and a solid wood core.{\"citetype\": \"web\", \"url\": \"https://skiboards.com/frequently-asked-questions/\", \"title\": \"Frequently Asked Questions\", \"website\": \"skiboards.com\", \"accessdate\": \"28 April 2019\"} Length and width are a function of rider weight, skiing style, and conditions.\n",
     "statistic": {
         "total_citations_in_HTML": 2,
         "total_citations_in_dump": 2,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 2
+            "web": 2,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 2,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 2
+            "web": 2,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }

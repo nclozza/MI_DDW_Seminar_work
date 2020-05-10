@@ -1,6 +1,6 @@
 {
     "url": "http://en.wikipedia.org/wiki/Bidhuna",
-    "content": "Bidhuna\n\nBidhuna is a big town and a Nagar Panchayat in Auraiya district  in the state of Uttar Pradesh, India. Bidhuna has some temples. Durga Devi Mandir  is one of the oldest temple in the town. Bidhuna also have known as priest people live in bidhuna and around the town. Kotwali situated near State Bank of India, feeder road. Feeder road as like as Cannaught place of Bidhuna. famous market of Bidhuna Loha Mandi, Sabji Mandi, Gala Mandi, Takiya also most famous place.\n\nGeography\nBidhuna is located at 26\u00b049\u2032N 79\u00b031\u2032E\ufeff / \ufeff26.82\u00b0N 79.52\u00b0E\ufeff / 26.82; 79.52.[1] It has an average elevation of 533\u00a0metres (836\u00a0feet). Arind river crosses through Bidhuna.\n\nDemographics\nAs of 2018[update] India census,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2018: Data from the 2018 Census, including cities, villages and towns  (Provisional)\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Bidhuna had a population of 2,01,250 in the year of May 2019. Males constitute 53% of the population and females 47%. Bidhuna has an average literacy rate of 74%, higher than the national average of 59.5%; with male literacy of 78% and female literacy of 68%. 15% of the population is under 6 years of age.\n\nTransport\nUPSRTC has direct bus services from Bidhuna to Etawah, Bidhuna to Agra, Bidhuna to Delhi, Bidhuna Kanpur. Town is well connected with the major cities in the states like Kanpur (frequent via Bela), Delhi (frequency is less), Agra, Lucknow.\nIt has frequent services of private buses between Bidhuna and Etawah via Bharthana; between Bidhuna and Chhibaramau via Saurikh; and less frequent service of buses between Bidhuna and its district Auraiya.\n",
+    "content": "Bidhuna\n\nBidhuna is a big town and a Nagar Panchayat in Auraiya district  in the state of Uttar Pradesh, India. Bidhuna has some temples. Durga Devi Mandir  is one of the oldest temple in the town. Bidhuna also have known as priest people live in bidhuna and around the town. Kotwali situated near State Bank of India, feeder road. Feeder road as like as Cannaught place of Bidhuna. famous market of Bidhuna Loha Mandi, Sabji Mandi, Gala Mandi, Takiya also most famous place. It is also a educational hub for sorrounding villages. It has several degree colleges and good quality schools which attract numerous students.\n\nGeography\nBidhuna is located at 26\u00b049\u2032N 79\u00b031\u2032E\ufeff / \ufeff26.82\u00b0N 79.52\u00b0E\ufeff / 26.82; 79.52.[1] It has an average elevation of 533\u00a0metres (836\u00a0feet). Arind river crosses through Bidhuna.\n\nDemographics\nAs of 2018[update] India census,{\"citetype\": \"web\", \"url\": \"http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"title\": \"Census of India 2018: Data from the 2018 Census, including cities, villages and towns  (Provisional)\", \"publisher\": \"Census Commission of India\", \"accessdate\": \"2008-11-01\", \"archiveurl\": \"https://web.archive.org/web/20040616075334/http://www.censusindia.net/results/town.php?stad=A&state5=999\", \"archivedate\": \"2004-06-16\"} Bidhuna had a population of 2,01,250 in the year of May 2019. Males constitute 53% of the population and females 47%. Bidhuna has an average literacy rate of 74%, higher than the national average of 59.5%; with male literacy of 78% and female literacy of 68%. 15% of the population is under 6 years of age.\n\nTransport\nUPSRTC has direct bus services from Bidhuna to Etawah, Bidhuna to Agra, Bidhuna to Delhi, Bidhuna Kanpur. Town is well connected with the major cities in the states like Kanpur (frequent via Bela), Delhi (frequency is less), Agra, Lucknow.\nIt has frequent services of private buses between Bidhuna and Etawah via Bharthana; between Bidhuna and Chhibaramau via Saurikh; and less frequent service of buses between Bidhuna and its district Auraiya.\n",
     "statistic": {
         "total_citations_in_HTML": 2,
         "total_citations_in_dump": 1,
@@ -8,14 +8,24 @@
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         },
         "citations_matched": 1,
         "citations_matched_per_type": {
             "book": 0,
             "journal": 0,
             "news": 0,
-            "web": 1
+            "web": 1,
+            "conference": 0,
+            "court": 0,
+            "encyclopedia": 0,
+            "episode": 0,
+            "mailing_list": 0
         }
     }
 }
