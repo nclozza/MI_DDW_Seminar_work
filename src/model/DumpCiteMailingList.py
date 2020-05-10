@@ -7,7 +7,7 @@ from model.DumpCite import DumpCite
 class DumpCiteMailingList(DumpCite):
     def __init__(self, url="", title="", date="", accessdate="", mailinglist="", last="", first="", author="",
                  authorlink="", language="", quote="", archiveurl="", archivedate="", ref=""):
-        self.citetype = "mailing list"
+        self.citetype = "mailing_list"
         self.url = url
         self.title = title
         self.date = date
