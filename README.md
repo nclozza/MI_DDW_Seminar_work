@@ -92,3 +92,20 @@ The outputs are stored in `src/data/result`
 > cd src/HTMLCrawler
 > python HTML_crawler.py
 ```
+
+---
+
+### Code structure (`src`)
+
+- `common`: utilities and configurations used by the dump handler and the HTML crawler.
+- `data`
+  - `dbpedia`: `*.json` files with the URLs to be processed.
+  - `dumps`
+    - `available_urls`: `*.json` files with the URLs that are in the `dbpedia` folder and are available in the given dump file.
+    - `JSONLs_from_dump`: `*.jsonl` files with the references extracted and processed by the `dump_crawler`.
+    - `XMLs_from_dump`: `*.xml` files, product of splitting the whole dump into smaller files by the `xml_splitter`.
+  - `results`: the `*.json` files containing the content of the scrapped page, replacing the references with the ones well structured available in the dumps.
+- `DumpCrawler`: `xml_splitter` and `dump_crawler` services, with the corresponding configuration.
+- `HTMLCrawler`: `HTML_crawler` service with corresponding configuration and necessary files.
+- `model`: all the objects used by the program.
+- `query`: the queries used to get the data from the [dbpedia site](http://dbpedia.org/sparql).
